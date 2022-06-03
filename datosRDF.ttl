@@ -1,0 +1,38 @@
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/destination/CITY/Gualel> a schema:TouristDestination ;
+    schema:latitude -3.753627e+00 ;
+    schema:longitude -7.937311e+01 ;
+    schema:name "Gualel" .
+
+<http://example.org/destination/CITY/Jimbura> a schema:TouristDestination ;
+    schema:latitude -4.654335e+00 ;
+    schema:longitude -7.944393e+01 ;
+    schema:name "Jimbura" .
+
+<http://example.org/destination/CITY/Lluzhapa> a schema:TouristDestination ;
+    schema:latitude -3.492462e+00 ;
+    schema:longitude -7.932496e+01 ;
+    schema:name "Lluzhapa" .
+
+<http://example.org/destination/CITY/Manu> a schema:TouristDestination ;
+    schema:latitude -3.529194e+00 ;
+    schema:longitude -7.942642e+01 ;
+    schema:name "Manu" .
+
+<http://example.org/destination/CITY/Urdaneta> a schema:TouristDestination ;
+    schema:latitude -3.639434e+00 ;
+    schema:longitude -7.916831e+01 ;
+    schema:name "Urdaneta" .
+
+<http://example.org/destination/CITY/Vilcabamba> a schema:TouristDestination ;
+    schema:latitude -4.279783e+00 ;
+    schema:longitude -7.922829e+01 ;
+    schema:name "Vilcabamba" .
+
+<http://example.org/destination/CITY/Zapotillo> a schema:TouristDestination ;
+    schema:latitude -4.362287e+00 ;
+    schema:longitude -8.025714e+01 ;
+    schema:name "Zapotillo" .
+

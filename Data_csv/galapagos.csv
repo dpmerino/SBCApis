@@ -1,0 +1,17 @@
+group,entities/0/geoId,entities/0/destinationId,entities/0/landmarkCityDestinationId,entities/0/type,entities/0/redirectPage,entities/0/latitude,entities/0/longitude,entities/0/searchDetail,entities/0/caption,entities/0/name
+CITY_GROUP,602686,426848,,CITY,DEFAULT_PAGE,-0.7419694136612489,-90.31387544981472,,"Puerto Ayora, Galapagos, Ecuador",Puerto Ayora
+CITY_GROUP,6053670,1641807,,REGION,DEFAULT_PAGE,-0.6332870501456088,-90.37389323662065,,"Santa Cruz Island, Galapagos, Ecuador",Santa Cruz Island
+CITY_GROUP,3000421524,10413052,,REGION,DEFAULT_PAGE,-0.829237,-91.1353,,"Isla Isabela, Galapagos, Ecuador",Isla Isabela
+CITY_GROUP,6053725,1641409,,CITY,DEFAULT_PAGE,-0.652271,-90.406476,,"Santa Rosa, Galapagos, Ecuador",Santa Rosa
+CITY_GROUP,6138894,428056,,CITY,DEFAULT_PAGE,-0.9060093496708829,-89.61355204833818,,"Puerto Baquerizo Moreno, Galapagos, Ecuador",Puerto Baquerizo Moreno
+CITY_GROUP,6336492,1805922,,REGION,DEFAULT_PAGE,-0.4095701301323356,-90.35974366962695,,"Daphne Islands, Galapagos, Ecuador",Daphne Islands
+HOTEL_GROUP,2057779,392623,,HOTEL,DEFAULT_PAGE,-0.742589,-90.309715,,"Blu Galapagos, Puerto Ayora, Galapagos, Ecuador",Blu Galapagos
+HOTEL_GROUP,3156002,338932,,HOTEL,DEFAULT_PAGE,-0.73895,-90.313213,,"Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador",Galapagos Islands Hotel
+HOTEL_GROUP,15386708,600967,,HOTEL,DEFAULT_PAGE,-0.900687,-89.610632,,"Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador",Galapagos Sunset Hotel
+HOTEL_GROUP,9600457,484071,,HOTEL,DEFAULT_PAGE,-0.745322,-90.312467,,"Galapagos Native, Puerto Ayora, Galapagos, Ecuador",Galapagos Native
+HOTEL_GROUP,1862515,435825,,HOTEL,DEFAULT_PAGE,-0.753112,-90.3115,,"Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador",Finch Bay Galapagos Hotel
+HOTEL_GROUP,13419840,571577,,HOTEL,DEFAULT_PAGE,-0.905016,-89.605322,,"Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador",Galapagos Eco Friendly
+LANDMARK_GROUP,6171324,1722854,739209674992332800,LANDMARK,DEFAULT_PAGE,-0.7616426978281295,-90.3362684941123,,"Tortuga Bay Beach, Bella Vista, Galapagos, Ecuador",Tortuga Bay Beach
+LANDMARK_GROUP,6112453,1672267,,LANDMARK,DEFAULT_PAGE,-0.5498003584573473,-90.90013708011391,,"Galapagos National Park, Galapagos, Ecuador",Galapagos National Park
+LANDMARK_GROUP,553248621591293181,10455704,428056,LANDMARK,DEFAULT_PAGE,-0.894104,-89.609494,,"Galapagos Interpretation Center, Puerto Baquerizo Moreno, Galapagos, Ecuador",Galapagos Interpretation Center
+TRANSPORT_GROUP,,,,,,,,,,

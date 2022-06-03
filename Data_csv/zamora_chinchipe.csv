@@ -1,0 +1,19 @@
+group,entities/0/geoId,entities/0/destinationId,entities/0/landmarkCityDestinationId,entities/0/type,entities/0/redirectPage,entities/0/latitude,entities/0/longitude,entities/0/searchDetail,entities/0/caption,entities/0/name
+CITY_GROUP,6351038,1902341,,CITY,DEFAULT_PAGE,-4.157504776940945,-79.00206153034294,,"<span class='highlighted'>Zamora</span>, Zamora, Zamora Chinchipe, Ecuador",Zamora
+CITY_GROUP,739208494675509248,739208494675509248,,CITY,DEFAULT_PAGE,-4.101944953903783,-78.8962292618424,,"Timbara, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Timbara
+CITY_GROUP,739235202940157952,739235202940157952,,CITY,DEFAULT_PAGE,-3.569768329713045,-78.5874818276751,,"El Guisme, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",El Guisme
+CITY_GROUP,739210233835307008,739210233835307008,,CITY,DEFAULT_PAGE,-3.8800370565821423,-78.61723182288031,,"Bellavista, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Bellavista
+CITY_GROUP,739209745246924800,739209745246924800,,CITY,DEFAULT_PAGE,-4.069126182939849,-78.6770739609028,,"Guayzimi, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Guayzimi
+CITY_GROUP,739209952450998272,739209952450998272,,CITY,DEFAULT_PAGE,-4.872602990701721,-79.0080188875282,,"Chito, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Chito
+CITY_GROUP,553248635973462600,11396297,,CITY,DEFAULT_PAGE,-4.949922113891307,-79.12262184539036,,"Pucapamba, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Pucapamba
+CITY_GROUP,739208388722192384,739208388722192384,,CITY,DEFAULT_PAGE,-3.7521463609396877,-78.95406689767219,,"La Paz, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",La Paz
+CITY_GROUP,739210179697127424,739210179697127424,,CITY,DEFAULT_PAGE,-4.005933552783452,-79.06260713888886,,"Sabanilla, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Sabanilla
+CITY_GROUP,739210047945650176,739210047945650176,,CITY,DEFAULT_PAGE,-3.6499263159294073,-78.74973106850477,,"Chicaña, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Chicaña
+CITY_GROUP,739208927369777152,739208927369777152,,CITY,DEFAULT_PAGE,-4.009801981023128,-78.59976015288841,,"Nuevo Quito, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Nuevo Quito
+CITY_GROUP,3000005959,10380330,,CITY,DEFAULT_PAGE,-3.82778,-78.759399,,"Yantzaza, Yantzaza, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Yantzaza
+CITY_GROUP,739234429935570944,739234429935570944,,CITY,DEFAULT_PAGE,-3.610602903889037,-78.45180459210148,,"Tundayme, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Tundayme
+CITY_GROUP,739209498534227968,739209498534227968,,CITY,DEFAULT_PAGE,-3.470112370548429,-78.96366502923343,,"Tutupali, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Tutupali
+CITY_GROUP,739209207839600640,739209207839600640,,CITY,DEFAULT_PAGE,-3.8419913485616695,-79.09117196366707,,"Imbana, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",Imbana
+HOTEL_GROUP,,,,,,,,,,
+LANDMARK_GROUP,,,,,,,,,,
+TRANSPORT_GROUP,,,,,,,,,,

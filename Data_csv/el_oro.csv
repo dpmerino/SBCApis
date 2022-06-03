@@ -1,0 +1,18 @@
+group,entities/0/geoId,entities/0/destinationId,entities/0/landmarkCityDestinationId,entities/0/type,entities/0/redirectPage,entities/0/latitude,entities/0/longitude,entities/0/searchDetail,entities/0/caption,entities/0/name
+CITY_GROUP,3000367121,10395411,,CITY,DEFAULT_PAGE,-3.659646,-79.729309,,"Pinas, <span class='highlighted'>El</span> Oro, Ecuador",Pinas
+CITY_GROUP,553248635975860594,12467920,,CITY,DEFAULT_PAGE,-3.2630118463610716,-79.88270956883079,,"<span class='highlighted'>El</span> Portón, Machala, El Oro, Ecuador",El Portón
+CITY_GROUP,739209820215463936,739209820215463936,,CITY,DEFAULT_PAGE,-3.7331129628948516,-79.54048058688872,,"Curtincapac, <span class='highlighted'>El</span> Oro, Ecuador",Curtincapac
+CITY_GROUP,739210043482075136,739210043482075136,,CITY,DEFAULT_PAGE,-3.554581977086785,-79.62909109700841,,"Cordoncillo, <span class='highlighted'>El</span> Oro, Ecuador",Cordoncillo
+CITY_GROUP,739208694087692288,739208694087692288,,CITY,DEFAULT_PAGE,-3.33802755649981,-79.51931045620599,,"Abañin, <span class='highlighted'>El</span> Oro, Ecuador",Abañin
+CITY_GROUP,739210210053570560,739210210053570560,,CITY,DEFAULT_PAGE,-3.561670341854733,-79.66169472740364,,"Paccha, <span class='highlighted'>El</span> Oro, Ecuador",Paccha
+CITY_GROUP,739209686715412480,739209686715412480,,CITY,DEFAULT_PAGE,-3.6735575038145534,-79.63021913192861,,"Malvas, <span class='highlighted'>El</span> Oro, Ecuador",Malvas
+CITY_GROUP,739209667079327744,739209667079327744,,CITY,DEFAULT_PAGE,-3.765726130970459,-79.49454961663938,,"Salatí, <span class='highlighted'>El</span> Oro, Ecuador",Salatí
+CITY_GROUP,739210124843184128,739210124843184128,,CITY,DEFAULT_PAGE,-3.5926691442644936,-79.52293748058044,,"Salvias, <span class='highlighted'>El</span> Oro, Ecuador",Salvias
+CITY_GROUP,739210190431997952,739210190431997952,,CITY,DEFAULT_PAGE,-3.351141135638959,-79.59849995914702,,"Uzhcurrumi, <span class='highlighted'>El</span> Oro, Ecuador",Uzhcurrumi
+CITY_GROUP,739208440231378944,739208440231378944,,CITY,DEFAULT_PAGE,-3.728284925931004,-79.94589694631655,,"<span class='highlighted'>El</span> Ingenio, El Oro, Ecuador",El Ingenio
+CITY_GROUP,553248635975861871,12465520,,CITY,DEFAULT_PAGE,-3.3779661988647507,-79.95935860085592,,"<span class='highlighted'>El</span> Retiro, El Oro, Ecuador",El Retiro
+CITY_GROUP,553248635975856281,12456295,,CITY,DEFAULT_PAGE,-3.3109884560406777,-79.85120654007001,,"La Peaña, <span class='highlighted'>El</span> Oro, Ecuador",La Peaña
+CITY_GROUP,739209799222587392,739209799222587392,,CITY,DEFAULT_PAGE,-3.4441731749188684,-79.5002808014698,,"Guanazan, <span class='highlighted'>El</span> Oro, Ecuador",Guanazan
+HOTEL_GROUP,,,,,,,,,,
+LANDMARK_GROUP,553248635976197634,553248635976197634,,LANDMARK,DEFAULT_PAGE,-3.6,-79.9833335,,"Albaja, <span class='highlighted'>El</span> Oro, Ecuador",Albaja
+TRANSPORT_GROUP,,,,,,,,,,

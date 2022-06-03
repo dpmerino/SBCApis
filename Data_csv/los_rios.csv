@@ -1,0 +1,17 @@
+group,entities/0/geoId,entities/0/destinationId,entities/0/landmarkCityDestinationId,entities/0/type,entities/0/redirectPage,entities/0/latitude,entities/0/longitude,entities/0/searchDetail,entities/0/caption,entities/0/name
+CITY_GROUP,739210039707201536,739210039707201536,,CITY,DEFAULT_PAGE,-1.5909698107524968,-79.6555579980544,,"Guare, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Guare
+CITY_GROUP,6358973,1910260,,CITY,DEFAULT_PAGE,-1.0259095796596986,-79.47892607595729,,"Quevedo, Quevedo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Quevedo
+CITY_GROUP,739209391600189440,739209391600189440,,CITY,DEFAULT_PAGE,-1.6878787261626043,-79.63482525647129,,"Isla de Bejucal, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Isla de Bejucal
+CITY_GROUP,739209731200401408,739209731200401408,,CITY,DEFAULT_PAGE,-1.7829738282912473,-79.57179588390206,,"Pimocha, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Pimocha
+CITY_GROUP,553248635931203149,11411425,,CITY,DEFAULT_PAGE,-1.8529876957317815,-79.50800707285184,,"Babahoyo, Babahoyo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Babahoyo
+CITY_GROUP,739209436453425152,739209436453425152,,CITY,DEFAULT_PAGE,-1.5632908018387546,-79.37461911589988,,"Ricaurte, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Ricaurte
+CITY_GROUP,739208526646624256,739208526646624256,,CITY,DEFAULT_PAGE,-1.5889230365040685,-79.48295577039097,,"Catarama, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Catarama
+CITY_GROUP,739209708421394432,739209708421394432,,CITY,DEFAULT_PAGE,-1.8054880130288866,-79.31763149721372,,"Montalvo, Montalvo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Montalvo
+CITY_GROUP,739209748889677824,739209748889677824,,CITY,DEFAULT_PAGE,-1.5542705254483493,-79.54125280859513,,"Puebloviejo, Puebloviejo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Puebloviejo
+HOTEL_GROUP,24305501,778776032,,HOTEL,DEFAULT_PAGE,-1.396638,-78.422008,,"<span class='highlighted'>Los</span> Ríos Hotel, Baños de Agua Santa, Tungurahua, Ecuador",Los Ríos Hotel
+HOTEL_GROUP,27261524,873368768,,HOTEL,DEFAULT_PAGE,-1.797896,-79.5322,,"Hotel Cachari, Babahoyo, Babahoyo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Hotel Cachari
+HOTEL_GROUP,15525794,603658,,HOTEL,DEFAULT_PAGE,-1.03406,-79.46841,,"Hotel Olimpico Quevedo, Quevedo, Quevedo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Hotel Olimpico Quevedo
+LANDMARK_GROUP,553248622108377656,10459318,1910260,LANDMARK,DEFAULT_PAGE,-1.023949,-79.465246,,"Palacio de Cristal, Quevedo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Palacio de Cristal
+LANDMARK_GROUP,553248622108377659,10459384,1910260,LANDMARK,DEFAULT_PAGE,-1.024279,-79.466646,,"Iglesia San Jose, Quevedo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Iglesia San Jose
+LANDMARK_GROUP,553248635976197368,553248635976197368,,LANDMARK,DEFAULT_PAGE,-0.9044894999999998,-79.464759,,"Rió Bajaña, <span class='highlighted'>Los</span> Ríos Province, Ecuador",Rió Bajaña
+TRANSPORT_GROUP,,,,,,,,,,

@@ -1,0 +1,17 @@
+group,entities/0/geoId,entities/0/destinationId,entities/0/landmarkCityDestinationId,entities/0/type,entities/0/redirectPage,entities/0/latitude,entities/0/longitude,entities/0/searchDetail,entities/0/caption,entities/0/name
+CITY_GROUP,739209885814378496,739209885814378496,,CITY,DEFAULT_PAGE,-0.8989258589556418,-78.84193959966555,,"Guanguaje, Cotopaxi Province, Ecuador",Guanguaje
+CITY_GROUP,6351073,1902376,,CITY,DEFAULT_PAGE,-0.728860179871534,-78.51014851259225,,"Mulalo, Cotopaxi Province, Ecuador",Mulalo
+CITY_GROUP,553248635975848880,12516168,,CITY,DEFAULT_PAGE,-1.083792,-78.63399199999999,,"Hacienda Cusubambito, Cotopaxi Province, Ecuador",Hacienda Cusubambito
+CITY_GROUP,739209064945696768,739209064945696768,,CITY,DEFAULT_PAGE,-0.6644388617566717,-79.08032570851051,,"Pucayacu, Cotopaxi Province, Ecuador",Pucayacu
+CITY_GROUP,739208268537344000,739208268537344000,,CITY,DEFAULT_PAGE,-0.4295115511768822,-78.90502476188095,,"Palo Quemado, Cotopaxi Province, Ecuador",Palo Quemado
+CITY_GROUP,739208297474015232,739208297474015232,,CITY,DEFAULT_PAGE,-0.8504952224501332,-78.4942295266684,,"Alaques, Cotopaxi Province, Ecuador",Alaques
+CITY_GROUP,6145303,431436,,CITY,DEFAULT_PAGE,-0.9241981634989865,-78.5440244497558,,"Latacunga, Latacunga, Cotopaxi Province, Ecuador",Latacunga
+CITY_GROUP,739208315593699328,739208315593699328,,CITY,DEFAULT_PAGE,-0.6818827481819502,-78.6350776710241,,"San Juan de Pastocalle, Cotopaxi Province, Ecuador",San Juan de Pastocalle
+HOTEL_GROUP,15368348,597977,,HOTEL,DEFAULT_PAGE,-0.467719,-78.431679,,"CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador",CotopaxiPungo Finca Hotel
+HOTEL_GROUP,70396487,2253687584,,HOTEL,DEFAULT_PAGE,-0.932234,-78.616261,,"REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador",REEC Latacunga by Oro Verde Hotels
+HOTEL_GROUP,34485285,1104529120,,HOTEL,DEFAULT_PAGE,-0.933006,-78.6157,,"Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador",Hotel Rodelu
+LANDMARK_GROUP,553248633861906743,10802650,427519,LANDMARK,DEFAULT_PAGE,-0.684927,-78.437053,,"Cotopaxi Mountain, Machachi, Pichincha, Ecuador",Cotopaxi Mountain
+LANDMARK_GROUP,6239488,1756654,1902377,LANDMARK,DEFAULT_PAGE,-0.862159,-78.910835,,"Quilotoa Lagoon, Chugchilan, Cotopaxi Province, Ecuador",Quilotoa Lagoon
+LANDMARK_GROUP,6348092,1812892,,LANDMARK,DEFAULT_PAGE,-0.8578747112648194,-78.90663207138059,,"Quilotoa, Chugchilan, Cotopaxi Province, Ecuador",Quilotoa
+LANDMARK_GROUP,6112407,1672229,,LANDMARK,DEFAULT_PAGE,-0.6570051779879084,-78.46465714129104,,"Cotopaxi National Park, Ecuador",Cotopaxi National Park
+TRANSPORT_GROUP,,,,,,,,,,

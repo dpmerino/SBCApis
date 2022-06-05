@@ -51,7 +51,72 @@
     schema:longitude -8.025714e+01 ;
     schema:name "Zapotillo" .
 
-<http://example.org/destination/Ecuador> a schema:State ;
+<http://example.org/destination/LANDMARK/LojaCathedral> a schema:TouristDestination ;
+    schema:City <http://example.org/destination/Loja> ;
+    schema:Country <http://example.org/destination/Ecuador> ;
+    schema:State <http://example.org/destination/LojaProvince> ;
+    schema:latitude -3.99648e+00 ;
+    schema:longitude -7.920131e+01 ;
+    schema:name "Loja Cathedral" .
+
+<http://example.org/destination/LANDMARK/LojaCityGates> a schema:TouristDestination ;
+    schema:City <http://example.org/destination/Loja> ;
+    schema:Country <http://example.org/destination/Ecuador> ;
+    schema:State <http://example.org/destination/LojaProvince> ;
+    schema:latitude -3.989522e+00 ;
+    schema:longitude -7.920425e+01 ;
+    schema:name "Loja City Gates" .
+
+<http://example.org/destination/LANDMARK/LojaMusicMuseum> a schema:TouristDestination ;
+    schema:City <http://example.org/destination/Loja> ;
+    schema:Country <http://example.org/destination/Ecuador> ;
+    schema:State <http://example.org/destination/LojaProvince> ;
+    schema:latitude -3.9981e+00 ;
+    schema:longitude -7.920116e+01 ;
+    schema:name "Loja Music Museum" .
+
+<http://example.org/destination/LANDMARK/ParqueUniversitarioLaArgelia> a schema:TouristDestination ;
+    schema:City <http://example.org/destination/Loja> ;
+    schema:Country <http://example.org/destination/Ecuador> ;
+    schema:State <http://example.org/destination/LojaProvince> ;
+    schema:latitude -3.9994e+00 ;
+    schema:longitude -7.9203e+01 ;
+    schema:name "Parque Universitario La Argelia" .
+
+<http://example.org/destination/LANDMARK/SaraguroMarket> a schema:TouristDestination ;
+    schema:City <http://example.org/destination/Saraguro> ;
+    schema:Country <http://example.org/destination/Ecuador> ;
+    schema:State <http://example.org/destination/LojaProvince> ;
+    schema:latitude -3.62201e+00 ;
+    schema:longitude -7.92397e+01 ;
+    schema:name "Saraguro Market" .
+
+<http://example.org/destination/LANDMARK/VilcabambaChurch> a schema:TouristDestination ;
+    schema:City <http://example.org/destination/Vilcabamba> ;
+    schema:Country <http://example.org/destination/Ecuador> ;
+    schema:State <http://example.org/destination/LojaProvince> ;
+    schema:latitude -4.262117e+00 ;
+    schema:longitude -7.922274e+01 ;
+    schema:name "Vilcabamba Church" .
+
+<http://example.org/destination/LANDMARK/WaterfallofSininkapak> a schema:TouristDestination ;
+    schema:City <http://example.org/destination/Saraguro> ;
+    schema:Country <http://example.org/destination/Ecuador> ;
+    schema:State <http://example.org/destination/LojaProvince> ;
+    schema:latitude -3.632289e+00 ;
+    schema:longitude -7.922106e+01 ;
+    schema:name "Waterfall of Sininkapak" .
+
+<http://example.org/destination/Vilcabamba> a schema:City ;
+    rdfs:label " Vilcabamba" .
+
+<http://example.org/destination/Saraguro> a schema:City ;
+    rdfs:label " Saraguro" .
+
+<http://example.org/destination/Loja> a schema:City ;
+    rdfs:label " Loja" .
+
+<http://example.org/destination/Ecuador> a schema:Country ;
     rdfs:label " Ecuador" .
 
 <http://example.org/destination/LojaProvince> a schema:State ;

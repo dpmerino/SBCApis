@@ -1,0 +1,3328 @@
+[
+    {
+        "term": "azuay,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "fb666bb7087d466db1120cd197945417",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "932",
+                        "destinationId": "1756733",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.898429,
+                        "longitude": -79.00612,
+                        "searchDetail": null,
+                        "caption": "Cuenca, Cuenca, Azuay, Ecuador",
+                        "name": "Cuenca"
+                    },
+                    {
+                        "geoId": "6352745",
+                        "destinationId": "1904015",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.98304422627424,
+                        "longitude": -79.2253062140493,
+                        "searchDetail": null,
+                        "caption": "Banos, Azuay, Ecuador",
+                        "name": "Banos"
+                    },
+                    {
+                        "geoId": "739208699751190528",
+                        "destinationId": "739208699751190528",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.1081507949320994,
+                        "longitude": -79.39026809137778,
+                        "searchDetail": null,
+                        "caption": "Shagli, Azuay, Ecuador",
+                        "name": "Shagli"
+                    },
+                    {
+                        "geoId": "553248635975853534",
+                        "destinationId": "12524786",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.8069405,
+                        "longitude": -79.00727100000002,
+                        "searchDetail": null,
+                        "caption": "San Luis, Azuay, Ecuador",
+                        "name": "San Luis"
+                    },
+                    {
+                        "geoId": "739208594822287360",
+                        "destinationId": "739208594822287360",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.961720954149792,
+                        "longitude": -78.824467992699,
+                        "searchDetail": null,
+                        "caption": "San Juan, Azuay, Ecuador",
+                        "name": "San Juan"
+                    },
+                    {
+                        "geoId": "6353471",
+                        "destinationId": "1904738",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.6280236938293737,
+                        "longitude": -78.52552977771,
+                        "searchDetail": null,
+                        "caption": "Amaluza, Azuay, Ecuador",
+                        "name": "Amaluza"
+                    },
+                    {
+                        "geoId": "553248635975864372",
+                        "destinationId": "12524411",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.8627576907846572,
+                        "longitude": -78.89284464407703,
+                        "searchDetail": null,
+                        "caption": "Nulti, Azuay, Ecuador",
+                        "name": "Nulti"
+                    },
+                    {
+                        "geoId": "739208367022960640",
+                        "destinationId": "739208367022960640",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.698592801035996,
+                        "longitude": -78.60343912266555,
+                        "searchDetail": null,
+                        "caption": "Palmas, Azuay, Ecuador",
+                        "name": "Palmas"
+                    },
+                    {
+                        "geoId": "553248635976386313",
+                        "destinationId": "12527667",
+                        "landmarkCityDestinationId": null,
+                        "type": "NEIGHBORHOOD",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.886929302476624,
+                        "longitude": -79.02680572151344,
+                        "searchDetail": null,
+                        "caption": "San Sebastián, Cuenca, Azuay, Ecuador",
+                        "name": "San Sebastián"
+                    },
+                    {
+                        "geoId": "553248635975871657",
+                        "destinationId": "12524102",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.024671616985845,
+                        "longitude": -78.71654592651109,
+                        "searchDetail": null,
+                        "caption": "Principal, Azuay, Ecuador",
+                        "name": "Principal"
+                    },
+                    {
+                        "geoId": "739210059899584512",
+                        "destinationId": "739210059899584512",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.0263134490816954,
+                        "longitude": -78.76281088049963,
+                        "searchDetail": null,
+                        "caption": "Güel, Azuay, Ecuador",
+                        "name": "Güel"
+                    },
+                    {
+                        "geoId": "3000461391",
+                        "destinationId": "10428091",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.14828,
+                        "longitude": -79.103828,
+                        "searchDetail": null,
+                        "caption": "Giron, Azuay, Ecuador",
+                        "name": "Giron"
+                    },
+                    {
+                        "geoId": "739209333404221440",
+                        "destinationId": "739209333404221440",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.2314363332580736,
+                        "longitude": -79.24425242245984,
+                        "searchDetail": null,
+                        "caption": "Asuncion, Azuay, Ecuador",
+                        "name": "Asuncion"
+                    },
+                    {
+                        "geoId": "6350738",
+                        "destinationId": "1902046",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.2845211489744552,
+                        "longitude": -79.04288279542307,
+                        "searchDetail": null,
+                        "caption": "Nabon, Azuay, Ecuador",
+                        "name": "Nabon"
+                    },
+                    {
+                        "geoId": "739210153225236480",
+                        "destinationId": "739210153225236480",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.096483769763451,
+                        "longitude": -79.24640754898066,
+                        "searchDetail": null,
+                        "caption": "Chumblín, Azuay, Ecuador",
+                        "name": "Chumblín"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": []
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "carchi,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "4b03051ebd6a41d4ba6284f173b97184",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "3560",
+                        "destinationId": "427497",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.7727087622198128,
+                        "longitude": -77.76355769869984,
+                        "searchDetail": null,
+                        "caption": "Tulcan, Carchi, Ecuador",
+                        "name": "Tulcan"
+                    },
+                    {
+                        "geoId": "739209841582960640",
+                        "destinationId": "739209841582960640",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.7048655645488515,
+                        "longitude": -77.96088528746144,
+                        "searchDetail": null,
+                        "caption": "La Libertad, Carchi, Ecuador",
+                        "name": "La Libertad"
+                    },
+                    {
+                        "geoId": "739209053681692672",
+                        "destinationId": "739209053681692672",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.9962967586680864,
+                        "longitude": -78.26126387737317,
+                        "searchDetail": null,
+                        "caption": "Chical, Carchi, Ecuador",
+                        "name": "Chical"
+                    },
+                    {
+                        "geoId": "553248635975871986",
+                        "destinationId": "12465213",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.5180926198560285,
+                        "longitude": -77.84750822117506,
+                        "searchDetail": null,
+                        "caption": "La Paz, Carchi, Ecuador",
+                        "name": "La Paz"
+                    },
+                    {
+                        "geoId": "6351118",
+                        "destinationId": "1902421",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.6434494730829735,
+                        "longitude": -77.97236077353128,
+                        "searchDetail": null,
+                        "caption": "El Angel, Carchi, Ecuador",
+                        "name": "El Angel"
+                    },
+                    {
+                        "geoId": "739209487228481536",
+                        "destinationId": "739209487228481536",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.630755298229135,
+                        "longitude": -77.72425658004336,
+                        "searchDetail": null,
+                        "caption": "Huaca, Carchi, Ecuador",
+                        "name": "Huaca"
+                    },
+                    {
+                        "geoId": "553248635975862497",
+                        "destinationId": "12458536",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.572727766413529,
+                        "longitude": -77.82062947926285,
+                        "searchDetail": null,
+                        "caption": "San Gabriel, Carchi, Ecuador",
+                        "name": "San Gabriel"
+                    },
+                    {
+                        "geoId": "739208413597515776",
+                        "destinationId": "739208413597515776",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.6119293202720327,
+                        "longitude": -77.99508758758779,
+                        "searchDetail": null,
+                        "caption": "San Isidro, Carchi, Ecuador",
+                        "name": "San Isidro"
+                    },
+                    {
+                        "geoId": "739209396035465216",
+                        "destinationId": "739209396035465216",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.6595225193010943,
+                        "longitude": -77.60754146546024,
+                        "searchDetail": null,
+                        "caption": "El Carmelo, Carchi, Ecuador",
+                        "name": "El Carmelo"
+                    },
+                    {
+                        "geoId": "739209693736878080",
+                        "destinationId": "739209693736878080",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.39696617543228496,
+                        "longitude": -77.8433249328579,
+                        "searchDetail": null,
+                        "caption": "Monte Olivo, Carchi, Ecuador",
+                        "name": "Monte Olivo"
+                    },
+                    {
+                        "geoId": "739208793484017664",
+                        "destinationId": "739208793484017664",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.5597588390556725,
+                        "longitude": -78.04776069354855,
+                        "searchDetail": null,
+                        "caption": "Mira, Mira, Carchi, Ecuador",
+                        "name": "Mira"
+                    },
+                    {
+                        "geoId": "739209416791146496",
+                        "destinationId": "739209416791146496",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.6580237153967372,
+                        "longitude": -78.1108533544168,
+                        "searchDetail": null,
+                        "caption": "Concepcion, Carchi, Ecuador",
+                        "name": "Concepcion"
+                    },
+                    {
+                        "geoId": "739208238636609536",
+                        "destinationId": "739208238636609536",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.4827475087625878,
+                        "longitude": -77.95735611588422,
+                        "searchDetail": null,
+                        "caption": "Los Andes, Carchi, Ecuador",
+                        "name": "Los Andes"
+                    },
+                    {
+                        "geoId": "739208179099652096",
+                        "destinationId": "739208179099652096",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 1.0184262975517717,
+                        "longitude": -78.4271522155844,
+                        "searchDetail": null,
+                        "caption": "Tobar Donos, Carchi, Ecuador",
+                        "name": "Tobar Donos"
+                    },
+                    {
+                        "geoId": "739209622788128768",
+                        "destinationId": "739209622788128768",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.7623168612111544,
+                        "longitude": -77.87031034259289,
+                        "searchDetail": null,
+                        "caption": "Tufiño, Carchi, Ecuador",
+                        "name": "Tufiño"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": []
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "cotopaxi,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "15db06f496b44ee380916beefc4937a7",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "739209885814378496",
+                        "destinationId": "739209885814378496",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.8989258589556418,
+                        "longitude": -78.84193959966555,
+                        "searchDetail": null,
+                        "caption": "Guanguaje, Cotopaxi Province, Ecuador",
+                        "name": "Guanguaje"
+                    },
+                    {
+                        "geoId": "6351073",
+                        "destinationId": "1902376",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.728860179871534,
+                        "longitude": -78.51014851259225,
+                        "searchDetail": null,
+                        "caption": "Mulalo, Cotopaxi Province, Ecuador",
+                        "name": "Mulalo"
+                    },
+                    {
+                        "geoId": "553248635975848880",
+                        "destinationId": "12516168",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.083792,
+                        "longitude": -78.63399199999999,
+                        "searchDetail": null,
+                        "caption": "Hacienda Cusubambito, Cotopaxi Province, Ecuador",
+                        "name": "Hacienda Cusubambito"
+                    },
+                    {
+                        "geoId": "739209064945696768",
+                        "destinationId": "739209064945696768",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.6644388617566717,
+                        "longitude": -79.08032570851051,
+                        "searchDetail": null,
+                        "caption": "Pucayacu, Cotopaxi Province, Ecuador",
+                        "name": "Pucayacu"
+                    },
+                    {
+                        "geoId": "739208268537344000",
+                        "destinationId": "739208268537344000",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.4295115511768822,
+                        "longitude": -78.90502476188095,
+                        "searchDetail": null,
+                        "caption": "Palo Quemado, Cotopaxi Province, Ecuador",
+                        "name": "Palo Quemado"
+                    },
+                    {
+                        "geoId": "739208297474015232",
+                        "destinationId": "739208297474015232",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.8504952224501332,
+                        "longitude": -78.4942295266684,
+                        "searchDetail": null,
+                        "caption": "Alaques, Cotopaxi Province, Ecuador",
+                        "name": "Alaques"
+                    },
+                    {
+                        "geoId": "6145303",
+                        "destinationId": "431436",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.9241981634989865,
+                        "longitude": -78.5440244497558,
+                        "searchDetail": null,
+                        "caption": "Latacunga, Latacunga, Cotopaxi Province, Ecuador",
+                        "name": "Latacunga"
+                    },
+                    {
+                        "geoId": "739208315593699328",
+                        "destinationId": "739208315593699328",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.6818827481819502,
+                        "longitude": -78.6350776710241,
+                        "searchDetail": null,
+                        "caption": "San Juan de Pastocalle, Cotopaxi Province, Ecuador",
+                        "name": "San Juan de Pastocalle"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": [
+                    {
+                        "geoId": "15368348",
+                        "destinationId": "597977",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.467719,
+                        "longitude": -78.431679,
+                        "searchDetail": null,
+                        "caption": "CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador",
+                        "name": "CotopaxiPungo Finca Hotel"
+                    },
+                    {
+                        "geoId": "70396487",
+                        "destinationId": "2253687584",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.932234,
+                        "longitude": -78.616261,
+                        "searchDetail": null,
+                        "caption": "REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador",
+                        "name": "REEC Latacunga by Oro Verde Hotels"
+                    },
+                    {
+                        "geoId": "34485285",
+                        "destinationId": "1104529120",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.933006,
+                        "longitude": -78.6157,
+                        "searchDetail": null,
+                        "caption": "Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador",
+                        "name": "Hotel Rodelu"
+                    }
+                ]
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": [
+                    {
+                        "geoId": "553248633861906743",
+                        "destinationId": "10802650",
+                        "landmarkCityDestinationId": "427519",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.684927,
+                        "longitude": -78.437053,
+                        "searchDetail": null,
+                        "caption": "Cotopaxi Mountain, Machachi, Pichincha, Ecuador",
+                        "name": "Cotopaxi Mountain"
+                    },
+                    {
+                        "geoId": "6239488",
+                        "destinationId": "1756654",
+                        "landmarkCityDestinationId": "1902377",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.862159,
+                        "longitude": -78.910835,
+                        "searchDetail": null,
+                        "caption": "Quilotoa Lagoon, Chugchilan, Cotopaxi Province, Ecuador",
+                        "name": "Quilotoa Lagoon"
+                    },
+                    {
+                        "geoId": "6348092",
+                        "destinationId": "1812892",
+                        "landmarkCityDestinationId": null,
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.8578747112648194,
+                        "longitude": -78.90663207138059,
+                        "searchDetail": null,
+                        "caption": "Quilotoa, Chugchilan, Cotopaxi Province, Ecuador",
+                        "name": "Quilotoa"
+                    },
+                    {
+                        "geoId": "6112407",
+                        "destinationId": "1672229",
+                        "landmarkCityDestinationId": null,
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.6570051779879084,
+                        "longitude": -78.46465714129104,
+                        "searchDetail": null,
+                        "caption": "Cotopaxi National Park, Ecuador",
+                        "name": "Cotopaxi National Park"
+                    }
+                ]
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "el oro,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "d9ece7b006ee4686a61632fa9bbb42b8",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "3000367121",
+                        "destinationId": "10395411",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.659646,
+                        "longitude": -79.729309,
+                        "searchDetail": null,
+                        "caption": "Pinas, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Pinas"
+                    },
+                    {
+                        "geoId": "553248635975860594",
+                        "destinationId": "12467920",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.2630118463610716,
+                        "longitude": -79.88270956883079,
+                        "searchDetail": null,
+                        "caption": "<span class='highlighted'>El</span> Portón, Machala, El Oro, Ecuador",
+                        "name": "El Portón"
+                    },
+                    {
+                        "geoId": "739209820215463936",
+                        "destinationId": "739209820215463936",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.7331129628948516,
+                        "longitude": -79.54048058688872,
+                        "searchDetail": null,
+                        "caption": "Curtincapac, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Curtincapac"
+                    },
+                    {
+                        "geoId": "739210043482075136",
+                        "destinationId": "739210043482075136",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.554581977086785,
+                        "longitude": -79.62909109700841,
+                        "searchDetail": null,
+                        "caption": "Cordoncillo, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Cordoncillo"
+                    },
+                    {
+                        "geoId": "739208694087692288",
+                        "destinationId": "739208694087692288",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.33802755649981,
+                        "longitude": -79.51931045620599,
+                        "searchDetail": null,
+                        "caption": "Abañin, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Abañin"
+                    },
+                    {
+                        "geoId": "739210210053570560",
+                        "destinationId": "739210210053570560",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.561670341854733,
+                        "longitude": -79.66169472740364,
+                        "searchDetail": null,
+                        "caption": "Paccha, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Paccha"
+                    },
+                    {
+                        "geoId": "739209686715412480",
+                        "destinationId": "739209686715412480",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.6735575038145534,
+                        "longitude": -79.63021913192861,
+                        "searchDetail": null,
+                        "caption": "Malvas, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Malvas"
+                    },
+                    {
+                        "geoId": "739209667079327744",
+                        "destinationId": "739209667079327744",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.765726130970459,
+                        "longitude": -79.49454961663938,
+                        "searchDetail": null,
+                        "caption": "Salatí, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Salatí"
+                    },
+                    {
+                        "geoId": "739210124843184128",
+                        "destinationId": "739210124843184128",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.5926691442644936,
+                        "longitude": -79.52293748058044,
+                        "searchDetail": null,
+                        "caption": "Salvias, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Salvias"
+                    },
+                    {
+                        "geoId": "739210190431997952",
+                        "destinationId": "739210190431997952",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.351141135638959,
+                        "longitude": -79.59849995914702,
+                        "searchDetail": null,
+                        "caption": "Uzhcurrumi, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Uzhcurrumi"
+                    },
+                    {
+                        "geoId": "739208440231378944",
+                        "destinationId": "739208440231378944",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.728284925931004,
+                        "longitude": -79.94589694631655,
+                        "searchDetail": null,
+                        "caption": "<span class='highlighted'>El</span> Ingenio, El Oro, Ecuador",
+                        "name": "El Ingenio"
+                    },
+                    {
+                        "geoId": "553248635975861871",
+                        "destinationId": "12465520",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.3779661988647507,
+                        "longitude": -79.95935860085592,
+                        "searchDetail": null,
+                        "caption": "<span class='highlighted'>El</span> Retiro, El Oro, Ecuador",
+                        "name": "El Retiro"
+                    },
+                    {
+                        "geoId": "553248635975856281",
+                        "destinationId": "12456295",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.3109884560406777,
+                        "longitude": -79.85120654007001,
+                        "searchDetail": null,
+                        "caption": "La Peaña, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "La Peaña"
+                    },
+                    {
+                        "geoId": "739209799222587392",
+                        "destinationId": "739209799222587392",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.4441731749188684,
+                        "longitude": -79.5002808014698,
+                        "searchDetail": null,
+                        "caption": "Guanazan, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Guanazan"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": [
+                    {
+                        "geoId": "553248635976197634",
+                        "destinationId": "553248635976197634",
+                        "landmarkCityDestinationId": null,
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.6,
+                        "longitude": -79.9833335,
+                        "searchDetail": null,
+                        "caption": "Albaja, <span class='highlighted'>El</span> Oro, Ecuador",
+                        "name": "Albaja"
+                    }
+                ]
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "esmeraldas,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "9dad9be27a4d4c989e3e97290c30cd86",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "553248634867083871",
+                        "destinationId": "10996972",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.9369298794709101,
+                        "longitude": -79.79836996484302,
+                        "searchDetail": null,
+                        "caption": "Tonsupa, Esmeraldas Province, Ecuador",
+                        "name": "Tonsupa"
+                    },
+                    {
+                        "geoId": "739209959928381440",
+                        "destinationId": "739209959928381440",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 1.0170523159891514,
+                        "longitude": -78.99908601050404,
+                        "searchDetail": null,
+                        "caption": "Borbón, Esmeraldas Province, Ecuador",
+                        "name": "Borbón"
+                    },
+                    {
+                        "geoId": "739208840680255488",
+                        "destinationId": "739208840680255488",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.7745730911180627,
+                        "longitude": -79.56395387285635,
+                        "searchDetail": null,
+                        "caption": "Chinca, Esmeraldas Province, Ecuador",
+                        "name": "Chinca"
+                    },
+                    {
+                        "geoId": "739210206247272448",
+                        "destinationId": "739210206247272448",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 1.2490584894616958,
+                        "longitude": -78.64060426065008,
+                        "searchDetail": null,
+                        "caption": "Mataje, Esmeraldas Province, Ecuador",
+                        "name": "Mataje"
+                    },
+                    {
+                        "geoId": "739209971737243648",
+                        "destinationId": "739209971737243648",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 1.2144448751397925,
+                        "longitude": -78.98280215149134,
+                        "searchDetail": null,
+                        "caption": "Valdez, Esmeraldas Province, Ecuador",
+                        "name": "Valdez"
+                    },
+                    {
+                        "geoId": "739209562674327552",
+                        "destinationId": "739209562674327552",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.5265675420449156,
+                        "longitude": -79.45746994881267,
+                        "searchDetail": null,
+                        "caption": "Chura, Esmeraldas Province, Ecuador",
+                        "name": "Chura"
+                    },
+                    {
+                        "geoId": "739210095093821440",
+                        "destinationId": "739210095093821440",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.667387438146238,
+                        "longitude": -79.49670427712141,
+                        "searchDetail": null,
+                        "caption": "Majua, Esmeraldas Province, Ecuador",
+                        "name": "Majua"
+                    },
+                    {
+                        "geoId": "739209377765244928",
+                        "destinationId": "739209377765244928",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 1.1722213798161465,
+                        "longitude": -78.76497167044181,
+                        "searchDetail": null,
+                        "caption": "Calderon, Esmeraldas Province, Ecuador",
+                        "name": "Calderon"
+                    },
+                    {
+                        "geoId": "3000463817",
+                        "destinationId": "10428838",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.79859,
+                        "longitude": -80.062073,
+                        "searchDetail": null,
+                        "caption": "Galera, Esmeraldas Province, Ecuador",
+                        "name": "Galera"
+                    },
+                    {
+                        "geoId": "553248635975859118",
+                        "destinationId": "12467868",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.3269943000053785,
+                        "longitude": -79.96158611263513,
+                        "searchDetail": null,
+                        "caption": "Salima, Esmeraldas Province, Ecuador",
+                        "name": "Salima"
+                    },
+                    {
+                        "geoId": "553248635975855180",
+                        "destinationId": "12471357",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.6377728899093933,
+                        "longitude": -80.04324443840791,
+                        "searchDetail": null,
+                        "caption": "Bunche, Esmeraldas Province, Ecuador",
+                        "name": "Bunche"
+                    },
+                    {
+                        "geoId": "739208181153214464",
+                        "destinationId": "739208181153214464",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.9898805809483179,
+                        "longitude": -78.68872514385005,
+                        "searchDetail": null,
+                        "caption": "Urbina, Esmeraldas Province, Ecuador",
+                        "name": "Urbina"
+                    },
+                    {
+                        "geoId": "739210166988587008",
+                        "destinationId": "739210166988587008",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.626849931621713,
+                        "longitude": -79.54872048040065,
+                        "searchDetail": null,
+                        "caption": "Viche, Esmeraldas Province, Ecuador",
+                        "name": "Viche"
+                    },
+                    {
+                        "geoId": "739208203139756032",
+                        "destinationId": "739208203139756032",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 1.4133065480792586,
+                        "longitude": -78.85814445217052,
+                        "searchDetail": null,
+                        "caption": "Ancón, Esmeraldas Province, Ecuador",
+                        "name": "Ancón"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": [
+                    {
+                        "geoId": "3461937",
+                        "destinationId": "341170",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.491731,
+                        "longitude": -80.045697,
+                        "searchDetail": null,
+                        "caption": "Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador",
+                        "name": "Royal Decameron Mompiche - All Inclusive"
+                    }
+                ]
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": []
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "galapagos,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "8277b310d82145a7b562aec96c654d34",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "602686",
+                        "destinationId": "426848",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.7419694136612489,
+                        "longitude": -90.31387544981472,
+                        "searchDetail": null,
+                        "caption": "Puerto Ayora, Galapagos, Ecuador",
+                        "name": "Puerto Ayora"
+                    },
+                    {
+                        "geoId": "6053670",
+                        "destinationId": "1641807",
+                        "landmarkCityDestinationId": null,
+                        "type": "REGION",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.6332870501456088,
+                        "longitude": -90.37389323662065,
+                        "searchDetail": null,
+                        "caption": "Santa Cruz Island, Galapagos, Ecuador",
+                        "name": "Santa Cruz Island"
+                    },
+                    {
+                        "geoId": "3000421524",
+                        "destinationId": "10413052",
+                        "landmarkCityDestinationId": null,
+                        "type": "REGION",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.829237,
+                        "longitude": -91.1353,
+                        "searchDetail": null,
+                        "caption": "Isla Isabela, Galapagos, Ecuador",
+                        "name": "Isla Isabela"
+                    },
+                    {
+                        "geoId": "6053725",
+                        "destinationId": "1641409",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.652271,
+                        "longitude": -90.406476,
+                        "searchDetail": null,
+                        "caption": "Santa Rosa, Galapagos, Ecuador",
+                        "name": "Santa Rosa"
+                    },
+                    {
+                        "geoId": "6138894",
+                        "destinationId": "428056",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.9060093496708829,
+                        "longitude": -89.61355204833818,
+                        "searchDetail": null,
+                        "caption": "Puerto Baquerizo Moreno, Galapagos, Ecuador",
+                        "name": "Puerto Baquerizo Moreno"
+                    },
+                    {
+                        "geoId": "6336492",
+                        "destinationId": "1805922",
+                        "landmarkCityDestinationId": null,
+                        "type": "REGION",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.4095701301323356,
+                        "longitude": -90.35974366962695,
+                        "searchDetail": null,
+                        "caption": "Daphne Islands, Galapagos, Ecuador",
+                        "name": "Daphne Islands"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": [
+                    {
+                        "geoId": "2057779",
+                        "destinationId": "392623",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.742589,
+                        "longitude": -90.309715,
+                        "searchDetail": null,
+                        "caption": "Blu Galapagos, Puerto Ayora, Galapagos, Ecuador",
+                        "name": "Blu Galapagos"
+                    },
+                    {
+                        "geoId": "3156002",
+                        "destinationId": "338932",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.73895,
+                        "longitude": -90.313213,
+                        "searchDetail": null,
+                        "caption": "Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador",
+                        "name": "Galapagos Islands Hotel"
+                    },
+                    {
+                        "geoId": "15386708",
+                        "destinationId": "600967",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.900687,
+                        "longitude": -89.610632,
+                        "searchDetail": null,
+                        "caption": "Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador",
+                        "name": "Galapagos Sunset Hotel"
+                    },
+                    {
+                        "geoId": "9600457",
+                        "destinationId": "484071",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.745322,
+                        "longitude": -90.312467,
+                        "searchDetail": null,
+                        "caption": "Galapagos Native, Puerto Ayora, Galapagos, Ecuador",
+                        "name": "Galapagos Native"
+                    },
+                    {
+                        "geoId": "1862515",
+                        "destinationId": "435825",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.753112,
+                        "longitude": -90.3115,
+                        "searchDetail": null,
+                        "caption": "Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador",
+                        "name": "Finch Bay Galapagos Hotel"
+                    },
+                    {
+                        "geoId": "13419840",
+                        "destinationId": "571577",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.905016,
+                        "longitude": -89.605322,
+                        "searchDetail": null,
+                        "caption": "Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador",
+                        "name": "Galapagos Eco Friendly"
+                    }
+                ]
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": [
+                    {
+                        "geoId": "6171324",
+                        "destinationId": "1722854",
+                        "landmarkCityDestinationId": "739209674992332800",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.7616426978281295,
+                        "longitude": -90.3362684941123,
+                        "searchDetail": null,
+                        "caption": "Tortuga Bay Beach, Bella Vista, Galapagos, Ecuador",
+                        "name": "Tortuga Bay Beach"
+                    },
+                    {
+                        "geoId": "6112453",
+                        "destinationId": "1672267",
+                        "landmarkCityDestinationId": null,
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.5498003584573473,
+                        "longitude": -90.90013708011391,
+                        "searchDetail": null,
+                        "caption": "Galapagos National Park, Galapagos, Ecuador",
+                        "name": "Galapagos National Park"
+                    },
+                    {
+                        "geoId": "553248621591293181",
+                        "destinationId": "10455704",
+                        "landmarkCityDestinationId": "428056",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.894104,
+                        "longitude": -89.609494,
+                        "searchDetail": null,
+                        "caption": "Galapagos Interpretation Center, Puerto Baquerizo Moreno, Galapagos, Ecuador",
+                        "name": "Galapagos Interpretation Center"
+                    }
+                ]
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "guayas,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "3ce376aae0f14f6e9f85a246934ca3e5",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "6337570",
+                        "destinationId": "427725",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.2881120566221615,
+                        "longitude": -80.08944867983072,
+                        "searchDetail": null,
+                        "caption": "Guayaquil, Guayaquil, Guayas, Ecuador",
+                        "name": "Guayaquil"
+                    },
+                    {
+                        "geoId": "6337229",
+                        "destinationId": "427891",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.0028681249623332,
+                        "longitude": -79.77195672595182,
+                        "searchDetail": null,
+                        "caption": "Samborondon, Guayas, Ecuador",
+                        "name": "Samborondon"
+                    },
+                    {
+                        "geoId": "553248633981744847",
+                        "destinationId": "10874296",
+                        "landmarkCityDestinationId": null,
+                        "type": "NEIGHBORHOOD",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.162866547445079,
+                        "longitude": -79.90834126423356,
+                        "searchDetail": null,
+                        "caption": "Urdesa, Guayaquil, Guayas, Ecuador",
+                        "name": "Urdesa"
+                    },
+                    {
+                        "geoId": "6325948",
+                        "destinationId": "431546",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.2301510285072026,
+                        "longitude": -79.78263120943423,
+                        "searchDetail": null,
+                        "caption": "Duran, Guayas, Ecuador",
+                        "name": "Duran"
+                    },
+                    {
+                        "geoId": "739208411879780352",
+                        "destinationId": "739208411879780352",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.5898902978630676,
+                        "longitude": -79.5134566282985,
+                        "searchDetail": null,
+                        "caption": "Jesús María, Guayas, Ecuador",
+                        "name": "Jesús María"
+                    },
+                    {
+                        "geoId": "739208193279115264",
+                        "destinationId": "739208193279115264",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.8872107793883428,
+                        "longitude": -79.72581247830779,
+                        "searchDetail": null,
+                        "caption": "La Victoria, Guayas, Ecuador",
+                        "name": "La Victoria"
+                    },
+                    {
+                        "geoId": "739208274268024832",
+                        "destinationId": "739208274268024832",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.715243874081078,
+                        "longitude": -80.01121334707244,
+                        "searchDetail": null,
+                        "caption": "Puná, Guayas, Ecuador",
+                        "name": "Puná"
+                    },
+                    {
+                        "geoId": "553248635975857815",
+                        "destinationId": "12463443",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.4567211256227424,
+                        "longitude": -80.28340113606137,
+                        "searchDetail": null,
+                        "caption": "San Lorenzo, Guayas, Ecuador",
+                        "name": "San Lorenzo"
+                    },
+                    {
+                        "geoId": "553248635975855772",
+                        "destinationId": "12479245",
+                        "landmarkCityDestinationId": null,
+                        "type": "NEIGHBORHOOD",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.209541,
+                        "longitude": -79.81635349999999,
+                        "searchDetail": null,
+                        "caption": "Delia, Duran, Guayas, Ecuador",
+                        "name": "Delia"
+                    },
+                    {
+                        "geoId": "6353499",
+                        "destinationId": "1904766",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.699838269264123,
+                        "longitude": -80.26958294573811,
+                        "searchDetail": null,
+                        "caption": "Posorja, Guayas, Ecuador",
+                        "name": "Posorja"
+                    },
+                    {
+                        "geoId": "553248635975868830",
+                        "destinationId": "12472363",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.9775453697545422,
+                        "longitude": -79.79179254990626,
+                        "searchDetail": null,
+                        "caption": "Tarifa, Guayas, Ecuador",
+                        "name": "Tarifa"
+                    },
+                    {
+                        "geoId": "553248635974901023",
+                        "destinationId": "11399006",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.86218,
+                        "longitude": -79.977669,
+                        "searchDetail": null,
+                        "caption": "Daule, Daule, Guayas, Ecuador",
+                        "name": "Daule"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": [
+                    {
+                        "geoId": "6331045",
+                        "destinationId": "1802952",
+                        "landmarkCityDestinationId": "427725",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.203079,
+                        "longitude": -79.893475,
+                        "searchDetail": null,
+                        "caption": "Guayaquil Children's Hospital, Guayaquil, Guayas, Ecuador",
+                        "name": "Guayaquil Children's Hospital"
+                    },
+                    {
+                        "geoId": "6112450",
+                        "destinationId": "1672264",
+                        "landmarkCityDestinationId": "427587",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.645505808440353,
+                        "longitude": -80.38731065869092,
+                        "searchDetail": null,
+                        "caption": "General Villamil Beach, Playas, Guayas, Ecuador",
+                        "name": "General Villamil Beach"
+                    },
+                    {
+                        "geoId": "553248621532375180",
+                        "destinationId": "10518693",
+                        "landmarkCityDestinationId": "427725",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -2.202334,
+                        "longitude": -79.882429,
+                        "searchDetail": null,
+                        "caption": "Mercado Sur, Guayaquil, Guayas, Ecuador",
+                        "name": "Mercado Sur"
+                    }
+                ]
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "imbabura,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "6deab90fbedb455d9f2a5fb56db0ab84",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "553248635975863413",
+                        "destinationId": "12494931",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.37865339162161954,
+                        "longitude": -78.15728623728819,
+                        "searchDetail": null,
+                        "caption": "Imbaya, Imbabura, Ecuador",
+                        "name": "Imbaya"
+                    },
+                    {
+                        "geoId": "180439",
+                        "destinationId": "10341234",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.363453,
+                        "longitude": -78.124128,
+                        "searchDetail": null,
+                        "caption": "Ibarra, Ibarra, Imbabura, Ecuador",
+                        "name": "Ibarra"
+                    },
+                    {
+                        "geoId": "553248635964618297",
+                        "destinationId": "11392156",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.2666619349795852,
+                        "longitude": -78.12797816680273,
+                        "searchDetail": null,
+                        "caption": "La Esperanza, Imbabura, Ecuador",
+                        "name": "La Esperanza"
+                    },
+                    {
+                        "geoId": "180683",
+                        "destinationId": "426858",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.21518071998467816,
+                        "longitude": -78.26677047776026,
+                        "searchDetail": null,
+                        "caption": "Otavalo, Otavalo, Imbabura, Ecuador",
+                        "name": "Otavalo"
+                    },
+                    {
+                        "geoId": "739209139973664768",
+                        "destinationId": "739209139973664768",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.7818255490115543,
+                        "longitude": -78.38526349484115,
+                        "searchDetail": null,
+                        "caption": "Lita, Imbabura, Ecuador",
+                        "name": "Lita"
+                    },
+                    {
+                        "geoId": "648619800488419328",
+                        "destinationId": "648619800488419328",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.29808219457766194,
+                        "longitude": -78.78756682843544,
+                        "searchDetail": null,
+                        "caption": "García Moreno, Imbabura, Ecuador",
+                        "name": "García Moreno"
+                    },
+                    {
+                        "geoId": "739209835013586944",
+                        "destinationId": "739209835013586944",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.4935986743800412,
+                        "longitude": -78.13839996912556,
+                        "searchDetail": null,
+                        "caption": "Salinas, Imbabura, Ecuador",
+                        "name": "Salinas"
+                    },
+                    {
+                        "geoId": "553248635964618510",
+                        "destinationId": "11394215",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.22047257877382412,
+                        "longitude": -78.08225673689789,
+                        "searchDetail": null,
+                        "caption": "Angochagua, Imbabura, Ecuador",
+                        "name": "Angochagua"
+                    },
+                    {
+                        "geoId": "739208211981549568",
+                        "destinationId": "739208211981549568",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.4244770963065951,
+                        "longitude": -78.4234976559305,
+                        "searchDetail": null,
+                        "caption": "Apuela, Imbabura, Ecuador",
+                        "name": "Apuela"
+                    },
+                    {
+                        "geoId": "6351089",
+                        "destinationId": "1902392",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.40865335230789923,
+                        "longitude": -78.02079457395298,
+                        "searchDetail": null,
+                        "caption": "Ambuqui, Imbabura, Ecuador",
+                        "name": "Ambuqui"
+                    },
+                    {
+                        "geoId": "739208999792439296",
+                        "destinationId": "739208999792439296",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.42476700433688436,
+                        "longitude": -78.26533077437949,
+                        "searchDetail": null,
+                        "caption": "San Blas, Imbabura, Ecuador",
+                        "name": "San Blas"
+                    },
+                    {
+                        "geoId": "6326198",
+                        "destinationId": "432589",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.45635094456871034,
+                        "longitude": -78.19578106615857,
+                        "searchDetail": null,
+                        "caption": "Tumbabiro, Imbabura, Ecuador",
+                        "name": "Tumbabiro"
+                    },
+                    {
+                        "geoId": "739209165633507328",
+                        "destinationId": "739209165633507328",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.3639697181852287,
+                        "longitude": -77.87578585200076,
+                        "searchDetail": null,
+                        "caption": "Chuga, Imbabura, Ecuador",
+                        "name": "Chuga"
+                    },
+                    {
+                        "geoId": "739208536171687936",
+                        "destinationId": "739208536171687936",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.2664026980167939,
+                        "longitude": -78.50460528504767,
+                        "searchDetail": null,
+                        "caption": "Selva Alegre, Imbabura, Ecuador",
+                        "name": "Selva Alegre"
+                    },
+                    {
+                        "geoId": "739209109746503680",
+                        "destinationId": "739209109746503680",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.6534333630952722,
+                        "longitude": -78.2306964660524,
+                        "searchDetail": null,
+                        "caption": "Carolina, Imbabura, Ecuador",
+                        "name": "Carolina"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": []
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "loja,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "62e7bbc5064745de83697743616c154e",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "739209075957641216",
+                        "destinationId": "739209075957641216",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.6394344211967353,
+                        "longitude": -79.16831395316717,
+                        "searchDetail": null,
+                        "caption": "Urdaneta, Loja Province, Ecuador",
+                        "name": "Urdaneta"
+                    },
+                    {
+                        "geoId": "553248635973463947",
+                        "destinationId": "11403341",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.362287242855844,
+                        "longitude": -80.25714249772747,
+                        "searchDetail": null,
+                        "caption": "Zapotillo, Zapotillo, Loja Province, Ecuador",
+                        "name": "Zapotillo"
+                    },
+                    {
+                        "geoId": "739208770310778880",
+                        "destinationId": "739208770310778880",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.7536272587413535,
+                        "longitude": -79.37310779298699,
+                        "searchDetail": null,
+                        "caption": "Gualel, Loja Province, Ecuador",
+                        "name": "Gualel"
+                    },
+                    {
+                        "geoId": "6141628",
+                        "destinationId": "430835",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.279782518845229,
+                        "longitude": -79.22828827501147,
+                        "searchDetail": null,
+                        "caption": "Vilcabamba, Loja Province, Ecuador",
+                        "name": "Vilcabamba"
+                    },
+                    {
+                        "geoId": "553248635973466085",
+                        "destinationId": "11399014",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.6543353997929895,
+                        "longitude": -79.4439252024845,
+                        "searchDetail": null,
+                        "caption": "Jimbura, Loja Province, Ecuador",
+                        "name": "Jimbura"
+                    },
+                    {
+                        "geoId": "739209559055679488",
+                        "destinationId": "739209559055679488",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.492462417354487,
+                        "longitude": -79.32495698683137,
+                        "searchDetail": null,
+                        "caption": "Lluzhapa, Loja Province, Ecuador",
+                        "name": "Lluzhapa"
+                    },
+                    {
+                        "geoId": "739208910594658304",
+                        "destinationId": "739208910594658304",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.5291942265345875,
+                        "longitude": -79.42642033242456,
+                        "searchDetail": null,
+                        "caption": "Manu, Loja Province, Ecuador",
+                        "name": "Manu"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": [
+                    {
+                        "geoId": "6266178",
+                        "destinationId": "1769968",
+                        "landmarkCityDestinationId": "1746599",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.99648,
+                        "longitude": -79.20131,
+                        "searchDetail": null,
+                        "caption": "Loja Cathedral, Loja, Loja Province, Ecuador",
+                        "name": "Loja Cathedral"
+                    },
+                    {
+                        "geoId": "553248621532375146",
+                        "destinationId": "10518677",
+                        "landmarkCityDestinationId": "1746599",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.9981,
+                        "longitude": -79.201163,
+                        "searchDetail": null,
+                        "caption": "Loja Music Museum, Loja, Loja Province, Ecuador",
+                        "name": "Loja Music Museum"
+                    },
+                    {
+                        "geoId": "553248621563843915",
+                        "destinationId": "10450174",
+                        "landmarkCityDestinationId": "427461",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.632289,
+                        "longitude": -79.221056,
+                        "searchDetail": null,
+                        "caption": "Waterfall of Sininkapak, Saraguro, Loja Province, Ecuador",
+                        "name": "Waterfall of Sininkapak"
+                    },
+                    {
+                        "geoId": "553248621532375140",
+                        "destinationId": "10518672",
+                        "landmarkCityDestinationId": "1746599",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.9994,
+                        "longitude": -79.203,
+                        "searchDetail": null,
+                        "caption": "Parque Universitario La Argelia, Loja, Loja Province, Ecuador",
+                        "name": "Parque Universitario La Argelia"
+                    },
+                    {
+                        "geoId": "6287406",
+                        "destinationId": "1780809",
+                        "landmarkCityDestinationId": "430835",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.262117,
+                        "longitude": -79.222736,
+                        "searchDetail": null,
+                        "caption": "Vilcabamba Church, Vilcabamba, Loja Province, Ecuador",
+                        "name": "Vilcabamba Church"
+                    },
+                    {
+                        "geoId": "6266170",
+                        "destinationId": "1769967",
+                        "landmarkCityDestinationId": "1746599",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.989522,
+                        "longitude": -79.204251,
+                        "searchDetail": null,
+                        "caption": "Loja City Gates, Loja, Loja Province, Ecuador",
+                        "name": "Loja City Gates"
+                    },
+                    {
+                        "geoId": "553248621563843914",
+                        "destinationId": "10450127",
+                        "landmarkCityDestinationId": "427461",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.62201,
+                        "longitude": -79.239702,
+                        "searchDetail": null,
+                        "caption": "Saraguro Market, Saraguro, Loja Province, Ecuador",
+                        "name": "Saraguro Market"
+                    }
+                ]
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": [
+                    {
+                        "geoId": "6029735",
+                        "destinationId": "1666240",
+                        "landmarkCityDestinationId": null,
+                        "type": "AIRPORT",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.995892,
+                        "longitude": -79.371925,
+                        "searchDetail": null,
+                        "caption": "Loja, Ecuador (LOH-Camilo Ponce Enriquez)",
+                        "name": "Loja (LOH-Camilo Ponce Enriquez)"
+                    }
+                ]
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "los rios,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "b548b2ec22574501be1acbf3dab347f4",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "739210039707201536",
+                        "destinationId": "739210039707201536",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.5909698107524968,
+                        "longitude": -79.6555579980544,
+                        "searchDetail": null,
+                        "caption": "Guare, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Guare"
+                    },
+                    {
+                        "geoId": "6358973",
+                        "destinationId": "1910260",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.0259095796596986,
+                        "longitude": -79.47892607595729,
+                        "searchDetail": null,
+                        "caption": "Quevedo, Quevedo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Quevedo"
+                    },
+                    {
+                        "geoId": "739209391600189440",
+                        "destinationId": "739209391600189440",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.6878787261626043,
+                        "longitude": -79.63482525647129,
+                        "searchDetail": null,
+                        "caption": "Isla de Bejucal, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Isla de Bejucal"
+                    },
+                    {
+                        "geoId": "739209731200401408",
+                        "destinationId": "739209731200401408",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.7829738282912473,
+                        "longitude": -79.57179588390206,
+                        "searchDetail": null,
+                        "caption": "Pimocha, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Pimocha"
+                    },
+                    {
+                        "geoId": "553248635931203149",
+                        "destinationId": "11411425",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.8529876957317815,
+                        "longitude": -79.50800707285184,
+                        "searchDetail": null,
+                        "caption": "Babahoyo, Babahoyo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Babahoyo"
+                    },
+                    {
+                        "geoId": "739209436453425152",
+                        "destinationId": "739209436453425152",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.5632908018387546,
+                        "longitude": -79.37461911589988,
+                        "searchDetail": null,
+                        "caption": "Ricaurte, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Ricaurte"
+                    },
+                    {
+                        "geoId": "739208526646624256",
+                        "destinationId": "739208526646624256",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.5889230365040685,
+                        "longitude": -79.48295577039097,
+                        "searchDetail": null,
+                        "caption": "Catarama, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Catarama"
+                    },
+                    {
+                        "geoId": "739209708421394432",
+                        "destinationId": "739209708421394432",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.8054880130288866,
+                        "longitude": -79.31763149721372,
+                        "searchDetail": null,
+                        "caption": "Montalvo, Montalvo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Montalvo"
+                    },
+                    {
+                        "geoId": "739209748889677824",
+                        "destinationId": "739209748889677824",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.5542705254483493,
+                        "longitude": -79.54125280859513,
+                        "searchDetail": null,
+                        "caption": "Puebloviejo, Puebloviejo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Puebloviejo"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": [
+                    {
+                        "geoId": "24305501",
+                        "destinationId": "778776032",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.396638,
+                        "longitude": -78.422008,
+                        "searchDetail": null,
+                        "caption": "<span class='highlighted'>Los</span> Ríos Hotel, Baños de Agua Santa, Tungurahua, Ecuador",
+                        "name": "Los Ríos Hotel"
+                    },
+                    {
+                        "geoId": "27261524",
+                        "destinationId": "873368768",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.797896,
+                        "longitude": -79.5322,
+                        "searchDetail": null,
+                        "caption": "Hotel Cachari, Babahoyo, Babahoyo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Hotel Cachari"
+                    },
+                    {
+                        "geoId": "15525794",
+                        "destinationId": "603658",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.03406,
+                        "longitude": -79.46841,
+                        "searchDetail": null,
+                        "caption": "Hotel Olimpico Quevedo, Quevedo, Quevedo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Hotel Olimpico Quevedo"
+                    }
+                ]
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": [
+                    {
+                        "geoId": "553248622108377656",
+                        "destinationId": "10459318",
+                        "landmarkCityDestinationId": "1910260",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.023949,
+                        "longitude": -79.465246,
+                        "searchDetail": null,
+                        "caption": "Palacio de Cristal, Quevedo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Palacio de Cristal"
+                    },
+                    {
+                        "geoId": "553248622108377659",
+                        "destinationId": "10459384",
+                        "landmarkCityDestinationId": "1910260",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.024279,
+                        "longitude": -79.466646,
+                        "searchDetail": null,
+                        "caption": "Iglesia San Jose, Quevedo, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Iglesia San Jose"
+                    },
+                    {
+                        "geoId": "553248635976197368",
+                        "destinationId": "553248635976197368",
+                        "landmarkCityDestinationId": null,
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.9044894999999998,
+                        "longitude": -79.464759,
+                        "searchDetail": null,
+                        "caption": "Rió Bajaña, <span class='highlighted'>Los</span> Ríos Province, Ecuador",
+                        "name": "Rió Bajaña"
+                    }
+                ]
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "manabi,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "7fc13af618e3407e8c72bd2d8c6cd67d",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "6053676",
+                        "destinationId": "1644773",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.95376,
+                        "longitude": -80.717529,
+                        "searchDetail": null,
+                        "caption": "Manta, Manta, Manabi, Ecuador",
+                        "name": "Manta"
+                    },
+                    {
+                        "geoId": "6347549",
+                        "destinationId": "1812564",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.39064781401659154,
+                        "longitude": -80.40232240309916,
+                        "searchDetail": null,
+                        "caption": "Canoa, Manabi, Ecuador",
+                        "name": "Canoa"
+                    },
+                    {
+                        "geoId": "6158225",
+                        "destinationId": "428087",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.324818347404526,
+                        "longitude": -80.69981708493954,
+                        "searchDetail": null,
+                        "caption": "Puerto Cayo, Manabi, Ecuador",
+                        "name": "Puerto Cayo"
+                    },
+                    {
+                        "geoId": "6349987",
+                        "destinationId": "1901331",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.8848371682876117,
+                        "longitude": -80.53297990751143,
+                        "searchDetail": null,
+                        "caption": "Crucita, Manabi, Ecuador",
+                        "name": "Crucita"
+                    },
+                    {
+                        "geoId": "6346851",
+                        "destinationId": "427181",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.22962498953395402,
+                        "longitude": -79.86812514295191,
+                        "searchDetail": null,
+                        "caption": "Cojimies, Manabi, Ecuador",
+                        "name": "Cojimies"
+                    },
+                    {
+                        "geoId": "6329241",
+                        "destinationId": "1802036",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.6368836589895024,
+                        "longitude": -80.80189261146835,
+                        "searchDetail": null,
+                        "caption": "Salango, Manabi, Ecuador",
+                        "name": "Salango"
+                    },
+                    {
+                        "geoId": "6348088",
+                        "destinationId": "1812891",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.22000880352505775,
+                        "longitude": -80.22726360345933,
+                        "searchDetail": null,
+                        "caption": "Jama, Manabi, Ecuador",
+                        "name": "Jama"
+                    },
+                    {
+                        "geoId": "6342701",
+                        "destinationId": "426297",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.4676459682355505,
+                        "longitude": -80.73706234010137,
+                        "searchDetail": null,
+                        "caption": "Machalilla, Manabi, Ecuador",
+                        "name": "Machalilla"
+                    },
+                    {
+                        "geoId": "3000005981",
+                        "destinationId": "10380271",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.783333,
+                        "longitude": -80.516701,
+                        "searchDetail": null,
+                        "caption": "San Jacinto, Manabi, Ecuador",
+                        "name": "San Jacinto"
+                    },
+                    {
+                        "geoId": "553248635964221733",
+                        "destinationId": "11421181",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.6363023617249475,
+                        "longitude": -80.8278736087722,
+                        "searchDetail": null,
+                        "caption": "Puerto Rico, Manabi, Ecuador",
+                        "name": "Puerto Rico"
+                    },
+                    {
+                        "geoId": "6353496",
+                        "destinationId": "1904763",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.07184571960277472,
+                        "longitude": -79.85810046404373,
+                        "searchDetail": null,
+                        "caption": "Pedernales, Pedernales, Manabi, Ecuador",
+                        "name": "Pedernales"
+                    },
+                    {
+                        "geoId": "553248635975872050",
+                        "destinationId": "12515280",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.0603922691110492,
+                        "longitude": -80.83024393380015,
+                        "searchDetail": null,
+                        "caption": "San Lorenzo, Manabi, Ecuador",
+                        "name": "San Lorenzo"
+                    },
+                    {
+                        "geoId": "2913",
+                        "destinationId": "426656",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.0811230119189033,
+                        "longitude": -80.4609209572015,
+                        "searchDetail": null,
+                        "caption": "Portoviejo, Portoviejo, Manabi, Ecuador",
+                        "name": "Portoviejo"
+                    },
+                    {
+                        "geoId": "6144041",
+                        "destinationId": "429692",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.560037,
+                        "longitude": -80.811163,
+                        "searchDetail": null,
+                        "caption": "Puerto Lopez, Manabi, Ecuador",
+                        "name": "Puerto Lopez"
+                    },
+                    {
+                        "geoId": "553248635975861782",
+                        "destinationId": "12458510",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.9196430871990133,
+                        "longitude": -80.05542641359116,
+                        "searchDetail": null,
+                        "caption": "Calceta, Manabi, Ecuador",
+                        "name": "Calceta"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": []
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "napo,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "c7ca76a6439246c7bcc8441b35722649",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "3000390832",
+                        "destinationId": "10402549",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.464461,
+                        "longitude": -77.890402,
+                        "searchDetail": null,
+                        "caption": "Baeza, Napo, Ecuador",
+                        "name": "Baeza"
+                    },
+                    {
+                        "geoId": "6345302",
+                        "destinationId": "429790",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.7331022857819212,
+                        "longitude": -78.18111418484025,
+                        "searchDetail": null,
+                        "caption": "Archidona, Archidona, Napo, Ecuador",
+                        "name": "Archidona"
+                    },
+                    {
+                        "geoId": "553248635975858881",
+                        "destinationId": "12479359",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.9141816086668791,
+                        "longitude": -78.15827474497614,
+                        "searchDetail": null,
+                        "caption": "Pano, Napo, Ecuador",
+                        "name": "Pano"
+                    },
+                    {
+                        "geoId": "739208932558131200",
+                        "destinationId": "739208932558131200",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.18575547525696082,
+                        "longitude": -77.95658887366966,
+                        "searchDetail": null,
+                        "caption": "Oyacachi, Napo, Ecuador",
+                        "name": "Oyacachi"
+                    },
+                    {
+                        "geoId": "739208336940609536",
+                        "destinationId": "739208336940609536",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.4080088350713219,
+                        "longitude": -77.67408596070212,
+                        "searchDetail": null,
+                        "caption": "Linares, Napo, Ecuador",
+                        "name": "Linares"
+                    },
+                    {
+                        "geoId": "739208900902273024",
+                        "destinationId": "739208900902273024",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.42319353294746587,
+                        "longitude": -78.06502376372069,
+                        "searchDetail": null,
+                        "caption": "Cuyuja, Napo, Ecuador",
+                        "name": "Cuyuja"
+                    },
+                    {
+                        "geoId": "3000005969",
+                        "destinationId": "10380278",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.933333,
+                        "longitude": -77.416702,
+                        "searchDetail": null,
+                        "caption": "Sunimón, Napo, Ecuador",
+                        "name": "Sunimón"
+                    },
+                    {
+                        "geoId": "3000006049",
+                        "destinationId": "10380308",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.6,
+                        "longitude": -77.866699,
+                        "searchDetail": null,
+                        "caption": "Cosanga, Napo, Ecuador",
+                        "name": "Cosanga"
+                    },
+                    {
+                        "geoId": "6132037",
+                        "destinationId": "429844",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.6982762739500987,
+                        "longitude": -77.82663614801466,
+                        "searchDetail": null,
+                        "caption": "Cotundo, Napo, Ecuador",
+                        "name": "Cotundo"
+                    },
+                    {
+                        "geoId": "739208538348699648",
+                        "destinationId": "739208538348699648",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.48656893518620087,
+                        "longitude": -77.71582414264672,
+                        "searchDetail": null,
+                        "caption": "Sumaco, Napo, Ecuador",
+                        "name": "Sumaco"
+                    },
+                    {
+                        "geoId": "739209106153697280",
+                        "destinationId": "739209106153697280",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.0531881061995307,
+                        "longitude": -78.17346245108789,
+                        "searchDetail": null,
+                        "caption": "Tálag, Napo, Ecuador",
+                        "name": "Tálag"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": [
+                    {
+                        "geoId": "1832801",
+                        "destinationId": "492581",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.36279,
+                        "longitude": -78.148931,
+                        "searchDetail": null,
+                        "caption": "Termas de Papallacta, Papallacta, Napo, Ecuador",
+                        "name": "Termas de Papallacta"
+                    },
+                    {
+                        "geoId": "31611357",
+                        "destinationId": "1012563424",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.37871,
+                        "longitude": -78.138774,
+                        "searchDetail": null,
+                        "caption": "Hosteria Pampallacta, Papallacta, Napo, Ecuador",
+                        "name": "Hosteria Pampallacta"
+                    },
+                    {
+                        "geoId": "39204022",
+                        "destinationId": "1255528704",
+                        "landmarkCityDestinationId": null,
+                        "type": "HOTEL",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.376872,
+                        "longitude": -78.180976,
+                        "searchDetail": null,
+                        "caption": "Termas El Pantanal, Papallacta, Napo, Ecuador",
+                        "name": "Termas El Pantanal"
+                    }
+                ]
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": [
+                    {
+                        "geoId": "553248621564886284",
+                        "destinationId": "10450417",
+                        "landmarkCityDestinationId": "430809",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.376555,
+                        "longitude": -78.142784,
+                        "searchDetail": null,
+                        "caption": "Papallacta Church, Papallacta, Napo, Ecuador",
+                        "name": "Papallacta Church"
+                    }
+                ]
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "orellana,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "5e9414d48fea426abf99481efc71c7d1",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "6345660",
+                        "destinationId": "1811473",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.4394828809942288,
+                        "longitude": -76.98901875787874,
+                        "searchDetail": null,
+                        "caption": "Coca, Orellana, Ecuador",
+                        "name": "Coca"
+                    },
+                    {
+                        "geoId": "6276066",
+                        "destinationId": "431500",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.6562570664680666,
+                        "longitude": -77.27913536002022,
+                        "searchDetail": null,
+                        "caption": "Loreto, Loreto, Orellana, Ecuador",
+                        "name": "Loreto"
+                    },
+                    {
+                        "geoId": "739210007693373440",
+                        "destinationId": "739210007693373440",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.9765442007478605,
+                        "longitude": -76.81955949841397,
+                        "searchDetail": null,
+                        "caption": "Inés Arango, Orellana, Ecuador",
+                        "name": "Inés Arango"
+                    },
+                    {
+                        "geoId": "739208883900461056",
+                        "destinationId": "739208883900461056",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.5683164243513964,
+                        "longitude": -77.0219717099203,
+                        "searchDetail": null,
+                        "caption": "García Moreno, Orellana, Ecuador",
+                        "name": "García Moreno"
+                    },
+                    {
+                        "geoId": "739209239461646336",
+                        "destinationId": "739209239461646336",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.7950396000834938,
+                        "longitude": -75.6705381959493,
+                        "searchDetail": null,
+                        "caption": "Tiputini, Orellana, Ecuador",
+                        "name": "Tiputini"
+                    },
+                    {
+                        "geoId": "3000006069",
+                        "destinationId": "10380285",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.7,
+                        "longitude": -76.0,
+                        "searchDetail": null,
+                        "caption": "Ancayacu, Orellana, Ecuador",
+                        "name": "Ancayacu"
+                    },
+                    {
+                        "geoId": "737440236117413888",
+                        "destinationId": "737440236117413888",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.5428475417251708,
+                        "longitude": -76.7815919563537,
+                        "searchDetail": null,
+                        "caption": "Taracoa, Orellana, Ecuador",
+                        "name": "Taracoa"
+                    },
+                    {
+                        "geoId": "553248635975856861",
+                        "destinationId": "12475392",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.433333,
+                        "longitude": -77.116667,
+                        "searchDetail": null,
+                        "caption": "Estrella Yacu, Orellana, Ecuador",
+                        "name": "Estrella Yacu"
+                    },
+                    {
+                        "geoId": "739208360042577920",
+                        "destinationId": "739208360042577920",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.22876749939556276,
+                        "longitude": -76.83712247685918,
+                        "searchDetail": null,
+                        "caption": "Enokanqui, Orellana, Ecuador",
+                        "name": "Enokanqui"
+                    },
+                    {
+                        "geoId": "739209812569899008",
+                        "destinationId": "739209812569899008",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.768943911019714,
+                        "longitude": -75.35111914464422,
+                        "searchDetail": null,
+                        "caption": "Yasuni, Orellana, Ecuador",
+                        "name": "Yasuni"
+                    },
+                    {
+                        "geoId": "739208897944252416",
+                        "destinationId": "739208897944252416",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.7127089671791028,
+                        "longitude": -76.77792081262214,
+                        "searchDetail": null,
+                        "caption": "Dayuma, Orellana, Ecuador",
+                        "name": "Dayuma"
+                    },
+                    {
+                        "geoId": "553248635975863535",
+                        "destinationId": "12467812",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.455213,
+                        "longitude": -76.108467,
+                        "searchDetail": null,
+                        "caption": "Oasis, Orellana, Ecuador",
+                        "name": "Oasis"
+                    },
+                    {
+                        "geoId": "739209939875414016",
+                        "destinationId": "739209939875414016",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.053168958935888,
+                        "longitude": -76.06921234676825,
+                        "searchDetail": null,
+                        "caption": "Cononaco, Orellana, Ecuador",
+                        "name": "Cononaco"
+                    },
+                    {
+                        "geoId": "3000006043",
+                        "destinationId": "10380337",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.45,
+                        "longitude": -76.733299,
+                        "searchDetail": null,
+                        "caption": "Derna, Coca, Orellana, Ecuador",
+                        "name": "Derna"
+                    },
+                    {
+                        "geoId": "739209082288943104",
+                        "destinationId": "739209082288943104",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.531771605431511,
+                        "longitude": -76.92054957460954,
+                        "searchDetail": null,
+                        "caption": "El Dorado, Orellana, Ecuador",
+                        "name": "El Dorado"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": []
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "pichincha,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "91dab3c701a847faaed36029705d49d3",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "3623",
+                        "destinationId": "426738",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.220299,
+                        "longitude": -78.511714,
+                        "searchDetail": null,
+                        "caption": "Quito, Pichincha, Ecuador",
+                        "name": "Quito"
+                    },
+                    {
+                        "geoId": "6326012",
+                        "destinationId": "1800396",
+                        "landmarkCityDestinationId": null,
+                        "type": "NEIGHBORHOOD",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.21968149866112982,
+                        "longitude": -78.51275698475546,
+                        "searchDetail": null,
+                        "caption": "Quito Historic Center, Quito, Pichincha, Ecuador",
+                        "name": "Quito Historic Center"
+                    },
+                    {
+                        "geoId": "3000006046",
+                        "destinationId": "10380259",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.2,
+                        "longitude": -78.433296,
+                        "searchDetail": null,
+                        "caption": "Cumbayá, Pichincha, Ecuador",
+                        "name": "Cumbayá"
+                    },
+                    {
+                        "geoId": "6132883",
+                        "destinationId": "10341448",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.053329,
+                        "longitude": -78.774669,
+                        "searchDetail": null,
+                        "caption": "Mindo, Pichincha, Ecuador",
+                        "name": "Mindo"
+                    },
+                    {
+                        "geoId": "6247494",
+                        "destinationId": "427114",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.14069865641653118,
+                        "longitude": -78.35476288619238,
+                        "searchDetail": null,
+                        "caption": "Tababela, Pichincha, Ecuador",
+                        "name": "Tababela"
+                    },
+                    {
+                        "geoId": "6251594",
+                        "destinationId": "430318",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.1674242776675274,
+                        "longitude": -78.36962495595662,
+                        "searchDetail": null,
+                        "caption": "Puembo, Pichincha, Ecuador",
+                        "name": "Puembo"
+                    },
+                    {
+                        "geoId": "553248635171464267",
+                        "destinationId": "11075899",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.1660780022961204,
+                        "longitude": -78.86176526475326,
+                        "searchDetail": null,
+                        "caption": "Mashpi, Pacto, Pichincha, Ecuador",
+                        "name": "Mashpi"
+                    },
+                    {
+                        "geoId": "6353439",
+                        "destinationId": "1904707",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.05410230128899479,
+                        "longitude": -78.34332932772412,
+                        "searchDetail": null,
+                        "caption": "Guayllabamba, Pichincha, Ecuador",
+                        "name": "Guayllabamba"
+                    },
+                    {
+                        "geoId": "6246475",
+                        "destinationId": "1760173",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.21982581067626938,
+                        "longitude": -78.3947803661748,
+                        "searchDetail": null,
+                        "caption": "Tumbaco, Pichincha, Ecuador",
+                        "name": "Tumbaco"
+                    },
+                    {
+                        "geoId": "6341511",
+                        "destinationId": "428616",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.2812946151673215,
+                        "longitude": -78.26746282452481,
+                        "searchDetail": null,
+                        "caption": "Pifo, Pichincha, Ecuador",
+                        "name": "Pifo"
+                    },
+                    {
+                        "geoId": "553248635975102806",
+                        "destinationId": "11403766",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": 0.15598836387180812,
+                        "longitude": -79.2394691517776,
+                        "searchDetail": null,
+                        "caption": "Puerto Quito, Puerto Quito, Pichincha, Ecuador",
+                        "name": "Puerto Quito"
+                    },
+                    {
+                        "geoId": "553248635975864238",
+                        "destinationId": "12515586",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.44999999999999996,
+                        "longitude": -78.33333300000001,
+                        "searchDetail": null,
+                        "caption": "Secas, Pintag, Pichincha, Ecuador",
+                        "name": "Secas"
+                    },
+                    {
+                        "geoId": "553248635975860678",
+                        "destinationId": "12488347",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.3334026427543562,
+                        "longitude": -78.47820881046518,
+                        "searchDetail": null,
+                        "caption": "San Rafael, Pichincha, Ecuador",
+                        "name": "San Rafael"
+                    },
+                    {
+                        "geoId": "553248635933027196",
+                        "destinationId": "11410193",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.25290948306019445,
+                        "longitude": -78.43763959454907,
+                        "searchDetail": null,
+                        "caption": "Guangopolo, Pichincha, Ecuador",
+                        "name": "Guangopolo"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": [
+                    {
+                        "geoId": "553248633861906743",
+                        "destinationId": "10802650",
+                        "landmarkCityDestinationId": "427519",
+                        "type": "LANDMARK",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -0.684927,
+                        "longitude": -78.437053,
+                        "searchDetail": null,
+                        "caption": "Cotopaxi Mountain, Machachi, Pichincha, Ecuador",
+                        "name": "Cotopaxi Mountain"
+                    }
+                ]
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "tungurahua,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "339a9b9e1ffc4e73bc764636a50a2b75",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "500229",
+                        "destinationId": "429944",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.4248253180804327,
+                        "longitude": -78.42557103398643,
+                        "searchDetail": null,
+                        "caption": "Baños de Agua Santa, Tungurahua, Ecuador",
+                        "name": "Baños de Agua Santa"
+                    },
+                    {
+                        "geoId": "6150423",
+                        "destinationId": "429029",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.257368636311073,
+                        "longitude": -78.61428555590945,
+                        "searchDetail": null,
+                        "caption": "Ambato, Tungurahua, Ecuador",
+                        "name": "Ambato"
+                    },
+                    {
+                        "geoId": "553248635975858875",
+                        "destinationId": "12524594",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.2235383948847502,
+                        "longitude": -78.79976775282123,
+                        "searchDetail": null,
+                        "caption": "San Fernando, Tungurahua, Ecuador",
+                        "name": "San Fernando"
+                    },
+                    {
+                        "geoId": "553248635976388677",
+                        "destinationId": "12518925",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.3848248181438232,
+                        "longitude": -78.37340393239202,
+                        "searchDetail": null,
+                        "caption": "Ulba, Tungurahua, Ecuador",
+                        "name": "Ulba"
+                    },
+                    {
+                        "geoId": "739209777012944896",
+                        "destinationId": "739209777012944896",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.240570415558343,
+                        "longitude": -78.73852981317123,
+                        "searchDetail": null,
+                        "caption": "Pasa, Tungurahua, Ecuador",
+                        "name": "Pasa"
+                    },
+                    {
+                        "geoId": "739208477782781952",
+                        "destinationId": "739208477782781952",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.0970229393182014,
+                        "longitude": -78.53562686294423,
+                        "searchDetail": null,
+                        "caption": "San Andrés, Tungurahua, Ecuador",
+                        "name": "San Andrés"
+                    },
+                    {
+                        "geoId": "739209068241768448",
+                        "destinationId": "739209068241768448",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.433002157138273,
+                        "longitude": -78.5870256211097,
+                        "searchDetail": null,
+                        "caption": "Quero, Quero, Tungurahua, Ecuador",
+                        "name": "Quero"
+                    },
+                    {
+                        "geoId": "553248635976396997",
+                        "destinationId": "12508457",
+                        "landmarkCityDestinationId": null,
+                        "type": "NEIGHBORHOOD",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.2438591164927344,
+                        "longitude": -78.64046341697231,
+                        "searchDetail": null,
+                        "caption": "Ficoa, Ambato, Tungurahua, Ecuador",
+                        "name": "Ficoa"
+                    },
+                    {
+                        "geoId": "553248635975867223",
+                        "destinationId": "12495095",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.262313,
+                        "longitude": -78.4896005,
+                        "searchDetail": null,
+                        "caption": "Platopamba, Tungurahua, Ecuador",
+                        "name": "Platopamba"
+                    },
+                    {
+                        "geoId": "553248635976399982",
+                        "destinationId": "12544987",
+                        "landmarkCityDestinationId": null,
+                        "type": "NEIGHBORHOOD",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.2470533132588035,
+                        "longitude": -78.61666288399744,
+                        "searchDetail": null,
+                        "caption": "Cumanda, Ambato, Tungurahua, Ecuador",
+                        "name": "Cumanda"
+                    },
+                    {
+                        "geoId": "553248635975868147",
+                        "destinationId": "12505622",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.3833330000000001,
+                        "longitude": -78.316667,
+                        "searchDetail": null,
+                        "caption": "Agoyán, Tungurahua, Ecuador",
+                        "name": "Agoyán"
+                    },
+                    {
+                        "geoId": "739208732964696064",
+                        "destinationId": "739208732964696064",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.2346743563457507,
+                        "longitude": -78.39804895322487,
+                        "searchDetail": null,
+                        "caption": "Sucre, Tungurahua, Ecuador",
+                        "name": "Sucre"
+                    },
+                    {
+                        "geoId": "739209595871150080",
+                        "destinationId": "739209595871150080",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.4686892241881409,
+                        "longitude": -78.67876982541625,
+                        "searchDetail": null,
+                        "caption": "Yanayacu, Tungurahua, Ecuador",
+                        "name": "Yanayacu"
+                    },
+                    {
+                        "geoId": "739208325450055680",
+                        "destinationId": "739208325450055680",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.4385247880729364,
+                        "longitude": -78.50635540640647,
+                        "searchDetail": null,
+                        "caption": "Cotalo, Tungurahua, Ecuador",
+                        "name": "Cotalo"
+                    },
+                    {
+                        "geoId": "553248635975859818",
+                        "destinationId": "12456205",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -1.4295075000000002,
+                        "longitude": -78.57376100000002,
+                        "searchDetail": null,
+                        "caption": "Sabañag, Tungurahua, Ecuador",
+                        "name": "Sabañag"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": []
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    },
+    {
+        "term": "zamora chinchipe,ecuador",
+        "moresuggestions": 10,
+        "autoSuggestInstance": null,
+        "trackingID": "8581232642d74546b5611907468f7528",
+        "misspellingfallback": false,
+        "suggestions": [
+            {
+                "group": "CITY_GROUP",
+                "entities": [
+                    {
+                        "geoId": "6351038",
+                        "destinationId": "1902341",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.157504776940945,
+                        "longitude": -79.00206153034294,
+                        "searchDetail": null,
+                        "caption": "<span class='highlighted'>Zamora</span>, Zamora, Zamora Chinchipe, Ecuador",
+                        "name": "Zamora"
+                    },
+                    {
+                        "geoId": "739208494675509248",
+                        "destinationId": "739208494675509248",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.101944953903783,
+                        "longitude": -78.8962292618424,
+                        "searchDetail": null,
+                        "caption": "Timbara, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Timbara"
+                    },
+                    {
+                        "geoId": "739235202940157952",
+                        "destinationId": "739235202940157952",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.569768329713045,
+                        "longitude": -78.5874818276751,
+                        "searchDetail": null,
+                        "caption": "El Guisme, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "El Guisme"
+                    },
+                    {
+                        "geoId": "739210233835307008",
+                        "destinationId": "739210233835307008",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.8800370565821423,
+                        "longitude": -78.61723182288031,
+                        "searchDetail": null,
+                        "caption": "Bellavista, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Bellavista"
+                    },
+                    {
+                        "geoId": "739209745246924800",
+                        "destinationId": "739209745246924800",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.069126182939849,
+                        "longitude": -78.6770739609028,
+                        "searchDetail": null,
+                        "caption": "Guayzimi, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Guayzimi"
+                    },
+                    {
+                        "geoId": "739209952450998272",
+                        "destinationId": "739209952450998272",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.872602990701721,
+                        "longitude": -79.0080188875282,
+                        "searchDetail": null,
+                        "caption": "Chito, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Chito"
+                    },
+                    {
+                        "geoId": "553248635973462600",
+                        "destinationId": "11396297",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.949922113891307,
+                        "longitude": -79.12262184539036,
+                        "searchDetail": null,
+                        "caption": "Pucapamba, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Pucapamba"
+                    },
+                    {
+                        "geoId": "739208388722192384",
+                        "destinationId": "739208388722192384",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.7521463609396877,
+                        "longitude": -78.95406689767219,
+                        "searchDetail": null,
+                        "caption": "La Paz, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "La Paz"
+                    },
+                    {
+                        "geoId": "739210179697127424",
+                        "destinationId": "739210179697127424",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.005933552783452,
+                        "longitude": -79.06260713888886,
+                        "searchDetail": null,
+                        "caption": "Sabanilla, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Sabanilla"
+                    },
+                    {
+                        "geoId": "739210047945650176",
+                        "destinationId": "739210047945650176",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.6499263159294073,
+                        "longitude": -78.74973106850477,
+                        "searchDetail": null,
+                        "caption": "Chicaña, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Chicaña"
+                    },
+                    {
+                        "geoId": "739208927369777152",
+                        "destinationId": "739208927369777152",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -4.009801981023128,
+                        "longitude": -78.59976015288841,
+                        "searchDetail": null,
+                        "caption": "Nuevo Quito, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Nuevo Quito"
+                    },
+                    {
+                        "geoId": "3000005959",
+                        "destinationId": "10380330",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.82778,
+                        "longitude": -78.759399,
+                        "searchDetail": null,
+                        "caption": "Yantzaza, Yantzaza, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Yantzaza"
+                    },
+                    {
+                        "geoId": "739234429935570944",
+                        "destinationId": "739234429935570944",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.610602903889037,
+                        "longitude": -78.45180459210148,
+                        "searchDetail": null,
+                        "caption": "Tundayme, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Tundayme"
+                    },
+                    {
+                        "geoId": "739209498534227968",
+                        "destinationId": "739209498534227968",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.470112370548429,
+                        "longitude": -78.96366502923343,
+                        "searchDetail": null,
+                        "caption": "Tutupali, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Tutupali"
+                    },
+                    {
+                        "geoId": "739209207839600640",
+                        "destinationId": "739209207839600640",
+                        "landmarkCityDestinationId": null,
+                        "type": "CITY",
+                        "redirectPage": "DEFAULT_PAGE",
+                        "latitude": -3.8419913485616695,
+                        "longitude": -79.09117196366707,
+                        "searchDetail": null,
+                        "caption": "Imbana, <span class='highlighted'>Zamora</span> Chinchipe, Ecuador",
+                        "name": "Imbana"
+                    }
+                ]
+            },
+            {
+                "group": "HOTEL_GROUP",
+                "entities": []
+            },
+            {
+                "group": "LANDMARK_GROUP",
+                "entities": []
+            },
+            {
+                "group": "TRANSPORT_GROUP",
+                "entities": []
+            }
+        ],
+        "geocodeFallback": false
+    }
+]

@@ -1,179 +1,253 @@
 @prefix ns1: <https://bimerr.iot.linkeddata.es/def/weather/> .
+@prefix ns2: <http://www.w3.org/2006/time#/> .
+@prefix ns3: <http://www.purl.org/dabgeo/common-domain/weather#/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://example.org/destination/CITY/Gualel> a schema:TouristDestination ;
-    rdfs:label "Gualel, Loja Province, Ecuador" ;
-    ns1:Humidity 90 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1017 ;
-    ns1:temp "282.12"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-3.7536272587413535"^^xsd:float ;
-    schema:longitude "-79.37310779298699"^^xsd:float ;
-    schema:name "Gualel" .
+<http://WeatherTourist.org/destination/CITY/CumbayÃ¡> a schema:TouristDestination ;
+    rdfs:label "CumbayÃ¡, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:40" ;
+    ns1:RelativeHumidity 77 ;
+    ns1:pressure 1027 ;
+    ns1:temp "288.44"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.2"^^xsd:float ;
+    schema:longitude "-78.433296"^^xsd:float ;
+    schema:name "CumbayÃ¡" .
 
-<http://example.org/destination/CITY/Jimbura> a schema:TouristDestination ;
-    rdfs:label "Jimbura, Loja Province, Ecuador" ;
-    ns1:Humidity 93 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1017 ;
-    ns1:temp "281.6"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-4.6543353997929895"^^xsd:float ;
-    schema:longitude "-79.4439252024845"^^xsd:float ;
-    schema:name "Jimbura" .
+<http://WeatherTourist.org/destination/CITY/Guangopolo> a schema:TouristDestination ;
+    rdfs:label "Guangopolo, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:48" ;
+    ns1:RelativeHumidity 77 ;
+    ns1:pressure 1027 ;
+    ns1:temp "287.59"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.25290948306019445"^^xsd:float ;
+    schema:longitude "-78.43763959454907"^^xsd:float ;
+    schema:name "Guangopolo" .
 
-<http://example.org/destination/CITY/Lluzhapa> a schema:TouristDestination ;
-    rdfs:label "Lluzhapa, Loja Province, Ecuador" ;
-    ns1:Humidity 85 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1016 ;
-    ns1:temp "285.26"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-3.492462417354487"^^xsd:float ;
-    schema:longitude "-79.32495698683137"^^xsd:float ;
-    schema:name "Lluzhapa" .
+<http://WeatherTourist.org/destination/CITY/Guayllabamba> a schema:TouristDestination ;
+    rdfs:label "Guayllabamba, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:43" ;
+    ns1:RelativeHumidity 77 ;
+    ns1:pressure 1027 ;
+    ns1:temp "289.71"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.05410230128899479"^^xsd:float ;
+    schema:longitude "-78.34332932772412"^^xsd:float ;
+    schema:name "Guayllabamba" .
 
-<http://example.org/destination/CITY/Manu> a schema:TouristDestination ;
-    rdfs:label "Manu, Loja Province, Ecuador" ;
-    ns1:Humidity 86 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1016 ;
-    ns1:temp "278.03"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-3.5291942265345875"^^xsd:float ;
-    schema:longitude "-79.42642033242456"^^xsd:float ;
-    schema:name "Manu" .
-
-<http://example.org/destination/CITY/Urdaneta> a schema:TouristDestination ;
-    rdfs:label "Urdaneta, Loja Province, Ecuador" ;
-    ns1:Humidity 91 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1018 ;
-    ns1:temp "281.87"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-3.6394344211967353"^^xsd:float ;
-    schema:longitude "-79.16831395316717"^^xsd:float ;
-    schema:name "Urdaneta" .
-
-<http://example.org/destination/CITY/Vilcabamba> a schema:TouristDestination ;
-    rdfs:label "Vilcabamba, Loja Province, Ecuador" ;
-    ns1:Humidity 93 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1017 ;
-    ns1:temp "287.46"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-4.279782518845229"^^xsd:float ;
-    schema:longitude "-79.22828827501147"^^xsd:float ;
-    schema:name "Vilcabamba" .
-
-<http://example.org/destination/CITY/Zapotillo> a schema:TouristDestination ;
-    rdfs:label "Zapotillo, Zapotillo, Loja Province, Ecuador" ;
-    ns1:Humidity 83 ;
-    ns1:SkyCover "light rain" ;
+<http://WeatherTourist.org/destination/CITY/Mashpi> a schema:TouristDestination ;
+    rdfs:label "Mashpi, Pacto, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "overcast clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:43" ;
+    ns1:RelativeHumidity 81 ;
     ns1:pressure 1014 ;
-    ns1:temp "291.37"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-4.362287242855844"^^xsd:float ;
-    schema:longitude "-80.25714249772747"^^xsd:float ;
-    schema:name "Zapotillo" .
+    ns1:temp "292.88"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "0.1660780022961204"^^xsd:float ;
+    schema:longitude "-78.86176526475326"^^xsd:float ;
+    schema:name "Mashpi" .
 
-<http://example.org/destination/LANDMARK/LojaCathedral> a schema:TouristDestination ;
-    rdfs:label "Loja Cathedral, Loja, Loja Province, Ecuador" ;
-    ns1:Humidity 96 ;
-    ns1:SkyCover "overcast clouds" ;
+<http://WeatherTourist.org/destination/CITY/Mindo> a schema:TouristDestination ;
+    rdfs:label "Mindo, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:40" ;
+    ns1:RelativeHumidity 77 ;
+    ns1:pressure 1014 ;
+    ns1:temp "295.41"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.053329"^^xsd:float ;
+    schema:longitude "-78.774669"^^xsd:float ;
+    schema:name "Mindo" .
+
+<http://WeatherTourist.org/destination/CITY/Pifo> a schema:TouristDestination ;
+    rdfs:label "Pifo, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:45" ;
+    ns1:RelativeHumidity 77 ;
+    ns1:pressure 1027 ;
+    ns1:temp "279.16"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.2812946151673215"^^xsd:float ;
+    schema:longitude "-78.26746282452481"^^xsd:float ;
+    schema:name "Pifo" .
+
+<http://WeatherTourist.org/destination/CITY/Puembo> a schema:TouristDestination ;
+    rdfs:label "Puembo, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:42" ;
+    ns1:RelativeHumidity 77 ;
+    ns1:pressure 1027 ;
+    ns1:temp "288.11"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.1674242776675274"^^xsd:float ;
+    schema:longitude "-78.36962495595662"^^xsd:float ;
+    schema:name "Puembo" .
+
+<http://WeatherTourist.org/destination/CITY/PuertoQuito> a schema:TouristDestination ;
+    rdfs:label "Puerto Quito, Puerto Quito, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "overcast clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:46" ;
+    ns1:RelativeHumidity 79 ;
+    ns1:pressure 1013 ;
+    ns1:temp "297.57"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "0.15598836387180812"^^xsd:float ;
+    schema:longitude "-79.2394691517776"^^xsd:float ;
+    schema:name "Puerto Quito" .
+
+<http://WeatherTourist.org/destination/CITY/Quito> a schema:TouristDestination ;
+    rdfs:label "Quito, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:38" ;
+    ns1:RelativeHumidity 77 ;
+    ns1:pressure 1027 ;
+    ns1:temp "285.5"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.220299"^^xsd:float ;
+    schema:longitude "-78.511714"^^xsd:float ;
+    schema:name "Quito" .
+
+<http://WeatherTourist.org/destination/CITY/SanRafael> a schema:TouristDestination ;
+    rdfs:label "San Rafael, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:47" ;
+    ns1:RelativeHumidity 57 ;
     ns1:pressure 1017 ;
-    ns1:temp "285.26"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-3.99648"^^xsd:float ;
-    schema:longitude "-79.20131"^^xsd:float ;
-    schema:name "Loja Cathedral" .
+    ns1:temp "287.42"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.3334026427543562"^^xsd:float ;
+    schema:longitude "-78.47820881046518"^^xsd:float ;
+    schema:name "San Rafael" .
 
-<http://example.org/destination/LANDMARK/LojaCityGates> a schema:TouristDestination ;
-    rdfs:label "Loja City Gates, Loja, Loja Province, Ecuador" ;
-    ns1:Humidity 96 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1017 ;
-    ns1:temp "285.3"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-3.989522"^^xsd:float ;
-    schema:longitude "-79.204251"^^xsd:float ;
-    schema:name "Loja City Gates" .
+<http://WeatherTourist.org/destination/CITY/Secas> a schema:TouristDestination ;
+    rdfs:label "Secas, Pintag, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "overcast clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:46" ;
+    ns1:RelativeHumidity 68 ;
+    ns1:pressure 1019 ;
+    ns1:temp "281.36"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.44999999999999996"^^xsd:float ;
+    schema:longitude "-78.33333300000001"^^xsd:float ;
+    schema:name "Secas" .
 
-<http://example.org/destination/LANDMARK/LojaMusicMuseum> a schema:TouristDestination ;
-    rdfs:label "Loja Music Museum, Loja, Loja Province, Ecuador" ;
-    ns1:Humidity 96 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1017 ;
-    ns1:temp "285.26"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-3.9981"^^xsd:float ;
-    schema:longitude "-79.201163"^^xsd:float ;
-    schema:name "Loja Music Museum" .
+<http://WeatherTourist.org/destination/CITY/Tababela> a schema:TouristDestination ;
+    rdfs:label "Tababela, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:41" ;
+    ns1:RelativeHumidity 77 ;
+    ns1:pressure 1027 ;
+    ns1:temp "287.96"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.14069865641653118"^^xsd:float ;
+    schema:longitude "-78.35476288619238"^^xsd:float ;
+    schema:name "Tababela" .
 
-<http://example.org/destination/LANDMARK/ParqueUniversitarioLaArgelia> a schema:TouristDestination ;
-    rdfs:label "Parque Universitario La Argelia, Loja, Loja Province, Ecuador" ;
-    ns1:Humidity 96 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1017 ;
-    ns1:temp "285.26"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-3.9994"^^xsd:float ;
-    schema:longitude "-79.203"^^xsd:float ;
-    schema:name "Parque Universitario La Argelia" .
+<http://WeatherTourist.org/destination/CITY/Tumbaco> a schema:TouristDestination ;
+    rdfs:label "Tumbaco, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:44" ;
+    ns1:RelativeHumidity 77 ;
+    ns1:pressure 1027 ;
+    ns1:temp "288.34"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.21982581067626938"^^xsd:float ;
+    schema:longitude "-78.3947803661748"^^xsd:float ;
+    schema:name "Tumbaco" .
 
-<http://example.org/destination/LANDMARK/SaraguroMarket> a schema:TouristDestination ;
-    rdfs:label "Saraguro Market, Saraguro, Loja Province, Ecuador" ;
-    ns1:Humidity 88 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1017 ;
-    ns1:temp "283.73"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-3.62201"^^xsd:float ;
-    schema:longitude "-79.239702"^^xsd:float ;
-    schema:name "Saraguro Market" .
+<http://WeatherTourist.org/destination/LANDMARK/CotopaxiMountain> a schema:TouristDestination ;
+    rdfs:label "Cotopaxi Mountain, Machachi, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "overcast clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:50" ;
+    ns1:RelativeHumidity 70 ;
+    ns1:pressure 1018 ;
+    ns1:temp "267.56"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.684927"^^xsd:float ;
+    schema:longitude "-78.437053"^^xsd:float ;
+    schema:name "Cotopaxi Mountain" .
 
-<http://example.org/destination/LANDMARK/VilcabambaChurch> a schema:TouristDestination ;
-    rdfs:label "Vilcabamba Church, Vilcabamba, Loja Province, Ecuador" ;
-    ns1:Humidity 93 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1017 ;
-    ns1:temp "288.43"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-4.262117"^^xsd:float ;
-    schema:longitude "-79.222736"^^xsd:float ;
-    schema:name "Vilcabamba Church" .
+<http://WeatherTourist.org/destination/NEIGHBORHOOD/QuitoHistoricCenter> a schema:TouristDestination ;
+    rdfs:label "Quito Historic Center, Quito, Pichincha, Ecuador" ;
+    ns3:WeatherCondition "broken clouds" ;
+    ns3:WeatherState "Clouds" ;
+    ns2:inDateTime "2022-06-06 09:59:38" ;
+    ns1:RelativeHumidity 77 ;
+    ns1:pressure 1027 ;
+    ns1:temp "285.5"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.21968149866112982"^^xsd:float ;
+    schema:longitude "-78.51275698475546"^^xsd:float ;
+    schema:name "Quito Historic Center" .
 
-<http://example.org/destination/LANDMARK/WaterfallofSininkapak> a schema:TouristDestination ;
-    rdfs:label "Waterfall of Sininkapak, Saraguro, Loja Province, Ecuador" ;
-    ns1:Humidity 89 ;
-    ns1:SkyCover "overcast clouds" ;
-    ns1:pressure 1017 ;
-    ns1:temp "283.28"^^xsd:float ;
-    schema:Country <http://example.org/destination/Ecuador> ;
-    schema:State <http://example.org/destination/LojaProvince> ;
-    schema:latitude "-3.632289"^^xsd:float ;
-    schema:longitude "-79.221056"^^xsd:float ;
-    schema:name "Waterfall of Sininkapak" .
-
-<http://example.org/destination/Ecuador> a schema:Country ;
+<http://WeatherTourist.org/destination/Ecuador> a schema:Country ;
     rdfs:label " Ecuador" .
 
-<http://example.org/destination/LojaProvince> a schema:State ;
-    rdfs:label " Loja Province" .
+<http://WeatherTourist.org/destination/Pichincha> a schema:State ;
+    rdfs:label " Pichincha" .
 

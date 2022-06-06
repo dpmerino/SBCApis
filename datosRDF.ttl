@@ -1,14 +1,14 @@
 @prefix ns1: <https://bimerr.iot.linkeddata.es/def/weather/> .
-@prefix ns2: <https://dbpedia.org/ontology/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://example.org/destination/CITY/Gualel> a schema:TouristDestination ;
-    ns1:Humidity 96 ;
-    ns1:Pressure 1016 ;
-    ns1:Temperature "283.57"^^xsd:float ;
-    ns2:elevation 1016 ;
+    rdfs:label "Gualel, Loja Province, Ecuador" ;
+    ns1:Humidity 90 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1017 ;
+    ns1:temp "282.12"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-3.7536272587413535"^^xsd:float ;
@@ -16,10 +16,11 @@
     schema:name "Gualel" .
 
 <http://example.org/destination/CITY/Jimbura> a schema:TouristDestination ;
-    ns1:Humidity 95 ;
-    ns1:Pressure 1016 ;
-    ns1:Temperature "282.82"^^xsd:float ;
-    ns2:elevation 1016 ;
+    rdfs:label "Jimbura, Loja Province, Ecuador" ;
+    ns1:Humidity 93 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1017 ;
+    ns1:temp "281.6"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-4.6543353997929895"^^xsd:float ;
@@ -27,10 +28,11 @@
     schema:name "Jimbura" .
 
 <http://example.org/destination/CITY/Lluzhapa> a schema:TouristDestination ;
-    ns1:Humidity 90 ;
-    ns1:Pressure 1015 ;
-    ns1:Temperature "286.42"^^xsd:float ;
-    ns2:elevation 1015 ;
+    rdfs:label "Lluzhapa, Loja Province, Ecuador" ;
+    ns1:Humidity 85 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1016 ;
+    ns1:temp "285.26"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-3.492462417354487"^^xsd:float ;
@@ -38,10 +40,11 @@
     schema:name "Lluzhapa" .
 
 <http://example.org/destination/CITY/Manu> a schema:TouristDestination ;
-    ns1:Humidity 93 ;
-    ns1:Pressure 1015 ;
-    ns1:Temperature "279.3"^^xsd:float ;
-    ns2:elevation 1015 ;
+    rdfs:label "Manu, Loja Province, Ecuador" ;
+    ns1:Humidity 86 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1016 ;
+    ns1:temp "278.03"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-3.5291942265345875"^^xsd:float ;
@@ -49,10 +52,11 @@
     schema:name "Manu" .
 
 <http://example.org/destination/CITY/Urdaneta> a schema:TouristDestination ;
-    ns1:Humidity 93 ;
-    ns1:Pressure 1017 ;
-    ns1:Temperature "283.1"^^xsd:float ;
-    ns2:elevation 1017 ;
+    rdfs:label "Urdaneta, Loja Province, Ecuador" ;
+    ns1:Humidity 91 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1018 ;
+    ns1:temp "281.87"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-3.6394344211967353"^^xsd:float ;
@@ -60,10 +64,11 @@
     schema:name "Urdaneta" .
 
 <http://example.org/destination/CITY/Vilcabamba> a schema:TouristDestination ;
+    rdfs:label "Vilcabamba, Loja Province, Ecuador" ;
     ns1:Humidity 93 ;
-    ns1:Pressure 1016 ;
-    ns1:Temperature "289.16"^^xsd:float ;
-    ns2:elevation 1016 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1017 ;
+    ns1:temp "287.46"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-4.279782518845229"^^xsd:float ;
@@ -71,10 +76,11 @@
     schema:name "Vilcabamba" .
 
 <http://example.org/destination/CITY/Zapotillo> a schema:TouristDestination ;
-    ns1:Humidity 58 ;
-    ns1:Pressure 1013 ;
-    ns1:Temperature "295.11"^^xsd:float ;
-    ns2:elevation 1013 ;
+    rdfs:label "Zapotillo, Zapotillo, Loja Province, Ecuador" ;
+    ns1:Humidity 83 ;
+    ns1:SkyCover "light rain" ;
+    ns1:pressure 1014 ;
+    ns1:temp "291.37"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-4.362287242855844"^^xsd:float ;
@@ -82,9 +88,11 @@
     schema:name "Zapotillo" .
 
 <http://example.org/destination/LANDMARK/LojaCathedral> a schema:TouristDestination ;
-    ns1:Humidity 94 ;
-    ns1:Pressure 1015 ;
-    ns1:Temperature "286.99"^^xsd:float ;
+    rdfs:label "Loja Cathedral, Loja, Loja Province, Ecuador" ;
+    ns1:Humidity 96 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1017 ;
+    ns1:temp "285.26"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-3.99648"^^xsd:float ;
@@ -92,9 +100,11 @@
     schema:name "Loja Cathedral" .
 
 <http://example.org/destination/LANDMARK/LojaCityGates> a schema:TouristDestination ;
-    ns1:Humidity 94 ;
-    ns1:Pressure 1015 ;
-    ns1:Temperature "287.04"^^xsd:float ;
+    rdfs:label "Loja City Gates, Loja, Loja Province, Ecuador" ;
+    ns1:Humidity 96 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1017 ;
+    ns1:temp "285.3"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-3.989522"^^xsd:float ;
@@ -102,9 +112,11 @@
     schema:name "Loja City Gates" .
 
 <http://example.org/destination/LANDMARK/LojaMusicMuseum> a schema:TouristDestination ;
-    ns1:Humidity 94 ;
-    ns1:Pressure 1015 ;
-    ns1:Temperature "286.99"^^xsd:float ;
+    rdfs:label "Loja Music Museum, Loja, Loja Province, Ecuador" ;
+    ns1:Humidity 96 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1017 ;
+    ns1:temp "285.26"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-3.9981"^^xsd:float ;
@@ -112,9 +124,11 @@
     schema:name "Loja Music Museum" .
 
 <http://example.org/destination/LANDMARK/ParqueUniversitarioLaArgelia> a schema:TouristDestination ;
-    ns1:Humidity 94 ;
-    ns1:Pressure 1015 ;
-    ns1:Temperature "286.99"^^xsd:float ;
+    rdfs:label "Parque Universitario La Argelia, Loja, Loja Province, Ecuador" ;
+    ns1:Humidity 96 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1017 ;
+    ns1:temp "285.26"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-3.9994"^^xsd:float ;
@@ -122,9 +136,11 @@
     schema:name "Parque Universitario La Argelia" .
 
 <http://example.org/destination/LANDMARK/SaraguroMarket> a schema:TouristDestination ;
-    ns1:Humidity 92 ;
-    ns1:Pressure 1016 ;
-    ns1:Temperature "284.89"^^xsd:float ;
+    rdfs:label "Saraguro Market, Saraguro, Loja Province, Ecuador" ;
+    ns1:Humidity 88 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1017 ;
+    ns1:temp "283.73"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-3.62201"^^xsd:float ;
@@ -132,9 +148,11 @@
     schema:name "Saraguro Market" .
 
 <http://example.org/destination/LANDMARK/VilcabambaChurch> a schema:TouristDestination ;
-    ns1:Humidity 92 ;
-    ns1:Pressure 1016 ;
-    ns1:Temperature "290.2"^^xsd:float ;
+    rdfs:label "Vilcabamba Church, Vilcabamba, Loja Province, Ecuador" ;
+    ns1:Humidity 93 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1017 ;
+    ns1:temp "288.43"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-4.262117"^^xsd:float ;
@@ -142,9 +160,11 @@
     schema:name "Vilcabamba Church" .
 
 <http://example.org/destination/LANDMARK/WaterfallofSininkapak> a schema:TouristDestination ;
-    ns1:Humidity 92 ;
-    ns1:Pressure 1016 ;
-    ns1:Temperature "284.46"^^xsd:float ;
+    rdfs:label "Waterfall of Sininkapak, Saraguro, Loja Province, Ecuador" ;
+    ns1:Humidity 89 ;
+    ns1:SkyCover "overcast clouds" ;
+    ns1:pressure 1017 ;
+    ns1:temp "283.28"^^xsd:float ;
     schema:Country <http://example.org/destination/Ecuador> ;
     schema:State <http://example.org/destination/LojaProvince> ;
     schema:latitude "-3.632289"^^xsd:float ;

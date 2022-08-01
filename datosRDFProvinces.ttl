@@ -2443,7 +2443,7 @@
     schema:name "Zapotillo" .
 
 <http://WeatherTourist.org/destination/LANDMARK/BluGalapagos> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Blu Galapagos, Puerto Ayora, Galapagos, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
     ns3:inDateTime "2022-06-06 15:25:51" ;
@@ -2491,7 +2491,7 @@
     schema:name "Cotopaxi National Park" .
 
 <http://WeatherTourist.org/destination/LANDMARK/CotopaxiPungoFincaHotel> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/lightrain> ;
     ns3:inDateTime "2022-06-06 15:27:22" ;
@@ -2507,7 +2507,7 @@
     schema:name "CotopaxiPungo Finca Hotel" .
 
 <http://WeatherTourist.org/destination/LANDMARK/FinchBayGalapagosHotel> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
     ns3:inDateTime "2022-06-06 15:27:26" ;
@@ -2523,7 +2523,7 @@
     schema:name "Finch Bay Galapagos Hotel" .
 
 <http://WeatherTourist.org/destination/LANDMARK/GalapagosEcoFriendly> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/overcastclouds> ;
     ns3:inDateTime "2022-06-06 15:25:54" ;
@@ -2555,7 +2555,7 @@
     schema:name "Galapagos Interpretation Center" .
 
 <http://WeatherTourist.org/destination/LANDMARK/GalapagosIslandsHotel> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
     ns3:inDateTime "2022-06-06 15:25:51" ;
@@ -2587,7 +2587,7 @@
     schema:name "Galapagos National Park" .
 
 <http://WeatherTourist.org/destination/LANDMARK/GalapagosNative> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Galapagos Native, Puerto Ayora, Galapagos, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
     ns3:inDateTime "2022-06-06 15:27:26" ;
@@ -2603,7 +2603,7 @@
     schema:name "Galapagos Native" .
 
 <http://WeatherTourist.org/destination/LANDMARK/GalapagosSunsetHotel> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/overcastclouds> ;
     ns3:inDateTime "2022-06-06 15:27:25" ;
@@ -2651,7 +2651,7 @@
     schema:name "Guayaquil Children's Hospital" .
 
 <http://WeatherTourist.org/destination/LANDMARK/HosteriaPampallacta> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Hosteria Pampallacta, Papallacta, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/lightrain> ;
     ns3:inDateTime "2022-06-06 15:27:20" ;
@@ -2667,7 +2667,7 @@
     schema:name "Hosteria Pampallacta" .
 
 <http://WeatherTourist.org/destination/LANDMARK/HotelRodelu> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
     ns3:inDateTime "2022-06-06 15:27:23" ;
@@ -2811,7 +2811,7 @@
     schema:name "Quilotoa Lagoon" .
 
 <http://WeatherTourist.org/destination/LANDMARK/REECLatacungabyOroVerdeHotels> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
     ns3:inDateTime "2022-06-06 15:27:23" ;
@@ -2827,7 +2827,7 @@
     schema:name "REEC Latacunga by Oro Verde Hotels" .
 
 <http://WeatherTourist.org/destination/LANDMARK/RoyalDecameronMompiche-AllInclusive> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns3:inDateTime "2022-06-06 15:27:24" ;
@@ -2859,7 +2859,7 @@
     schema:name "Saraguro Market" .
 
 <http://WeatherTourist.org/destination/LANDMARK/TermasElPantanal> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Termas El Pantanal, Papallacta, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/lightrain> ;
     ns3:inDateTime "2022-06-06 15:27:29" ;
@@ -2875,7 +2875,7 @@
     schema:name "Termas El Pantanal" .
 
 <http://WeatherTourist.org/destination/LANDMARK/TermasdePapallacta> a schema:TouristDestination ;
-    rdfs:label "['CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador', 'REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador', 'Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador', 'Blu Galapagos, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Galapagos Native, Puerto Ayora, Galapagos, Ecuador', 'Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador', 'Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador', 'Termas de Papallacta, Papallacta, Napo, Ecuador', 'Hosteria Pampallacta, Papallacta, Napo, Ecuador', 'Termas El Pantanal, Papallacta, Napo, Ecuador']" ;
+    rdfs:label "Termas de Papallacta, Papallacta, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/lightrain> ;
     ns3:inDateTime "2022-06-06 15:27:28" ;
@@ -3095,9 +3095,6 @@
 
 <http://WeatherTourist.org/destination/snow> a ns1:WeatherCondition ;
     ns1:hasWeatherCondition "snow" .
-
-<http://WeatherTourist.org/destination/CotopaxiNationalPark> a schema:State ;
-    rdfs:label " Cotopaxi" .
 
 <http://WeatherTourist.org/destination/fewclouds> a ns1:WeatherCondition ;
     ns1:hasWeatherCondition "few clouds" .

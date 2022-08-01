@@ -1,0 +1,3376 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://www.purl.org/dabgeo/common-domain/weather#/> .
+@prefix ns2: <https://bimerr.iot.linkeddata.es/def/weather/> .
+@prefix ns3: <http://www.w3.org/2006/time#/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://WeatherTourist.org/destination/CITY/AgoyÃ¡n> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "AgoyÃ¡n, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:06" ;
+    ns2:RelativeHumidity 78 ;
+    ns2:pressure 1013 ;
+    ns2:temp "294.47"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.3833330000000001"^^xsd:float ;
+    schema:longitude "-78.316667"^^xsd:float ;
+    schema:name "AgoyÃ¡n" .
+
+<http://WeatherTourist.org/destination/CITY/Alaques> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Alaques, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:39" ;
+    ns2:RelativeHumidity 52 ;
+    ns2:pressure 1026 ;
+    ns2:temp "283.98"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.8504952224501332"^^xsd:float ;
+    schema:longitude "-78.4942295266684"^^xsd:float ;
+    schema:name "Alaques" .
+
+<http://WeatherTourist.org/destination/CITY/Amaluza> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Amaluza, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:19" ;
+    ns2:RelativeHumidity 86 ;
+    ns2:pressure 1014 ;
+    ns2:temp "289.47"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-2.6280236938293737"^^xsd:float ;
+    schema:longitude "-78.52552977771"^^xsd:float ;
+    schema:name "Amaluza" .
+
+<http://WeatherTourist.org/destination/CITY/Ambato> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Ambato, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:27:00" ;
+    ns2:RelativeHumidity 36 ;
+    ns2:pressure 1019 ;
+    ns2:temp "293.38"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.257368636311073"^^xsd:float ;
+    schema:longitude "-78.61428555590945"^^xsd:float ;
+    schema:name "Ambato" .
+
+<http://WeatherTourist.org/destination/CITY/Ambuqui> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Ambuqui, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:11" ;
+    ns2:RelativeHumidity 66 ;
+    ns2:pressure 1011 ;
+    ns2:temp "294.33"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.40865335230789923"^^xsd:float ;
+    schema:longitude "-78.02079457395298"^^xsd:float ;
+    schema:name "Ambuqui" .
+
+<http://WeatherTourist.org/destination/CITY/Ancayacu> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Ancayacu, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:42" ;
+    ns2:RelativeHumidity 57 ;
+    ns2:pressure 1007 ;
+    ns2:temp "303.42"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.7"^^xsd:float ;
+    schema:longitude "-76.0"^^xsd:float ;
+    schema:name "Ancayacu" .
+
+<http://WeatherTourist.org/destination/CITY/AncÃ³n> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "AncÃ³n, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:51" ;
+    ns2:RelativeHumidity 71 ;
+    ns2:pressure 1009 ;
+    ns2:temp "299.76"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "1.4133065480792586"^^xsd:float ;
+    schema:longitude "-78.85814445217052"^^xsd:float ;
+    schema:name "AncÃ³n" .
+
+<http://WeatherTourist.org/destination/CITY/Angochagua> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Angochagua, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:09" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1013 ;
+    ns2:temp "288.83"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.22047257877382412"^^xsd:float ;
+    schema:longitude "-78.08225673689789"^^xsd:float ;
+    schema:name "Angochagua" .
+
+<http://WeatherTourist.org/destination/CITY/Apuela> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Apuela, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:10" ;
+    ns2:RelativeHumidity 90 ;
+    ns2:pressure 1012 ;
+    ns2:temp "289.3"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.4244770963065951"^^xsd:float ;
+    schema:longitude "-78.4234976559305"^^xsd:float ;
+    schema:name "Apuela" .
+
+<http://WeatherTourist.org/destination/CITY/Archidona> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Archidona, Archidona, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:32" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1016 ;
+    ns2:temp "283.06"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.7331022857819212"^^xsd:float ;
+    schema:longitude "-78.18111418484025"^^xsd:float ;
+    schema:name "Archidona" .
+
+<http://WeatherTourist.org/destination/CITY/Asuncion> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Asuncion, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:23" ;
+    ns2:RelativeHumidity 71 ;
+    ns2:pressure 1010 ;
+    ns2:temp "293.74"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-3.2314363332580736"^^xsd:float ;
+    schema:longitude "-79.24425242245984"^^xsd:float ;
+    schema:name "Asuncion" .
+
+<http://WeatherTourist.org/destination/CITY/Baeza> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Baeza, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:31" ;
+    ns2:RelativeHumidity 93 ;
+    ns2:pressure 1014 ;
+    ns2:temp "291.45"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.464461"^^xsd:float ;
+    schema:longitude "-77.890402"^^xsd:float ;
+    schema:name "Baeza" .
+
+<http://WeatherTourist.org/destination/CITY/Banos> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Banos, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:16" ;
+    ns2:RelativeHumidity 74 ;
+    ns2:pressure 1014 ;
+    ns2:temp "281.03"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-2.98304422627424"^^xsd:float ;
+    schema:longitude "-79.2253062140493"^^xsd:float ;
+    schema:name "Banos" .
+
+<http://WeatherTourist.org/destination/CITY/BaÃ±osdeAguaSanta> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "BaÃ±os de Agua Santa, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:59" ;
+    ns2:RelativeHumidity 70 ;
+    ns2:pressure 1013 ;
+    ns2:temp "292.93"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.4248253180804327"^^xsd:float ;
+    schema:longitude "-78.42557103398643"^^xsd:float ;
+    schema:name "BaÃ±os de Agua Santa" .
+
+<http://WeatherTourist.org/destination/CITY/BorbÃ³n> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "BorbÃ³n, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:42" ;
+    ns2:RelativeHumidity 67 ;
+    ns2:pressure 1009 ;
+    ns2:temp "301.11"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "1.0170523159891514"^^xsd:float ;
+    schema:longitude "-78.99908601050404"^^xsd:float ;
+    schema:name "BorbÃ³n" .
+
+<http://WeatherTourist.org/destination/CITY/Bunche> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Bunche, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:48" ;
+    ns2:RelativeHumidity 74 ;
+    ns2:pressure 1010 ;
+    ns2:temp "298.59"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "0.6377728899093933"^^xsd:float ;
+    schema:longitude "-80.04324443840791"^^xsd:float ;
+    schema:name "Bunche" .
+
+<http://WeatherTourist.org/destination/CITY/Calceta> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Calceta, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:31" ;
+    ns2:RelativeHumidity 62 ;
+    ns2:pressure 1009 ;
+    ns2:temp "301.7"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-0.9196430871990133"^^xsd:float ;
+    schema:longitude "-80.05542641359116"^^xsd:float ;
+    schema:name "Calceta" .
+
+<http://WeatherTourist.org/destination/CITY/Calderon> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Calderon, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:46" ;
+    ns2:RelativeHumidity 71 ;
+    ns2:pressure 1009 ;
+    ns2:temp "300.43"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "1.1722213798161465"^^xsd:float ;
+    schema:longitude "-78.76497167044181"^^xsd:float ;
+    schema:name "Calderon" .
+
+<http://WeatherTourist.org/destination/CITY/Canoa> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Canoa, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:22" ;
+    ns2:RelativeHumidity 79 ;
+    ns2:pressure 1010 ;
+    ns2:temp "297.14"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-0.39064781401659154"^^xsd:float ;
+    schema:longitude "-80.40232240309916"^^xsd:float ;
+    schema:name "Canoa" .
+
+<http://WeatherTourist.org/destination/CITY/Carolina> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Carolina, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:15" ;
+    ns2:RelativeHumidity 86 ;
+    ns2:pressure 1012 ;
+    ns2:temp "288.3"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.6534333630952722"^^xsd:float ;
+    schema:longitude "-78.2306964660524"^^xsd:float ;
+    schema:name "Carolina" .
+
+<http://WeatherTourist.org/destination/CITY/Chical> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Chical, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:27" ;
+    ns2:RelativeHumidity 96 ;
+    ns2:pressure 1011 ;
+    ns2:temp "291.65"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.9962967586680864"^^xsd:float ;
+    schema:longitude "-78.26126387737317"^^xsd:float ;
+    schema:name "Chical" .
+
+<http://WeatherTourist.org/destination/CITY/Chinca> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Chinca, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/clearsky> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clear> ;
+    ns3:inDateTime "2022-06-06 15:25:43" ;
+    ns2:RelativeHumidity 60 ;
+    ns2:pressure 1009 ;
+    ns2:temp "300.97"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "0.7745730911180627"^^xsd:float ;
+    schema:longitude "-79.56395387285635"^^xsd:float ;
+    schema:name "Chinca" .
+
+<http://WeatherTourist.org/destination/CITY/Chuga> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Chuga, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:14" ;
+    ns2:RelativeHumidity 72 ;
+    ns2:pressure 1012 ;
+    ns2:temp "287.05"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.3639697181852287"^^xsd:float ;
+    schema:longitude "-77.87578585200076"^^xsd:float ;
+    schema:name "Chuga" .
+
+<http://WeatherTourist.org/destination/CITY/ChumblÃ­n> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "ChumblÃ­n, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:25" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1012 ;
+    ns2:temp "281.77"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-3.096483769763451"^^xsd:float ;
+    schema:longitude "-79.24640754898066"^^xsd:float ;
+    schema:name "ChumblÃ­n" .
+
+<http://WeatherTourist.org/destination/CITY/Chura> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Chura, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:45" ;
+    ns2:RelativeHumidity 57 ;
+    ns2:pressure 1009 ;
+    ns2:temp "302.53"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "0.5265675420449156"^^xsd:float ;
+    schema:longitude "-79.45746994881267"^^xsd:float ;
+    schema:name "Chura" .
+
+<http://WeatherTourist.org/destination/CITY/Coca> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Coca, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:39" ;
+    ns2:RelativeHumidity 66 ;
+    ns2:pressure 1010 ;
+    ns2:temp "303.09"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.4394828809942288"^^xsd:float ;
+    schema:longitude "-76.98901875787874"^^xsd:float ;
+    schema:name "Coca" .
+
+<http://WeatherTourist.org/destination/CITY/Cojimies> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Cojimies, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:24" ;
+    ns2:RelativeHumidity 72 ;
+    ns2:pressure 1009 ;
+    ns2:temp "299.27"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "0.22962498953395402"^^xsd:float ;
+    schema:longitude "-79.86812514295191"^^xsd:float ;
+    schema:name "Cojimies" .
+
+<http://WeatherTourist.org/destination/CITY/Concepcion> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Concepcion, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:33" ;
+    ns2:RelativeHumidity 81 ;
+    ns2:pressure 1012 ;
+    ns2:temp "288.12"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.6580237153967372"^^xsd:float ;
+    schema:longitude "-78.1108533544168"^^xsd:float ;
+    schema:name "Concepcion" .
+
+<http://WeatherTourist.org/destination/CITY/Cononaco> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Cononaco, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:47" ;
+    ns2:RelativeHumidity 59 ;
+    ns2:pressure 1008 ;
+    ns2:temp "302.91"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-1.053168958935888"^^xsd:float ;
+    schema:longitude "-76.06921234676825"^^xsd:float ;
+    schema:name "Cononaco" .
+
+<http://WeatherTourist.org/destination/CITY/Cosanga> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Cosanga, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:36" ;
+    ns2:RelativeHumidity 84 ;
+    ns2:pressure 1013 ;
+    ns2:temp "290.69"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.6"^^xsd:float ;
+    schema:longitude "-77.866699"^^xsd:float ;
+    schema:name "Cosanga" .
+
+<http://WeatherTourist.org/destination/CITY/Cotalo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Cotalo, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:27:08" ;
+    ns2:RelativeHumidity 64 ;
+    ns2:pressure 1012 ;
+    ns2:temp "296.71"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.4385247880729364"^^xsd:float ;
+    schema:longitude "-78.50635540640647"^^xsd:float ;
+    schema:name "Cotalo" .
+
+<http://WeatherTourist.org/destination/CITY/Cotundo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Cotundo, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:37" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1012 ;
+    ns2:temp "297.17"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.6982762739500987"^^xsd:float ;
+    schema:longitude "-77.82663614801466"^^xsd:float ;
+    schema:name "Cotundo" .
+
+<http://WeatherTourist.org/destination/CITY/Crucita> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Crucita, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:23" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1011 ;
+    ns2:temp "298.25"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-0.8848371682876117"^^xsd:float ;
+    schema:longitude "-80.53297990751143"^^xsd:float ;
+    schema:name "Crucita" .
+
+<http://WeatherTourist.org/destination/CITY/Cuenca> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Cuenca, Cuenca, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:17:56" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1023 ;
+    ns2:temp "288.03"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-2.898429"^^xsd:float ;
+    schema:longitude "-79.00612"^^xsd:float ;
+    schema:name "Cuenca" .
+
+<http://WeatherTourist.org/destination/CITY/CumbayÃ¡> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "CumbayÃ¡, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
+    ns3:inDateTime "2022-06-06 15:26:51" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1022 ;
+    ns2:temp "292.44"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.2"^^xsd:float ;
+    schema:longitude "-78.433296"^^xsd:float ;
+    schema:name "CumbayÃ¡" .
+
+<http://WeatherTourist.org/destination/CITY/Cuyuja> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Cuyuja, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:35" ;
+    ns2:RelativeHumidity 93 ;
+    ns2:pressure 1015 ;
+    ns2:temp "284.57"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.42319353294746587"^^xsd:float ;
+    schema:longitude "-78.06502376372069"^^xsd:float ;
+    schema:name "Cuyuja" .
+
+<http://WeatherTourist.org/destination/CITY/Daule> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Daule, Daule, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:03" ;
+    ns2:RelativeHumidity 62 ;
+    ns2:pressure 1008 ;
+    ns2:temp "300.16"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-1.86218"^^xsd:float ;
+    schema:longitude "-79.977669"^^xsd:float ;
+    schema:name "Daule" .
+
+<http://WeatherTourist.org/destination/CITY/Dayuma> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Dayuma, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:46" ;
+    ns2:RelativeHumidity 50 ;
+    ns2:pressure 1007 ;
+    ns2:temp "302.86"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.7127089671791028"^^xsd:float ;
+    schema:longitude "-76.77792081262214"^^xsd:float ;
+    schema:name "Dayuma" .
+
+<http://WeatherTourist.org/destination/CITY/Derna> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Derna, Coca, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:48" ;
+    ns2:RelativeHumidity 48 ;
+    ns2:pressure 1007 ;
+    ns2:temp "303.29"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.45"^^xsd:float ;
+    schema:longitude "-76.733299"^^xsd:float ;
+    schema:name "Derna" .
+
+<http://WeatherTourist.org/destination/CITY/Duran> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Duran, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:57" ;
+    ns2:RelativeHumidity 69 ;
+    ns2:pressure 1010 ;
+    ns2:temp "300.19"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.2301510285072026"^^xsd:float ;
+    schema:longitude "-79.78263120943423"^^xsd:float ;
+    schema:name "Duran" .
+
+<http://WeatherTourist.org/destination/CITY/ElAngel> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "El Angel, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:28" ;
+    ns2:RelativeHumidity 75 ;
+    ns2:pressure 1012 ;
+    ns2:temp "287.4"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.6434494730829735"^^xsd:float ;
+    schema:longitude "-77.97236077353128"^^xsd:float ;
+    schema:name "El Angel" .
+
+<http://WeatherTourist.org/destination/CITY/ElCarmelo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "El Carmelo, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:31" ;
+    ns2:RelativeHumidity 79 ;
+    ns2:pressure 1013 ;
+    ns2:temp "287.98"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.6595225193010943"^^xsd:float ;
+    schema:longitude "-77.60754146546024"^^xsd:float ;
+    schema:name "El Carmelo" .
+
+<http://WeatherTourist.org/destination/CITY/ElDorado> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "El Dorado, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:49" ;
+    ns2:RelativeHumidity 66 ;
+    ns2:pressure 1010 ;
+    ns2:temp "302.98"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.531771605431511"^^xsd:float ;
+    schema:longitude "-76.92054957460954"^^xsd:float ;
+    schema:name "El Dorado" .
+
+<http://WeatherTourist.org/destination/CITY/Enokanqui> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Enokanqui, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:44" ;
+    ns2:RelativeHumidity 49 ;
+    ns2:pressure 1007 ;
+    ns2:temp "302.97"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.22876749939556276"^^xsd:float ;
+    schema:longitude "-76.83712247685918"^^xsd:float ;
+    schema:name "Enokanqui" .
+
+<http://WeatherTourist.org/destination/CITY/EstrellaYacu> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Estrella Yacu, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:44" ;
+    ns2:RelativeHumidity 66 ;
+    ns2:pressure 1010 ;
+    ns2:temp "303.11"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.433333"^^xsd:float ;
+    schema:longitude "-77.116667"^^xsd:float ;
+    schema:name "Estrella Yacu" .
+
+<http://WeatherTourist.org/destination/CITY/Galera> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Galera, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:47" ;
+    ns2:RelativeHumidity 74 ;
+    ns2:pressure 1010 ;
+    ns2:temp "297.92"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "0.79859"^^xsd:float ;
+    schema:longitude "-80.062073"^^xsd:float ;
+    schema:name "Galera" .
+
+<http://WeatherTourist.org/destination/CITY/GarcÃ­aMoreno> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "GarcÃ­a Moreno, Imbabura, Ecuador",
+        "GarcÃ­a Moreno, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain>,
+        <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds>,
+        <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:08",
+        "2022-06-06 15:26:41" ;
+    ns2:RelativeHumidity 66,
+        88 ;
+    ns2:pressure 1010,
+        1011 ;
+    ns2:temp "293.36"^^xsd:float,
+        "302.79"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.5683164243513964"^^xsd:float,
+        "0.29808219457766194"^^xsd:float ;
+    schema:longitude "-78.78756682843544"^^xsd:float,
+        "-77.0219717099203"^^xsd:float ;
+    schema:name "GarcÃ­a Moreno" .
+
+<http://WeatherTourist.org/destination/CITY/Giron> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Giron, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:23" ;
+    ns2:RelativeHumidity 69 ;
+    ns2:pressure 1012 ;
+    ns2:temp "284.98"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-3.14828"^^xsd:float ;
+    schema:longitude "-79.103828"^^xsd:float ;
+    schema:name "Giron" .
+
+<http://WeatherTourist.org/destination/CITY/Gualel> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Gualel, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:18" ;
+    ns2:RelativeHumidity 71 ;
+    ns2:pressure 1011 ;
+    ns2:temp "296.11"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-3.7536272587413535"^^xsd:float ;
+    schema:longitude "-79.37310779298699"^^xsd:float ;
+    schema:name "Gualel" .
+
+<http://WeatherTourist.org/destination/CITY/Guangopolo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Guangopolo, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
+    ns3:inDateTime "2022-06-06 15:26:58" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1022 ;
+    ns2:temp "291.59"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.25290948306019445"^^xsd:float ;
+    schema:longitude "-78.43763959454907"^^xsd:float ;
+    schema:name "Guangopolo" .
+
+<http://WeatherTourist.org/destination/CITY/Guanguaje> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Guanguaje, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:36" ;
+    ns2:RelativeHumidity 76 ;
+    ns2:pressure 1012 ;
+    ns2:temp "285.48"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.8989258589556418"^^xsd:float ;
+    schema:longitude "-78.84193959966555"^^xsd:float ;
+    schema:name "Guanguaje" .
+
+<http://WeatherTourist.org/destination/CITY/Guayaquil> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Guayaquil, Guayaquil, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:55" ;
+    ns2:RelativeHumidity 59 ;
+    ns2:pressure 1008 ;
+    ns2:temp "299.94"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.2881120566221615"^^xsd:float ;
+    schema:longitude "-80.08944867983072"^^xsd:float ;
+    schema:name "Guayaquil" .
+
+<http://WeatherTourist.org/destination/CITY/Guayllabamba> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Guayllabamba, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
+    ns3:inDateTime "2022-06-06 15:26:54" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1022 ;
+    ns2:temp "293.71"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.05410230128899479"^^xsd:float ;
+    schema:longitude "-78.34332932772412"^^xsd:float ;
+    schema:name "Guayllabamba" .
+
+<http://WeatherTourist.org/destination/CITY/GÃ¼el> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "GÃ¼el, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:22" ;
+    ns2:RelativeHumidity 75 ;
+    ns2:pressure 1014 ;
+    ns2:temp "287.94"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-3.0263134490816954"^^xsd:float ;
+    schema:longitude "-78.76281088049963"^^xsd:float ;
+    schema:name "GÃ¼el" .
+
+<http://WeatherTourist.org/destination/CITY/HaciendaCusubambito> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Hacienda Cusubambito, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:37" ;
+    ns2:RelativeHumidity 40 ;
+    ns2:pressure 1025 ;
+    ns2:temp "290.94"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-1.083792"^^xsd:float ;
+    schema:longitude "-78.63399199999999"^^xsd:float ;
+    schema:name "Hacienda Cusubambito" .
+
+<http://WeatherTourist.org/destination/CITY/Huaca> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Huaca, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:29" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1029 ;
+    ns2:temp "288.37"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.630755298229135"^^xsd:float ;
+    schema:longitude "-77.72425658004336"^^xsd:float ;
+    schema:name "Huaca" .
+
+<http://WeatherTourist.org/destination/CITY/Ibarra> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Ibarra, Ibarra, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:05" ;
+    ns2:RelativeHumidity 72 ;
+    ns2:pressure 1012 ;
+    ns2:temp "292.45"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.363453"^^xsd:float ;
+    schema:longitude "-78.124128"^^xsd:float ;
+    schema:name "Ibarra" .
+
+<http://WeatherTourist.org/destination/CITY/Imbaya> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Imbaya, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:04" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1012 ;
+    ns2:temp "293.52"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.37865339162161954"^^xsd:float ;
+    schema:longitude "-78.15728623728819"^^xsd:float ;
+    schema:name "Imbaya" .
+
+<http://WeatherTourist.org/destination/CITY/InÃ©sArango> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "InÃ©s Arango, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:40" ;
+    ns2:RelativeHumidity 55 ;
+    ns2:pressure 1007 ;
+    ns2:temp "303.1"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.9765442007478605"^^xsd:float ;
+    schema:longitude "-76.81955949841397"^^xsd:float ;
+    schema:name "InÃ©s Arango" .
+
+<http://WeatherTourist.org/destination/CITY/Jama> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Jama, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:25" ;
+    ns2:RelativeHumidity 76 ;
+    ns2:pressure 1010 ;
+    ns2:temp "298.16"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-0.22000880352505775"^^xsd:float ;
+    schema:longitude "-80.22726360345933"^^xsd:float ;
+    schema:name "Jama" .
+
+<http://WeatherTourist.org/destination/CITY/JesÃºsMarÃ­a> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "JesÃºs MarÃ­a, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:58" ;
+    ns2:RelativeHumidity 66 ;
+    ns2:pressure 1009 ;
+    ns2:temp "302.62"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.5898902978630676"^^xsd:float ;
+    schema:longitude "-79.5134566282985"^^xsd:float ;
+    schema:name "JesÃºs MarÃ­a" .
+
+<http://WeatherTourist.org/destination/CITY/Jimbura> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Jimbura, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:19" ;
+    ns2:RelativeHumidity 71 ;
+    ns2:pressure 1010 ;
+    ns2:temp "289.47"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-4.6543353997929895"^^xsd:float ;
+    schema:longitude "-79.4439252024845"^^xsd:float ;
+    schema:name "Jimbura" .
+
+<http://WeatherTourist.org/destination/CITY/LaEsperanza> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "La Esperanza, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:06" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1012 ;
+    ns2:temp "288.23"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.2666619349795852"^^xsd:float ;
+    schema:longitude "-78.12797816680273"^^xsd:float ;
+    schema:name "La Esperanza" .
+
+<http://WeatherTourist.org/destination/CITY/LaLibertad> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "La Libertad, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:26" ;
+    ns2:RelativeHumidity 79 ;
+    ns2:pressure 1013 ;
+    ns2:temp "283.98"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.7048655645488515"^^xsd:float ;
+    schema:longitude "-77.96088528746144"^^xsd:float ;
+    schema:name "La Libertad" .
+
+<http://WeatherTourist.org/destination/CITY/LaPaz> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "La Paz, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:28" ;
+    ns2:RelativeHumidity 70 ;
+    ns2:pressure 1012 ;
+    ns2:temp "288.95"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.5180926198560285"^^xsd:float ;
+    schema:longitude "-77.84750822117506"^^xsd:float ;
+    schema:name "La Paz" .
+
+<http://WeatherTourist.org/destination/CITY/LaVictoria> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "La Victoria, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:59" ;
+    ns2:RelativeHumidity 61 ;
+    ns2:pressure 1008 ;
+    ns2:temp "300.18"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-1.8872107793883428"^^xsd:float ;
+    schema:longitude "-79.72581247830779"^^xsd:float ;
+    schema:name "La Victoria" .
+
+<http://WeatherTourist.org/destination/CITY/Latacunga> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Latacunga, Latacunga, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:40" ;
+    ns2:RelativeHumidity 52 ;
+    ns2:pressure 1026 ;
+    ns2:temp "288.66"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.9241981634989865"^^xsd:float ;
+    schema:longitude "-78.5440244497558"^^xsd:float ;
+    schema:name "Latacunga" .
+
+<http://WeatherTourist.org/destination/CITY/Linares> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Linares, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:34" ;
+    ns2:RelativeHumidity 84 ;
+    ns2:pressure 1012 ;
+    ns2:temp "287.4"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.4080088350713219"^^xsd:float ;
+    schema:longitude "-77.67408596070212"^^xsd:float ;
+    schema:name "Linares" .
+
+<http://WeatherTourist.org/destination/CITY/Lita> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Lita, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:07" ;
+    ns2:RelativeHumidity 93 ;
+    ns2:pressure 1012 ;
+    ns2:temp "293.27"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.7818255490115543"^^xsd:float ;
+    schema:longitude "-78.38526349484115"^^xsd:float ;
+    schema:name "Lita" .
+
+<http://WeatherTourist.org/destination/CITY/Lluzhapa> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Lluzhapa, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:20" ;
+    ns2:RelativeHumidity 66 ;
+    ns2:pressure 1010 ;
+    ns2:temp "292.08"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-3.492462417354487"^^xsd:float ;
+    schema:longitude "-79.32495698683137"^^xsd:float ;
+    schema:name "Lluzhapa" .
+
+<http://WeatherTourist.org/destination/CITY/Loreto> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Loreto, Loreto, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:40" ;
+    ns2:RelativeHumidity 51 ;
+    ns2:pressure 1007 ;
+    ns2:temp "302.27"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.6562570664680666"^^xsd:float ;
+    schema:longitude "-77.27913536002022"^^xsd:float ;
+    schema:name "Loreto" .
+
+<http://WeatherTourist.org/destination/CITY/LosAndes> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Los Andes, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:34" ;
+    ns2:RelativeHumidity 65 ;
+    ns2:pressure 1011 ;
+    ns2:temp "289.99"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.4827475087625878"^^xsd:float ;
+    schema:longitude "-77.95735611588422"^^xsd:float ;
+    schema:name "Los Andes" .
+
+<http://WeatherTourist.org/destination/CITY/Machalilla> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Machalilla, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:26" ;
+    ns2:RelativeHumidity 87 ;
+    ns2:pressure 1010 ;
+    ns2:temp "295.04"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-1.4676459682355505"^^xsd:float ;
+    schema:longitude "-80.73706234010137"^^xsd:float ;
+    schema:name "Machalilla" .
+
+<http://WeatherTourist.org/destination/CITY/Majua> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Majua, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/fewclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:46" ;
+    ns2:RelativeHumidity 57 ;
+    ns2:pressure 1009 ;
+    ns2:temp "300.68"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "0.667387438146238"^^xsd:float ;
+    schema:longitude "-79.49670427712141"^^xsd:float ;
+    schema:name "Majua" .
+
+<http://WeatherTourist.org/destination/CITY/Manta> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Manta, Manta, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:21" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1011 ;
+    ns2:temp "299.15"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-0.95376"^^xsd:float ;
+    schema:longitude "-80.717529"^^xsd:float ;
+    schema:name "Manta" .
+
+<http://WeatherTourist.org/destination/CITY/Manu> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Manu, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:20" ;
+    ns2:RelativeHumidity 78 ;
+    ns2:pressure 1011 ;
+    ns2:temp "283.71"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-3.5291942265345875"^^xsd:float ;
+    schema:longitude "-79.42642033242456"^^xsd:float ;
+    schema:name "Manu" .
+
+<http://WeatherTourist.org/destination/CITY/Mashpi> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Mashpi, Pacto, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:53" ;
+    ns2:RelativeHumidity 84 ;
+    ns2:pressure 1010 ;
+    ns2:temp "292.47"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "0.1660780022961204"^^xsd:float ;
+    schema:longitude "-78.86176526475326"^^xsd:float ;
+    schema:name "Mashpi" .
+
+<http://WeatherTourist.org/destination/CITY/Mataje> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Mataje, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:44" ;
+    ns2:RelativeHumidity 74 ;
+    ns2:pressure 1009 ;
+    ns2:temp "299.35"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "1.2490584894616958"^^xsd:float ;
+    schema:longitude "-78.64060426065008"^^xsd:float ;
+    schema:name "Mataje" .
+
+<http://WeatherTourist.org/destination/CITY/Mindo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Mindo, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:51" ;
+    ns2:RelativeHumidity 92 ;
+    ns2:pressure 1012 ;
+    ns2:temp "299.41"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.053329"^^xsd:float ;
+    schema:longitude "-78.774669"^^xsd:float ;
+    schema:name "Mindo" .
+
+<http://WeatherTourist.org/destination/CITY/Mira> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Mira, Mira, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:32" ;
+    ns2:RelativeHumidity 70 ;
+    ns2:pressure 1011 ;
+    ns2:temp "290.51"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.5597588390556725"^^xsd:float ;
+    schema:longitude "-78.04776069354855"^^xsd:float ;
+    schema:name "Mira" .
+
+<http://WeatherTourist.org/destination/CITY/MonteOlivo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Monte Olivo, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:32" ;
+    ns2:RelativeHumidity 72 ;
+    ns2:pressure 1012 ;
+    ns2:temp "285.83"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.39696617543228496"^^xsd:float ;
+    schema:longitude "-77.8433249328579"^^xsd:float ;
+    schema:name "Monte Olivo" .
+
+<http://WeatherTourist.org/destination/CITY/Mulalo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Mulalo, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:37" ;
+    ns2:RelativeHumidity 65 ;
+    ns2:pressure 1012 ;
+    ns2:temp "286.0"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.728860179871534"^^xsd:float ;
+    schema:longitude "-78.51014851259225"^^xsd:float ;
+    schema:name "Mulalo" .
+
+<http://WeatherTourist.org/destination/CITY/Nabon> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Nabon, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:24" ;
+    ns2:RelativeHumidity 70 ;
+    ns2:pressure 1012 ;
+    ns2:temp "286.68"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-3.2845211489744552"^^xsd:float ;
+    schema:longitude "-79.04288279542307"^^xsd:float ;
+    schema:name "Nabon" .
+
+<http://WeatherTourist.org/destination/CITY/Nulti> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Nulti, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:19" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1023 ;
+    ns2:temp "288.28"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-2.8627576907846572"^^xsd:float ;
+    schema:longitude "-78.89284464407703"^^xsd:float ;
+    schema:name "Nulti" .
+
+<http://WeatherTourist.org/destination/CITY/Oasis> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Oasis, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:47" ;
+    ns2:RelativeHumidity 55 ;
+    ns2:pressure 1007 ;
+    ns2:temp "303.68"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.455213"^^xsd:float ;
+    schema:longitude "-76.108467"^^xsd:float ;
+    schema:name "Oasis" .
+
+<http://WeatherTourist.org/destination/CITY/Otavalo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Otavalo, Otavalo, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:07" ;
+    ns2:RelativeHumidity 76 ;
+    ns2:pressure 1012 ;
+    ns2:temp "290.78"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.21518071998467816"^^xsd:float ;
+    schema:longitude "-78.26677047776026"^^xsd:float ;
+    schema:name "Otavalo" .
+
+<http://WeatherTourist.org/destination/CITY/Oyacachi> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Oyacachi, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:34" ;
+    ns2:RelativeHumidity 93 ;
+    ns2:pressure 1015 ;
+    ns2:temp "287.67"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.18575547525696082"^^xsd:float ;
+    schema:longitude "-77.95658887366966"^^xsd:float ;
+    schema:name "Oyacachi" .
+
+<http://WeatherTourist.org/destination/CITY/Palmas> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Palmas, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:20" ;
+    ns2:RelativeHumidity 83 ;
+    ns2:pressure 1013 ;
+    ns2:temp "285.8"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-2.698592801035996"^^xsd:float ;
+    schema:longitude "-78.60343912266555"^^xsd:float ;
+    schema:name "Palmas" .
+
+<http://WeatherTourist.org/destination/CITY/PaloQuemado> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Palo Quemado, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:39" ;
+    ns2:RelativeHumidity 94 ;
+    ns2:pressure 1012 ;
+    ns2:temp "299.16"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.4295115511768822"^^xsd:float ;
+    schema:longitude "-78.90502476188095"^^xsd:float ;
+    schema:name "Palo Quemado" .
+
+<http://WeatherTourist.org/destination/CITY/Pano> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Pano, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:33" ;
+    ns2:RelativeHumidity 84 ;
+    ns2:pressure 1014 ;
+    ns2:temp "282.4"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.9141816086668791"^^xsd:float ;
+    schema:longitude "-78.15827474497614"^^xsd:float ;
+    schema:name "Pano" .
+
+<http://WeatherTourist.org/destination/CITY/Pasa> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Pasa, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
+    ns3:inDateTime "2022-06-06 15:27:02" ;
+    ns2:RelativeHumidity 36 ;
+    ns2:pressure 1025 ;
+    ns2:temp "287.43"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.240570415558343"^^xsd:float ;
+    schema:longitude "-78.73852981317123"^^xsd:float ;
+    schema:name "Pasa" .
+
+<http://WeatherTourist.org/destination/CITY/Pedernales> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Pedernales, Pedernales, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/fewclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:28" ;
+    ns2:RelativeHumidity 72 ;
+    ns2:pressure 1009 ;
+    ns2:temp "297.7"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "0.07184571960277472"^^xsd:float ;
+    schema:longitude "-79.85810046404373"^^xsd:float ;
+    schema:name "Pedernales" .
+
+<http://WeatherTourist.org/destination/CITY/Pifo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Pifo, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:55" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1022 ;
+    ns2:temp "283.16"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.2812946151673215"^^xsd:float ;
+    schema:longitude "-78.26746282452481"^^xsd:float ;
+    schema:name "Pifo" .
+
+<http://WeatherTourist.org/destination/CITY/Platopamba> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Platopamba, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:04" ;
+    ns2:RelativeHumidity 37 ;
+    ns2:pressure 1025 ;
+    ns2:temp "291.34"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.262313"^^xsd:float ;
+    schema:longitude "-78.4896005"^^xsd:float ;
+    schema:name "Platopamba" .
+
+<http://WeatherTourist.org/destination/CITY/Portoviejo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Portoviejo, Portoviejo, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:29" ;
+    ns2:RelativeHumidity 66 ;
+    ns2:pressure 1009 ;
+    ns2:temp "298.9"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-1.0811230119189033"^^xsd:float ;
+    schema:longitude "-80.4609209572015"^^xsd:float ;
+    schema:name "Portoviejo" .
+
+<http://WeatherTourist.org/destination/CITY/Posorja> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Posorja, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:02" ;
+    ns2:RelativeHumidity 86 ;
+    ns2:pressure 1009 ;
+    ns2:temp "295.69"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.699838269264123"^^xsd:float ;
+    schema:longitude "-80.26958294573811"^^xsd:float ;
+    schema:name "Posorja" .
+
+<http://WeatherTourist.org/destination/CITY/Principal> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Principal, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:21" ;
+    ns2:RelativeHumidity 76 ;
+    ns2:pressure 1014 ;
+    ns2:temp "283.23"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-3.024671616985845"^^xsd:float ;
+    schema:longitude "-78.71654592651109"^^xsd:float ;
+    schema:name "Principal" .
+
+<http://WeatherTourist.org/destination/CITY/Pucayacu> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Pucayacu, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:38" ;
+    ns2:RelativeHumidity 92 ;
+    ns2:pressure 1011 ;
+    ns2:temp "301.15"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.6644388617566717"^^xsd:float ;
+    schema:longitude "-79.08032570851051"^^xsd:float ;
+    schema:name "Pucayacu" .
+
+<http://WeatherTourist.org/destination/CITY/Puembo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Puembo, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:53" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1022 ;
+    ns2:temp "292.11"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.1674242776675274"^^xsd:float ;
+    schema:longitude "-78.36962495595662"^^xsd:float ;
+    schema:name "Puembo" .
+
+<http://WeatherTourist.org/destination/CITY/PuertoAyora> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Puerto Ayora, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:51" ;
+    ns2:RelativeHumidity 87 ;
+    ns2:pressure 1011 ;
+    ns2:temp "296.52"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.7419694136612489"^^xsd:float ;
+    schema:longitude "-90.31387544981472"^^xsd:float ;
+    schema:name "Puerto Ayora" .
+
+<http://WeatherTourist.org/destination/CITY/PuertoBaquerizoMoreno> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Puerto Baquerizo Moreno, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:54" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1010 ;
+    ns2:temp "298.12"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.9060093496708829"^^xsd:float ;
+    schema:longitude "-89.61355204833818"^^xsd:float ;
+    schema:name "Puerto Baquerizo Moreno" .
+
+<http://WeatherTourist.org/destination/CITY/PuertoCayo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Puerto Cayo, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:22" ;
+    ns2:RelativeHumidity 81 ;
+    ns2:pressure 1010 ;
+    ns2:temp "297.59"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-1.324818347404526"^^xsd:float ;
+    schema:longitude "-80.69981708493954"^^xsd:float ;
+    schema:name "Puerto Cayo" .
+
+<http://WeatherTourist.org/destination/CITY/PuertoLopez> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Puerto Lopez, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:30" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1010 ;
+    ns2:temp "295.28"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-1.560037"^^xsd:float ;
+    schema:longitude "-80.811163"^^xsd:float ;
+    schema:name "Puerto Lopez" .
+
+<http://WeatherTourist.org/destination/CITY/PuertoQuito> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Puerto Quito, Puerto Quito, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
+    ns3:inDateTime "2022-06-06 15:26:56" ;
+    ns2:RelativeHumidity 58 ;
+    ns2:pressure 1008 ;
+    ns2:temp "302.11"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "0.15598836387180812"^^xsd:float ;
+    schema:longitude "-79.2394691517776"^^xsd:float ;
+    schema:name "Puerto Quito" .
+
+<http://WeatherTourist.org/destination/CITY/PuertoRico> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Puerto Rico, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:27" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1010 ;
+    ns2:temp "295.06"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-1.6363023617249475"^^xsd:float ;
+    schema:longitude "-80.8278736087722"^^xsd:float ;
+    schema:name "Puerto Rico" .
+
+<http://WeatherTourist.org/destination/CITY/PunÃ¡> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "PunÃ¡, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:00" ;
+    ns2:RelativeHumidity 64 ;
+    ns2:pressure 1008 ;
+    ns2:temp "300.58"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.715243874081078"^^xsd:float ;
+    schema:longitude "-80.01121334707244"^^xsd:float ;
+    schema:name "PunÃ¡" .
+
+<http://WeatherTourist.org/destination/CITY/Quero> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Quero, Quero, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:03" ;
+    ns2:RelativeHumidity 66 ;
+    ns2:pressure 1013 ;
+    ns2:temp "290.23"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.433002157138273"^^xsd:float ;
+    schema:longitude "-78.5870256211097"^^xsd:float ;
+    schema:name "Quero" .
+
+<http://WeatherTourist.org/destination/CITY/Quito> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Quito, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
+    ns3:inDateTime "2022-06-06 15:26:49" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1022 ;
+    ns2:temp "289.5"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.220299"^^xsd:float ;
+    schema:longitude "-78.511714"^^xsd:float ;
+    schema:name "Quito" .
+
+<http://WeatherTourist.org/destination/CITY/SabaÃ±ag> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "SabaÃ±ag, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:27:09" ;
+    ns2:RelativeHumidity 66 ;
+    ns2:pressure 1013 ;
+    ns2:temp "289.14"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.4295075000000002"^^xsd:float ;
+    schema:longitude "-78.57376100000002"^^xsd:float ;
+    schema:name "SabaÃ±ag" .
+
+<http://WeatherTourist.org/destination/CITY/Salango> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Salango, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:24" ;
+    ns2:RelativeHumidity 89 ;
+    ns2:pressure 1010 ;
+    ns2:temp "294.36"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-1.6368836589895024"^^xsd:float ;
+    schema:longitude "-80.80189261146835"^^xsd:float ;
+    schema:name "Salango" .
+
+<http://WeatherTourist.org/destination/CITY/Salima> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Salima, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:48" ;
+    ns2:RelativeHumidity 74 ;
+    ns2:pressure 1010 ;
+    ns2:temp "298.98"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "0.3269943000053785"^^xsd:float ;
+    schema:longitude "-79.96158611263513"^^xsd:float ;
+    schema:name "Salima" .
+
+<http://WeatherTourist.org/destination/CITY/Salinas> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Salinas, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:09" ;
+    ns2:RelativeHumidity 72 ;
+    ns2:pressure 1011 ;
+    ns2:temp "296.36"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.4935986743800412"^^xsd:float ;
+    schema:longitude "-78.13839996912556"^^xsd:float ;
+    schema:name "Salinas" .
+
+<http://WeatherTourist.org/destination/CITY/Samborondon> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Samborondon, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:56" ;
+    ns2:RelativeHumidity 61 ;
+    ns2:pressure 1008 ;
+    ns2:temp "300.15"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.0028681249623332"^^xsd:float ;
+    schema:longitude "-79.77195672595182"^^xsd:float ;
+    schema:name "Samborondon" .
+
+<http://WeatherTourist.org/destination/CITY/SanAndrÃ©s> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San AndrÃ©s, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:02" ;
+    ns2:RelativeHumidity 36 ;
+    ns2:pressure 1025 ;
+    ns2:temp "290.1"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.0970229393182014"^^xsd:float ;
+    schema:longitude "-78.53562686294423"^^xsd:float ;
+    schema:name "San AndrÃ©s" .
+
+<http://WeatherTourist.org/destination/CITY/SanBlas> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San Blas, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:13" ;
+    ns2:RelativeHumidity 79 ;
+    ns2:pressure 1012 ;
+    ns2:temp "288.23"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.42476700433688436"^^xsd:float ;
+    schema:longitude "-78.26533077437949"^^xsd:float ;
+    schema:name "San Blas" .
+
+<http://WeatherTourist.org/destination/CITY/SanFernando> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San Fernando, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:00" ;
+    ns2:RelativeHumidity 71 ;
+    ns2:pressure 1013 ;
+    ns2:temp "282.32"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.2235383948847502"^^xsd:float ;
+    schema:longitude "-78.79976775282123"^^xsd:float ;
+    schema:name "San Fernando" .
+
+<http://WeatherTourist.org/destination/CITY/SanGabriel> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San Gabriel, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:30" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1012 ;
+    ns2:temp "288.83"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.572727766413529"^^xsd:float ;
+    schema:longitude "-77.82062947926285"^^xsd:float ;
+    schema:name "San Gabriel" .
+
+<http://WeatherTourist.org/destination/CITY/SanIsidro> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San Isidro, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:30" ;
+    ns2:RelativeHumidity 72 ;
+    ns2:pressure 1012 ;
+    ns2:temp "286.26"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.6119293202720327"^^xsd:float ;
+    schema:longitude "-77.99508758758779"^^xsd:float ;
+    schema:name "San Isidro" .
+
+<http://WeatherTourist.org/destination/CITY/SanJacinto> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San Jacinto, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:26" ;
+    ns2:RelativeHumidity 78 ;
+    ns2:pressure 1010 ;
+    ns2:temp "299.21"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-0.783333"^^xsd:float ;
+    schema:longitude "-80.516701"^^xsd:float ;
+    schema:name "San Jacinto" .
+
+<http://WeatherTourist.org/destination/CITY/SanJuan> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San Juan, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:18" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1023 ;
+    ns2:temp "288.11"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-2.961720954149792"^^xsd:float ;
+    schema:longitude "-78.824467992699"^^xsd:float ;
+    schema:name "San Juan" .
+
+<http://WeatherTourist.org/destination/CITY/SanJuandePastocalle> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San Juan de Pastocalle, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:41" ;
+    ns2:RelativeHumidity 65 ;
+    ns2:pressure 700 ;
+    ns2:temp "286.29"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.6818827481819502"^^xsd:float ;
+    schema:longitude "-78.6350776710241"^^xsd:float ;
+    schema:name "San Juan de Pastocalle" .
+
+<http://WeatherTourist.org/destination/CITY/SanLorenzo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San Lorenzo, Guayas, Ecuador",
+        "San Lorenzo, Manabi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:00",
+        "2022-06-06 15:26:29" ;
+    ns2:RelativeHumidity 74,
+        78 ;
+    ns2:pressure 1009,
+        1010 ;
+    ns2:temp "296.9"^^xsd:float,
+        "297.7"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas>,
+        <http://WeatherTourist.org/destination/Manabi> ;
+    schema:latitude "-2.4567211256227424"^^xsd:float,
+        "-1.0603922691110492"^^xsd:float ;
+    schema:longitude "-80.83024393380015"^^xsd:float,
+        "-80.28340113606137"^^xsd:float ;
+    schema:name "San Lorenzo" .
+
+<http://WeatherTourist.org/destination/CITY/SanLuis> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San Luis, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:17" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1023 ;
+    ns2:temp "286.68"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-2.8069405"^^xsd:float ;
+    schema:longitude "-79.00727100000002"^^xsd:float ;
+    schema:name "San Luis" .
+
+<http://WeatherTourist.org/destination/CITY/SanRafael> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "San Rafael, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:57" ;
+    ns2:RelativeHumidity 84 ;
+    ns2:pressure 1013 ;
+    ns2:temp "291.42"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.3334026427543562"^^xsd:float ;
+    schema:longitude "-78.47820881046518"^^xsd:float ;
+    schema:name "San Rafael" .
+
+<http://WeatherTourist.org/destination/CITY/SantaRosa> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Santa Rosa, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:53" ;
+    ns2:RelativeHumidity 87 ;
+    ns2:pressure 1011 ;
+    ns2:temp "293.96"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.652271"^^xsd:float ;
+    schema:longitude "-90.406476"^^xsd:float ;
+    schema:name "Santa Rosa" .
+
+<http://WeatherTourist.org/destination/CITY/Secas> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Secas, Pintag, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
+    ns3:inDateTime "2022-06-06 15:26:57" ;
+    ns2:RelativeHumidity 86 ;
+    ns2:pressure 1015 ;
+    ns2:temp "285.36"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.44999999999999996"^^xsd:float ;
+    schema:longitude "-78.33333300000001"^^xsd:float ;
+    schema:name "Secas" .
+
+<http://WeatherTourist.org/destination/CITY/SelvaAlegre> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Selva Alegre, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:15" ;
+    ns2:RelativeHumidity 90 ;
+    ns2:pressure 1012 ;
+    ns2:temp "291.35"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.2664026980167939"^^xsd:float ;
+    schema:longitude "-78.50460528504767"^^xsd:float ;
+    schema:name "Selva Alegre" .
+
+<http://WeatherTourist.org/destination/CITY/Shagli> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Shagli, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:16" ;
+    ns2:RelativeHumidity 84 ;
+    ns2:pressure 1012 ;
+    ns2:temp "282.4"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-3.1081507949320994"^^xsd:float ;
+    schema:longitude "-79.39026809137778"^^xsd:float ;
+    schema:name "Shagli" .
+
+<http://WeatherTourist.org/destination/CITY/Sucre> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Sucre, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:06" ;
+    ns2:RelativeHumidity 49 ;
+    ns2:pressure 1025 ;
+    ns2:temp "285.13"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.2346743563457507"^^xsd:float ;
+    schema:longitude "-78.39804895322487"^^xsd:float ;
+    schema:name "Sucre" .
+
+<http://WeatherTourist.org/destination/CITY/Sumaco> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Sumaco, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:38" ;
+    ns2:RelativeHumidity 85 ;
+    ns2:pressure 1012 ;
+    ns2:temp "285.93"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.48656893518620087"^^xsd:float ;
+    schema:longitude "-77.71582414264672"^^xsd:float ;
+    schema:name "Sumaco" .
+
+<http://WeatherTourist.org/destination/CITY/SunimÃ³n> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "SunimÃ³n, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:36" ;
+    ns2:RelativeHumidity 52 ;
+    ns2:pressure 1007 ;
+    ns2:temp "303.49"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.933333"^^xsd:float ;
+    schema:longitude "-77.416702"^^xsd:float ;
+    schema:name "SunimÃ³n" .
+
+<http://WeatherTourist.org/destination/CITY/Tababela> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Tababela, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
+    ns3:inDateTime "2022-06-06 15:26:52" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1022 ;
+    ns2:temp "291.96"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.14069865641653118"^^xsd:float ;
+    schema:longitude "-78.35476288619238"^^xsd:float ;
+    schema:name "Tababela" .
+
+<http://WeatherTourist.org/destination/CITY/Taracoa> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Taracoa, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:43" ;
+    ns2:RelativeHumidity 48 ;
+    ns2:pressure 1007 ;
+    ns2:temp "303.04"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.5428475417251708"^^xsd:float ;
+    schema:longitude "-76.7815919563537"^^xsd:float ;
+    schema:name "Taracoa" .
+
+<http://WeatherTourist.org/destination/CITY/Tarifa> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Tarifa, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:03" ;
+    ns2:RelativeHumidity 61 ;
+    ns2:pressure 1008 ;
+    ns2:temp "300.15"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-1.9775453697545422"^^xsd:float ;
+    schema:longitude "-79.79179254990626"^^xsd:float ;
+    schema:name "Tarifa" .
+
+<http://WeatherTourist.org/destination/CITY/Tiputini> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Tiputini, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:42" ;
+    ns2:RelativeHumidity 57 ;
+    ns2:pressure 1007 ;
+    ns2:temp "303.39"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.7950396000834938"^^xsd:float ;
+    schema:longitude "-75.6705381959493"^^xsd:float ;
+    schema:name "Tiputini" .
+
+<http://WeatherTourist.org/destination/CITY/TobarDonos> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Tobar Donos, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:35" ;
+    ns2:RelativeHumidity 92 ;
+    ns2:pressure 1011 ;
+    ns2:temp "295.24"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "1.0184262975517717"^^xsd:float ;
+    schema:longitude "-78.4271522155844"^^xsd:float ;
+    schema:name "Tobar Donos" .
+
+<http://WeatherTourist.org/destination/CITY/Tonsupa> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Tonsupa, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:41" ;
+    ns2:RelativeHumidity 74 ;
+    ns2:pressure 1011 ;
+    ns2:temp "301.21"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "0.9369298794709101"^^xsd:float ;
+    schema:longitude "-79.79836996484302"^^xsd:float ;
+    schema:name "Tonsupa" .
+
+<http://WeatherTourist.org/destination/CITY/TufiÃ±o> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "TufiÃ±o, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:35" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1029 ;
+    ns2:temp "284.2"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.7623168612111544"^^xsd:float ;
+    schema:longitude "-77.87031034259289"^^xsd:float ;
+    schema:name "TufiÃ±o" .
+
+<http://WeatherTourist.org/destination/CITY/Tulcan> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Tulcan, Carchi, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:25" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1029 ;
+    ns2:temp "286.99"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Carchi> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Carchi>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "0.7727087622198128"^^xsd:float ;
+    schema:longitude "-77.76355769869984"^^xsd:float ;
+    schema:name "Tulcan" .
+
+<http://WeatherTourist.org/destination/CITY/Tumbabiro> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Tumbabiro, Imbabura, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:13" ;
+    ns2:RelativeHumidity 75 ;
+    ns2:pressure 1011 ;
+    ns2:temp "292.87"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Imbabura> ;
+    schema:latitude "0.45635094456871034"^^xsd:float ;
+    schema:longitude "-78.19578106615857"^^xsd:float ;
+    schema:name "Tumbabiro" .
+
+<http://WeatherTourist.org/destination/CITY/Tumbaco> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Tumbaco, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
+    ns3:inDateTime "2022-06-06 15:26:55" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1022 ;
+    ns2:temp "292.34"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.21982581067626938"^^xsd:float ;
+    schema:longitude "-78.3947803661748"^^xsd:float ;
+    schema:name "Tumbaco" .
+
+<http://WeatherTourist.org/destination/CITY/TÃ¡lag> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "TÃ¡lag, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:38" ;
+    ns2:RelativeHumidity 84 ;
+    ns2:pressure 1014 ;
+    ns2:temp "298.92"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-1.0531881061995307"^^xsd:float ;
+    schema:longitude "-78.17346245108789"^^xsd:float ;
+    schema:name "TÃ¡lag" .
+
+<http://WeatherTourist.org/destination/CITY/Ulba> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Ulba, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:01" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1013 ;
+    ns2:temp "291.73"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.3848248181438232"^^xsd:float ;
+    schema:longitude "-78.37340393239202"^^xsd:float ;
+    schema:name "Ulba" .
+
+<http://WeatherTourist.org/destination/CITY/Urbina> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Urbina, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:25:49" ;
+    ns2:RelativeHumidity 78 ;
+    ns2:pressure 1009 ;
+    ns2:temp "299.84"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "0.9898805809483179"^^xsd:float ;
+    schema:longitude "-78.68872514385005"^^xsd:float ;
+    schema:name "Urbina" .
+
+<http://WeatherTourist.org/destination/CITY/Urdaneta> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Urdaneta, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:16" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1011 ;
+    ns2:temp "295.57"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-3.6394344211967353"^^xsd:float ;
+    schema:longitude "-79.16831395316717"^^xsd:float ;
+    schema:name "Urdaneta" .
+
+<http://WeatherTourist.org/destination/CITY/Valdez> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Valdez, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:44" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1009 ;
+    ns2:temp "299.5"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "1.2144448751397925"^^xsd:float ;
+    schema:longitude "-78.98280215149134"^^xsd:float ;
+    schema:name "Valdez" .
+
+<http://WeatherTourist.org/destination/CITY/Viche> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Viche, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/fewclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:50" ;
+    ns2:RelativeHumidity 59 ;
+    ns2:pressure 1009 ;
+    ns2:temp "300.85"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "0.626849931621713"^^xsd:float ;
+    schema:longitude "-79.54872048040065"^^xsd:float ;
+    schema:name "Viche" .
+
+<http://WeatherTourist.org/destination/CITY/Vilcabamba> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Vilcabamba, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:18" ;
+    ns2:RelativeHumidity 65 ;
+    ns2:pressure 1010 ;
+    ns2:temp "302.16"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-4.279782518845229"^^xsd:float ;
+    schema:longitude "-79.22828827501147"^^xsd:float ;
+    schema:name "Vilcabamba" .
+
+<http://WeatherTourist.org/destination/CITY/Yanayacu> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Yanayacu, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:07" ;
+    ns2:RelativeHumidity 69 ;
+    ns2:pressure 1013 ;
+    ns2:temp "289.72"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.4686892241881409"^^xsd:float ;
+    schema:longitude "-78.67876982541625"^^xsd:float ;
+    schema:name "Yanayacu" .
+
+<http://WeatherTourist.org/destination/CITY/Yasuni> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Yasuni, Orellana, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:45" ;
+    ns2:RelativeHumidity 56 ;
+    ns2:pressure 1007 ;
+    ns2:temp "303.94"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Orellana> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Orellana> ;
+    schema:latitude "-0.768943911019714"^^xsd:float ;
+    schema:longitude "-75.35111914464422"^^xsd:float ;
+    schema:name "Yasuni" .
+
+<http://WeatherTourist.org/destination/CITY/Zapotillo> a dbo:City,
+        schema:TouristDestination ;
+    rdfs:label "Zapotillo, Zapotillo, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:17" ;
+    ns2:RelativeHumidity 45 ;
+    ns2:pressure 1008 ;
+    ns2:temp "303.36"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-4.362287242855844"^^xsd:float ;
+    schema:longitude "-80.25714249772747"^^xsd:float ;
+    schema:name "Zapotillo" .
+
+<http://WeatherTourist.org/destination/LANDMARK/BluGalapagos> a schema:TouristDestination ;
+    rdfs:label "Blu Galapagos, Puerto Ayora, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns3:inDateTime "2022-06-06 15:25:51" ;
+    ns2:RelativeHumidity 87 ;
+    ns2:pressure 1011 ;
+    ns2:temp "296.52"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.742589"^^xsd:float ;
+    schema:longitude "-90.309715"^^xsd:float ;
+    schema:name "Blu Galapagos" .
+
+<http://WeatherTourist.org/destination/LANDMARK/CotopaxiMountain> a schema:TouristDestination ;
+    rdfs:label "Cotopaxi Mountain, Machachi, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/snow> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Snow> ;
+    ns3:inDateTime "2022-06-06 15:27:09" ;
+    ns2:RelativeHumidity 74 ;
+    ns2:pressure 1014 ;
+    ns2:temp "272.01"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.684927"^^xsd:float ;
+    schema:longitude "-78.437053"^^xsd:float ;
+    schema:name "Cotopaxi Mountain" .
+
+<http://WeatherTourist.org/destination/LANDMARK/CotopaxiNationalPark> a schema:TouristDestination ;
+    rdfs:label "Cotopaxi National Park, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:11" ;
+    ns2:RelativeHumidity 74 ;
+    ns2:pressure 1013 ;
+    ns2:temp "281.47"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiNationalPark> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiNationalPark>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.6570051779879084"^^xsd:float ;
+    schema:longitude "-78.46465714129104"^^xsd:float ;
+    schema:name "Cotopaxi National Park" .
+
+<http://WeatherTourist.org/destination/LANDMARK/CotopaxiPungoFincaHotel> a schema:TouristDestination ;
+    rdfs:label "CotopaxiPungo Finca Hotel, Rumipamba, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/lightrain> ;
+    ns3:inDateTime "2022-06-06 15:27:22" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1015 ;
+    ns2:temp "286.69"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.467719"^^xsd:float ;
+    schema:longitude "-78.431679"^^xsd:float ;
+    schema:name "CotopaxiPungo Finca Hotel" .
+
+<http://WeatherTourist.org/destination/LANDMARK/FinchBayGalapagosHotel> a schema:TouristDestination ;
+    rdfs:label "Finch Bay Galapagos Hotel, Puerto Ayora, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns3:inDateTime "2022-06-06 15:27:26" ;
+    ns2:RelativeHumidity 87 ;
+    ns2:pressure 1011 ;
+    ns2:temp "296.59"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.753112"^^xsd:float ;
+    schema:longitude "-90.3115"^^xsd:float ;
+    schema:name "Finch Bay Galapagos Hotel" .
+
+<http://WeatherTourist.org/destination/LANDMARK/GalapagosEcoFriendly> a schema:TouristDestination ;
+    rdfs:label "Galapagos Eco Friendly, Puerto Baquerizo Moreno, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns3:inDateTime "2022-06-06 15:25:54" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1010 ;
+    ns2:temp "298.12"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.905016"^^xsd:float ;
+    schema:longitude "-89.605322"^^xsd:float ;
+    schema:name "Galapagos Eco Friendly" .
+
+<http://WeatherTourist.org/destination/LANDMARK/GalapagosInterpretationCenter> a schema:TouristDestination ;
+    rdfs:label "Galapagos Interpretation Center, Puerto Baquerizo Moreno, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:27:13" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1010 ;
+    ns2:temp "298.06"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.894104"^^xsd:float ;
+    schema:longitude "-89.609494"^^xsd:float ;
+    schema:name "Galapagos Interpretation Center" .
+
+<http://WeatherTourist.org/destination/LANDMARK/GalapagosIslandsHotel> a schema:TouristDestination ;
+    rdfs:label "Galapagos Islands Hotel, Puerto Ayora, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns3:inDateTime "2022-06-06 15:25:51" ;
+    ns2:RelativeHumidity 87 ;
+    ns2:pressure 1011 ;
+    ns2:temp "296.52"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.73895"^^xsd:float ;
+    schema:longitude "-90.313213"^^xsd:float ;
+    schema:name "Galapagos Islands Hotel" .
+
+<http://WeatherTourist.org/destination/LANDMARK/GalapagosNationalPark> a schema:TouristDestination ;
+    rdfs:label "Galapagos National Park, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:27:13" ;
+    ns2:RelativeHumidity 69 ;
+    ns2:pressure 1011 ;
+    ns2:temp "298.44"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.5498003584573473"^^xsd:float ;
+    schema:longitude "-90.90013708011391"^^xsd:float ;
+    schema:name "Galapagos National Park" .
+
+<http://WeatherTourist.org/destination/LANDMARK/GalapagosNative> a schema:TouristDestination ;
+    rdfs:label "Galapagos Native, Puerto Ayora, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns3:inDateTime "2022-06-06 15:27:26" ;
+    ns2:RelativeHumidity 87 ;
+    ns2:pressure 1011 ;
+    ns2:temp "296.59"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.745322"^^xsd:float ;
+    schema:longitude "-90.312467"^^xsd:float ;
+    schema:name "Galapagos Native" .
+
+<http://WeatherTourist.org/destination/LANDMARK/GalapagosSunsetHotel> a schema:TouristDestination ;
+    rdfs:label "Galapagos Sunset Hotel, Puerto Baquerizo Moreno, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/overcastclouds> ;
+    ns3:inDateTime "2022-06-06 15:27:25" ;
+    ns2:RelativeHumidity 73 ;
+    ns2:pressure 1010 ;
+    ns2:temp "298.2"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.900687"^^xsd:float ;
+    schema:longitude "-89.610632"^^xsd:float ;
+    schema:name "Galapagos Sunset Hotel" .
+
+<http://WeatherTourist.org/destination/LANDMARK/GeneralVillamilBeach> a schema:TouristDestination ;
+    rdfs:label "General Villamil Beach, Playas, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:27:15" ;
+    ns2:RelativeHumidity 85 ;
+    ns2:pressure 1009 ;
+    ns2:temp "295.83"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.645505808440353"^^xsd:float ;
+    schema:longitude "-80.38731065869092"^^xsd:float ;
+    schema:name "General Villamil Beach" .
+
+<http://WeatherTourist.org/destination/LANDMARK/GuayaquilChildren'sHospital> a schema:TouristDestination ;
+    rdfs:label "Guayaquil Children's Hospital, Guayaquil, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:27:14" ;
+    ns2:RelativeHumidity 69 ;
+    ns2:pressure 1010 ;
+    ns2:temp "300.12"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.203079"^^xsd:float ;
+    schema:longitude "-79.893475"^^xsd:float ;
+    schema:name "Guayaquil Children's Hospital" .
+
+<http://WeatherTourist.org/destination/LANDMARK/HosteriaPampallacta> a schema:TouristDestination ;
+    rdfs:label "Hosteria Pampallacta, Papallacta, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/lightrain> ;
+    ns3:inDateTime "2022-06-06 15:27:20" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1015 ;
+    ns2:temp "286.34"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.37871"^^xsd:float ;
+    schema:longitude "-78.138774"^^xsd:float ;
+    schema:name "Hosteria Pampallacta" .
+
+<http://WeatherTourist.org/destination/LANDMARK/HotelRodelu> a schema:TouristDestination ;
+    rdfs:label "Hotel Rodelu, Latacunga, Latacunga, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns3:inDateTime "2022-06-06 15:27:23" ;
+    ns2:RelativeHumidity 52 ;
+    ns2:pressure 1026 ;
+    ns2:temp "291.16"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.933006"^^xsd:float ;
+    schema:longitude "-78.6157"^^xsd:float ;
+    schema:name "Hotel Rodelu" .
+
+<http://WeatherTourist.org/destination/LANDMARK/LojaCathedral> a schema:TouristDestination ;
+    rdfs:label "Loja Cathedral, Loja, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:16" ;
+    ns2:RelativeHumidity 31 ;
+    ns2:pressure 1013 ;
+    ns2:temp "299.69"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-3.99648"^^xsd:float ;
+    schema:longitude "-79.20131"^^xsd:float ;
+    schema:name "Loja Cathedral" .
+
+<http://WeatherTourist.org/destination/LANDMARK/LojaCityGates> a schema:TouristDestination ;
+    rdfs:label "Loja City Gates, Loja, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:19" ;
+    ns2:RelativeHumidity 31 ;
+    ns2:pressure 1013 ;
+    ns2:temp "299.72"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-3.989522"^^xsd:float ;
+    schema:longitude "-79.204251"^^xsd:float ;
+    schema:name "Loja City Gates" .
+
+<http://WeatherTourist.org/destination/LANDMARK/LojaMusicMuseum> a schema:TouristDestination ;
+    rdfs:label "Loja Music Museum, Loja, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:16" ;
+    ns2:RelativeHumidity 31 ;
+    ns2:pressure 1013 ;
+    ns2:temp "299.69"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-3.9981"^^xsd:float ;
+    schema:longitude "-79.201163"^^xsd:float ;
+    schema:name "Loja Music Museum" .
+
+<http://WeatherTourist.org/destination/LANDMARK/MercadoSur> a schema:TouristDestination ;
+    rdfs:label "Mercado Sur, Guayaquil, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:27:15" ;
+    ns2:RelativeHumidity 69 ;
+    ns2:pressure 1010 ;
+    ns2:temp "300.18"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.202334"^^xsd:float ;
+    schema:longitude "-79.882429"^^xsd:float ;
+    schema:name "Mercado Sur" .
+
+<http://WeatherTourist.org/destination/LANDMARK/PapallactaChurch> a schema:TouristDestination ;
+    rdfs:label "Papallacta Church, Papallacta, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:20" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1015 ;
+    ns2:temp "286.34"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.376555"^^xsd:float ;
+    schema:longitude "-78.142784"^^xsd:float ;
+    schema:name "Papallacta Church" .
+
+<http://WeatherTourist.org/destination/LANDMARK/ParqueUniversitarioLaArgelia> a schema:TouristDestination ;
+    rdfs:label "Parque Universitario La Argelia, Loja, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:16" ;
+    ns2:RelativeHumidity 31 ;
+    ns2:pressure 1013 ;
+    ns2:temp "299.69"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-3.9994"^^xsd:float ;
+    schema:longitude "-79.203"^^xsd:float ;
+    schema:name "Parque Universitario La Argelia" .
+
+<http://WeatherTourist.org/destination/LANDMARK/Quilotoa> a schema:TouristDestination ;
+    rdfs:label "Quilotoa, Chugchilan, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:10" ;
+    ns2:RelativeHumidity 86 ;
+    ns2:pressure 1012 ;
+    ns2:temp "286.3"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.8578747112648194"^^xsd:float ;
+    schema:longitude "-78.90663207138059"^^xsd:float ;
+    schema:name "Quilotoa" .
+
+<http://WeatherTourist.org/destination/LANDMARK/QuilotoaLagoon> a schema:TouristDestination ;
+    rdfs:label "Quilotoa Lagoon, Chugchilan, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:10" ;
+    ns2:RelativeHumidity 86 ;
+    ns2:pressure 1012 ;
+    ns2:temp "286.3"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.862159"^^xsd:float ;
+    schema:longitude "-78.910835"^^xsd:float ;
+    schema:name "Quilotoa Lagoon" .
+
+<http://WeatherTourist.org/destination/LANDMARK/REECLatacungabyOroVerdeHotels> a schema:TouristDestination ;
+    rdfs:label "REEC Latacunga by Oro Verde Hotels, Latacunga, Latacunga, Cotopaxi Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns3:inDateTime "2022-06-06 15:27:23" ;
+    ns2:RelativeHumidity 52 ;
+    ns2:pressure 1026 ;
+    ns2:temp "291.16"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/CotopaxiProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/CotopaxiProvince>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-0.932234"^^xsd:float ;
+    schema:longitude "-78.616261"^^xsd:float ;
+    schema:name "REEC Latacunga by Oro Verde Hotels" .
+
+<http://WeatherTourist.org/destination/LANDMARK/RoyalDecameronMompiche-AllInclusive> a schema:TouristDestination ;
+    rdfs:label "Royal Decameron Mompiche - All Inclusive, Bolivar, Esmeraldas Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns3:inDateTime "2022-06-06 15:27:24" ;
+    ns2:RelativeHumidity 74 ;
+    ns2:pressure 1010 ;
+    ns2:temp "298.51"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/EsmeraldasProvince> ;
+    schema:latitude "0.491731"^^xsd:float ;
+    schema:longitude "-80.045697"^^xsd:float ;
+    schema:name "Royal Decameron Mompiche - All Inclusive" .
+
+<http://WeatherTourist.org/destination/LANDMARK/SaraguroMarket> a schema:TouristDestination ;
+    rdfs:label "Saraguro Market, Saraguro, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:20" ;
+    ns2:RelativeHumidity 59 ;
+    ns2:pressure 1010 ;
+    ns2:temp "297.01"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-3.62201"^^xsd:float ;
+    schema:longitude "-79.239702"^^xsd:float ;
+    schema:name "Saraguro Market" .
+
+<http://WeatherTourist.org/destination/LANDMARK/TermasElPantanal> a schema:TouristDestination ;
+    rdfs:label "Termas El Pantanal, Papallacta, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/lightrain> ;
+    ns3:inDateTime "2022-06-06 15:27:29" ;
+    ns2:RelativeHumidity 86 ;
+    ns2:pressure 1015 ;
+    ns2:temp "285.64"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.376872"^^xsd:float ;
+    schema:longitude "-78.180976"^^xsd:float ;
+    schema:name "Termas El Pantanal" .
+
+<http://WeatherTourist.org/destination/LANDMARK/TermasdePapallacta> a schema:TouristDestination ;
+    rdfs:label "Termas de Papallacta, Papallacta, Napo, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/lightrain> ;
+    ns3:inDateTime "2022-06-06 15:27:28" ;
+    ns2:RelativeHumidity 87 ;
+    ns2:pressure 1015 ;
+    ns2:temp "285.89"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Napo> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Napo> ;
+    schema:latitude "-0.36279"^^xsd:float ;
+    schema:longitude "-78.148931"^^xsd:float ;
+    schema:name "Termas de Papallacta" .
+
+<http://WeatherTourist.org/destination/LANDMARK/TortugaBayBeach> a schema:TouristDestination ;
+    rdfs:label "Tortuga Bay Beach, Bella Vista, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:27:12" ;
+    ns2:RelativeHumidity 87 ;
+    ns2:pressure 1011 ;
+    ns2:temp "296.58"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.7616426978281295"^^xsd:float ;
+    schema:longitude "-90.3362684941123"^^xsd:float ;
+    schema:name "Tortuga Bay Beach" .
+
+<http://WeatherTourist.org/destination/LANDMARK/VilcabambaChurch> a schema:TouristDestination ;
+    rdfs:label "Vilcabamba Church, Vilcabamba, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:18" ;
+    ns2:RelativeHumidity 65 ;
+    ns2:pressure 1010 ;
+    ns2:temp "303.15"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-4.262117"^^xsd:float ;
+    schema:longitude "-79.222736"^^xsd:float ;
+    schema:name "Vilcabamba Church" .
+
+<http://WeatherTourist.org/destination/LANDMARK/WaterfallofSininkapak> a schema:TouristDestination ;
+    rdfs:label "Waterfall of Sininkapak, Saraguro, Loja Province, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:17" ;
+    ns2:RelativeHumidity 60 ;
+    ns2:pressure 1011 ;
+    ns2:temp "296.69"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/LojaProvince> ;
+    schema:latitude "-3.632289"^^xsd:float ;
+    schema:longitude "-79.221056"^^xsd:float ;
+    schema:name "Waterfall of Sininkapak" .
+
+<http://WeatherTourist.org/destination/NEIGHBORHOOD/Cumanda> a schema:TouristDestination ;
+    rdfs:label "Cumanda, Ambato, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:27:05" ;
+    ns2:RelativeHumidity 36 ;
+    ns2:pressure 1019 ;
+    ns2:temp "293.86"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.2470533132588035"^^xsd:float ;
+    schema:longitude "-78.61666288399744"^^xsd:float ;
+    schema:name "Cumanda" .
+
+<http://WeatherTourist.org/destination/NEIGHBORHOOD/Delia> a schema:TouristDestination ;
+    rdfs:label "Delia, Duran, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:26:01" ;
+    ns2:RelativeHumidity 69 ;
+    ns2:pressure 1010 ;
+    ns2:temp "300.16"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.209541"^^xsd:float ;
+    schema:longitude "-79.81635349999999"^^xsd:float ;
+    schema:name "Delia" .
+
+<http://WeatherTourist.org/destination/NEIGHBORHOOD/Ficoa> a schema:TouristDestination ;
+    rdfs:label "Ficoa, Ambato, Tungurahua, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:27:04" ;
+    ns2:RelativeHumidity 36 ;
+    ns2:pressure 1019 ;
+    ns2:temp "293.07"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Tungurahua> ;
+    schema:latitude "-1.2438591164927344"^^xsd:float ;
+    schema:longitude "-78.64046341697231"^^xsd:float ;
+    schema:name "Ficoa" .
+
+<http://WeatherTourist.org/destination/NEIGHBORHOOD/QuitoHistoricCenter> a schema:TouristDestination ;
+    rdfs:label "Quito Historic Center, Quito, Pichincha, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
+    ns3:inDateTime "2022-06-06 15:26:49" ;
+    ns2:RelativeHumidity 63 ;
+    ns2:pressure 1022 ;
+    ns2:temp "289.5"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Pichincha> ;
+    schema:latitude "-0.21968149866112982"^^xsd:float ;
+    schema:longitude "-78.51275698475546"^^xsd:float ;
+    schema:name "Quito Historic Center" .
+
+<http://WeatherTourist.org/destination/NEIGHBORHOOD/SanSebastiÃ¡n> a schema:TouristDestination ;
+    rdfs:label "San SebastiÃ¡n, Cuenca, Azuay, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:21" ;
+    ns2:RelativeHumidity 88 ;
+    ns2:pressure 1023 ;
+    ns2:temp "287.52"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Azuay> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Azuay>,
+        <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:latitude "-2.886929302476624"^^xsd:float ;
+    schema:longitude "-79.02680572151344"^^xsd:float ;
+    schema:name "San SebastiÃ¡n" .
+
+<http://WeatherTourist.org/destination/NEIGHBORHOOD/Urdesa> a schema:TouristDestination ;
+    rdfs:label "Urdesa, Guayaquil, Guayas, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:57" ;
+    ns2:RelativeHumidity 69 ;
+    ns2:pressure 1010 ;
+    ns2:temp "300.1"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Guayas> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Guayas> ;
+    schema:latitude "-2.162866547445079"^^xsd:float ;
+    schema:longitude "-79.90834126423356"^^xsd:float ;
+    schema:name "Urdesa" .
+
+<http://WeatherTourist.org/destination/REGION/DaphneIslands> a schema:TouristDestination ;
+    rdfs:label "Daphne Islands, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:55" ;
+    ns2:RelativeHumidity 78 ;
+    ns2:pressure 1012 ;
+    ns2:temp "297.49"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.4095701301323356"^^xsd:float ;
+    schema:longitude "-90.35974366962695"^^xsd:float ;
+    schema:name "Daphne Islands" .
+
+<http://WeatherTourist.org/destination/REGION/IslaIsabela> a schema:TouristDestination ;
+    rdfs:label "Isla Isabela, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:53" ;
+    ns2:RelativeHumidity 62 ;
+    ns2:pressure 1011 ;
+    ns2:temp "293.15"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.829237"^^xsd:float ;
+    schema:longitude "-91.1353"^^xsd:float ;
+    schema:name "Isla Isabela" .
+
+<http://WeatherTourist.org/destination/REGION/SantaCruzIsland> a schema:TouristDestination ;
+    rdfs:label "Santa Cruz Island, Galapagos, Ecuador" ;
+    ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
+    ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
+    ns3:inDateTime "2022-06-06 15:25:52" ;
+    ns2:RelativeHumidity 87 ;
+    ns2:pressure 1011 ;
+    ns2:temp "292.47"^^xsd:float ;
+    schema:Country <http://WeatherTourist.org/destination/Ecuador> ;
+    schema:State <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:containedInPlace <http://WeatherTourist.org/destination/Ecuador>,
+        <http://WeatherTourist.org/destination/Galapagos> ;
+    schema:latitude "-0.6332870501456088"^^xsd:float ;
+    schema:longitude "-90.37389323662065"^^xsd:float ;
+    schema:name "Santa Cruz Island" .
+
+<http://WeatherTourist.org/destination/Clear> a ns1:WeatherState ;
+    ns1:hasWeatherCondition "Clear" .
+
+<http://WeatherTourist.org/destination/Snow> a ns1:WeatherState ;
+    ns1:hasWeatherCondition "Clouds",
+        "Rain",
+        "Snow" .
+
+<http://WeatherTourist.org/destination/clearsky> a ns1:WeatherCondition ;
+    ns1:hasWeatherCondition "clear sky" .
+
+<http://WeatherTourist.org/destination/snow> a ns1:WeatherCondition ;
+    ns1:hasWeatherCondition "snow" .
+
+<http://WeatherTourist.org/destination/fewclouds> a ns1:WeatherCondition ;
+    ns1:hasWeatherCondition "few clouds" .
+
+<http://WeatherTourist.org/destination/Thunderstorm> a ns1:WeatherState ;
+    ns1:hasWeatherCondition "Thunderstorm" .
+
+<http://WeatherTourist.org/destination/thunderstorm> a ns1:WeatherCondition ;
+    ns1:hasWeatherCondition "thunderstorm" .
+
+<http://WeatherTourist.org/destination/overcastclouds> a ns1:WeatherCondition ;
+    ns1:hasWeatherCondition "overcast clouds" .
+
+<http://WeatherTourist.org/destination/moderaterain> a ns1:WeatherCondition ;
+    ns1:hasWeatherCondition "moderate rain" .
+
+<http://WeatherTourist.org/destination/scatteredclouds> a ns1:WeatherCondition ;
+    ns1:hasWeatherCondition "scattered clouds" .
+
+<http://WeatherTourist.org/destination/CotopaxiProvince> a schema:State ;
+    rdfs:label " Cotopaxi Province" ;
+    dbo:areaTotal 6.10823e+09 ;
+    rdfs:comment "La Provincia de Cotopaxi (pronunciado [ko.toˈpak.si]) es una de las 24 provincias que conforman la República del Ecuador, situada al centro del país, en la región interandina o Sierra, principalmente sobre la hoya de Patate en el este y en los flancos externos de la cordillera occidental en el oeste. Su capital administrativa es la ciudad de Latacunga, la cual además es su urbe más grande y poblada. Ocupa un territorio de unos 6.085 km², siendo la décima quinta provincia del país por extensión. Limita al norte con Pichincha, al sur con Tungurahua y Bolívar, por el occidente con Los Ríos y al oriente con Napo." ;
+    owl:sameAs <https://dbpedia.org/page/Cotopaxi_Province> ;
+    foaf:name "Cotopaxi" .
+
+<http://WeatherTourist.org/destination/LojaProvince> a schema:State ;
+    rdfs:label " Loja Province" ;
+    dbo:areaTotal 1.10627e+10 ;
+    rdfs:comment "La Provincia de Loja es una de las 24 provincias que conforman la República del Ecuador, situada en el sur del país, en la zona geográfica conocida como región interandina o sierra. Su capital administrativa es la ciudad de Loja, la cual además es su urbe más grande y poblada. Ocupa un territorio de unos 11 066 km², siendo la novena provincia del país por extensión. Limita con las provincia de El Oro al noroeste; con la provincia de Zamora Chinchipe al este; con la provincia del Azuay al norte; al sur con las provincias peruanas de Sullana y Ayabaca y al oeste con las provincias de Zarumilla y Tumbes, también pertenecientes al Perú." ;
+    owl:sameAs <http://dbpedia.org/resource/Loja_Province> ;
+    foaf:name "Loja Province" .
+
+<http://WeatherTourist.org/destination/Azuay> a schema:State ;
+    rdfs:label " Azuay" ;
+    dbo:areaTotal 8.30958e+09 ;
+    rdfs:comment "La provincia de Azuay es una de las 24 provincias que conforman la República de Ecuador, situada en el sur del país, en la zona geográfica conocida como región interandina o sierra, principalmente sobre la hoya de Paute en el noreste y la hoya de Jubones en el suroccidente. Su capital administrativa es la ciudad de Cuenca, la cual además es su urbe más grande y poblada. Ocupa un territorio de unos 8.189 km², siendo la duodécima provincia del país por extensión. Limita al norte con Cañar, al sur con Loja, por el occidente con Guayas, al suroccidente con El Oro, al este con Morona Santiago y al sureste con Zamora Chinchipe." ;
+    owl:sameAs <https://dbpedia.org/page/Azuay_Province> ;
+    foaf:name "Azuay" .
+
+<http://WeatherTourist.org/destination/Carchi> a schema:State ;
+    rdfs:label " Carchi" ;
+    dbo:areaTotal 3.78045e+09 ;
+    rdfs:comment "La provincia de Carchi es una de las 24 provincias que conforman la República del Ecuador, situada en el norte del país, en la zona geográfica conocida como región interandina o sierra, principalmente sobre el nudo de los Pastos al noreste, la hoya de Chota en el sur y en los flancos externos de la cordillera occidental en el oeste. Su capital es la ciudad de Tulcán, la cual además es su urbe más grande y poblada. Ocupa un territorio de unos 3.790 km², siendo la cuarta provincia del país más pequeña por extensión, detrás de Tungurahua, Cañar y Santa Elena. Limita al sur con Imbabura, por el occidente con Esmeraldas, al este con Sucumbíos y por el norte con el departamento de Nariño perteneciente a Colombia." ;
+    owl:sameAs <https://dbpedia.org/page/Carchi_Province> ;
+    foaf:name "Carchi" .
+
+<http://WeatherTourist.org/destination/EsmeraldasProvince> a schema:State ;
+    rdfs:label " Esmeraldas Province" ;
+    dbo:areaTotal 1.61322e+10 ;
+    rdfs:comment "Esmeraldas, también conocida como San Mateo de las Esmeraldas, es una ciudad ecuatoriana; cabecera del cantón homónimo y capital de la Provincia de Esmeraldas, así como la urbe más grande y poblada de la misma. Se localiza en la orilla derecha de la desembocadura del río Esmeraldas, al norte de la región litoral del Ecuador, a una altitud de 15 m s. n. m. y con un clima tropical de sabana de 27 °C en promedio." ;
+    owl:sameAs <https://dbpedia.org/page/Esmeraldas_Province> ;
+    foaf:name "Esmeraldas" .
+
+<http://WeatherTourist.org/destination/Galapagos> a schema:State ;
+    rdfs:label " Galapagos" ;
+    dbo:areaTotal 4.5e+10 ;
+    rdfs:comment "La Provincia de Galápagos es una de las 24 provincias que conforman la República del Ecuador. Está localizada a 1000 km de la costa del Ecuador continental. Su territorio está conformado por el Archipiélago de Colón, también conocido como \"Islas Galápagos\", del cual adopta su nombre. En total son 13 islas grandes, 6 medianas y 107 islotes y rocas las que conforman el archipiélago. La capital administrativa es la ciudad de Puerto Baquerizo Moreno mientras que la urbe más extensa y poblada es Puerto Ayora. Ocupa un territorio de unos 8.010 km²." ;
+    owl:sameAs <http://dbpedia.org/resource/Gal%C3%A1pagos_Province> ;
+    foaf:name "Galápagos Province" .
+
+<http://WeatherTourist.org/destination/Guayas> a schema:State ;
+    rdfs:label " Guayas" ;
+    dbo:areaTotal 1.54304e+10 ;
+    rdfs:comment "Guayas, oficialmente Provincia del Guayas, es una de las 24 provincias que conforman la República del Ecuador, localizada en la región litoral del país, al suroeste del mismo. Su capital es la ciudad de Guayaquil.La provincia es el mayor centro comercial ,Economico e Industrial de Ecuador. Con sus 4,3 millones de habitantes, Guayas es la provincia más poblada del país y contiene el 24,5% de la población de la República. La provincia toma el nombre del río más caudaloso e importante de su territorio, el río Guayas. Con sus 2,5 millones de habitantes (más del 68% de la población provincial), la ciudad de Guayaquil no es sólo la ciudad más poblada de la provincia, sino también lasegunda más poblada de Ecuador." ;
+    owl:sameAs <http://dbpedia.org/resource/Guayas_Province> ;
+    foaf:name "Guayas" .
+
+<http://WeatherTourist.org/destination/Imbabura> a schema:State ;
+    rdfs:label " Imbabura" ;
+    dbo:areaTotal 4.58751e+09 ;
+    rdfs:comment "La Provincia de Imbabura es una de las 24 provincias que conforman la República del Ecuador, situada en el norte del país, en la zona geográfica conocida como región interandina o sierra, principalmente sobre la hoya de Chota en el este y en los flancos externos de la cordillera occidental en el oeste. Su capital administrativa es la ciudad de Ibarra, la cual además es su urbe más grande y poblada y es también conocida como Ibarra la ciudad blanca. Imbabura ocupa un territorio de unos 4.611 km², siendo la décima octava provincia del país por extensión. Limita al norte con Carchi, al sur con Pichincha, por el occidente con Esmeraldas y al este con Sucumbíos." ;
+    owl:sameAs <http://dbpedia.org/resource/Imbabura_Province> ;
+    foaf:name "Imbabura" .
+
+<http://WeatherTourist.org/destination/Manabi> a schema:State ;
+    rdfs:label " Manabi" ;
+    dbo:areaTotal 1.89396e+10 ;
+    rdfs:comment "La Provincia de Manabí es una de las 24 provincias que conforman la República del Ecuador, situada al occidente del país, en la zona geográfica conocida como región Litoral o Costa. Su capital administrativa es la ciudad de Portoviejo. Ocupa un territorio de unos 19.427 km², siendo la cuarta provincia del país por extensión, detrás de Pastaza, Morona Santiago y Orellana. Además del territorio continental, pertenecen a la jurisdicción de la provincia la Isla de la Plata y la Isla Salango. Limita al norte con Esmeraldas, por el este con Santo Domingo de los Tsáchilas y Los Ríos, al sur con Santa Elena, al este y al sur con Guayas y al oeste con el océano Pacífico a lo largo de una franja marítima de unos 350 kilómetros." ;
+    owl:sameAs <http://dbpedia.org/resource/Manab%C3%AD_Province> ;
+    foaf:name "Manabí" .
+
+<http://WeatherTourist.org/destination/Napo> a schema:State ;
+    rdfs:label " Napo" ;
+    dbo:areaTotal 1.25425e+10 ;
+    rdfs:comment "La Provincia de Napo es una de las 24 provincias que conforman la República del Ecuador, situada al centro norte del país, en la zona geográfica conocida como región amazónica, principalmente en los flancos externos de la cordillera occidental en el norte y oeste y la extensa llanura amazónica al sur. Su capital administrativa es la ciudad de Tena la cual es su urbe más grande y poblada siendo uno de los cuatro cantones que conforman la provincia. Ocupa un territorio de unos 12 476 km², siendo la octava provincia del país por extensión. Limita al norte con Sucumbíos, al sur con Pastaza, al oeste con Pichincha, Cotopaxi y Tungurahua y al este con Orellana." ;
+    owl:sameAs <https://dbpedia.org/resource/Napo_Province> ;
+    foaf:name "Napo" .
+
+<http://WeatherTourist.org/destination/Orellana> a schema:State ;
+    rdfs:label " Orellana" ;
+    dbo:areaTotal 2.16921e+10 ;
+    rdfs:comment "La Provincia de Orellana es una de las 24 provincias que conforman la República del Ecuador, situada al nororiente del país, en la zona geográfica conocida como región amazónica. Su capital administrativa es la ciudad de Coca, la cual además es su urbe más grande y poblada. Ocupa un territorio de unos 21.691 km², siendo la tercera provincia del país por extensión, detrás de Pastaza y Morona Santiago. Limita al norte con la provincia de Sucumbíos, por el occidente con la provincia de Napo, por el sur con la provincia de Pastaza y al este con la provincia de Maynas perteneciente al Perú." ;
+    owl:sameAs <https://dbpedia.org/resource/Orellana_Province> ;
+    foaf:name "Orellana" .
+
+<http://WeatherTourist.org/destination/Tungurahua> a schema:State ;
+    rdfs:label " Tungurahua" ;
+    dbo:areaTotal 3.38625e+09 ;
+    rdfs:comment "La Provincia de Tungurahua es una de las 24 provincias que conforman la República del Ecuador, situada en el centro del país, en la zona geográfica conocida como región interandina o sierra, principalmente sobre la hoya de Patate. Su capital administrativa es la ciudad de Ambato, la cual además es su urbe más grande y poblada. Ocupa un territorio de unos 3222 km², siendo la provincia del país más pequeña por extensión. Limita al norte con Cotopaxi, al sur con Chimborazo, por el occidente con Bolívar, al sureste con Morona Santiago, al este con Pastaza y al noreste con Napo." ;
+    owl:sameAs <https://dbpedia.org/resource/Tungurahua_Province> ;
+    foaf:name "Tungurahua" .
+
+<http://WeatherTourist.org/destination/Pichincha> a schema:State ;
+    rdfs:label " Pichincha" ;
+    dbo:areaTotal 9.53591e+09 ;
+    rdfs:comment "La Provincia de Pichincha es una de las 24 provincias que conforman la República del Ecuador, situada en el centro norte del país, en la zona geográfica conocida como región interandina o sierra, principalmente sobre la hoya de Guayllabamba en el este y ramificaciones subandinas en el noroccidente. Su capital administrativa es la ciudad de Quito, la cual además es su urbe más poblada y la capital del país. Es también el principal centro comercial del país. Ocupa un territorio de unos 9692 km², siendo la undécima provincia del país por extensión. Limita al norte con Imbabura, al sur con Cotopaxi, por el occidente con Santo Domingo de los Tsáchilas, al noroccidente con Esmeraldas, al noreste con Sucumbios y al este con Napo." ;
+    owl:sameAs <https://dbpedia.org/resource/Pichincha_Province> ;
+    foaf:name "Pichincha" .
+
+<http://WeatherTourist.org/destination/brokenclouds> a ns1:WeatherCondition ;
+    ns1:hasWeatherCondition "broken clouds" .
+
+<http://WeatherTourist.org/destination/Clouds> a ns1:WeatherState ;
+    ns1:hasWeatherCondition "Clouds" .
+
+<http://WeatherTourist.org/destination/lightrain> a ns1:WeatherCondition ;
+    ns1:hasWeatherCondition "light rain" .
+
+<http://WeatherTourist.org/destination/Rain> a ns1:WeatherState ;
+    ns1:hasWeatherCondition "Rain" .
+
+<http://WeatherTourist.org/destination/Ecuador> a schema:Country ;
+    rdfs:label " Ecuador" ;
+    owl:sameAs <http://dbpedia.org/resource/Ecuador> .
+

@@ -5,8 +5,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
 
 <http://WeatherTourist.org/destination/CITY/AgoyÃ¡n> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "AgoyÃ¡n, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -23,6 +25,7 @@
     schema:name "AgoyÃ¡n" .
 
 <http://WeatherTourist.org/destination/CITY/Alaques> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Alaques, Cotopaxi Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -39,6 +42,7 @@
     schema:name "Alaques" .
 
 <http://WeatherTourist.org/destination/CITY/Amaluza> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Amaluza, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -55,6 +59,7 @@
     schema:name "Amaluza" .
 
 <http://WeatherTourist.org/destination/CITY/Ambato> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Ambato, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -71,6 +76,7 @@
     schema:name "Ambato" .
 
 <http://WeatherTourist.org/destination/CITY/Ambuqui> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Ambuqui, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -87,6 +93,7 @@
     schema:name "Ambuqui" .
 
 <http://WeatherTourist.org/destination/CITY/Ancayacu> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Ancayacu, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -103,6 +110,7 @@
     schema:name "Ancayacu" .
 
 <http://WeatherTourist.org/destination/CITY/AncÃ³n> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "AncÃ³n, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -119,6 +127,7 @@
     schema:name "AncÃ³n" .
 
 <http://WeatherTourist.org/destination/CITY/Angochagua> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Angochagua, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -135,6 +144,7 @@
     schema:name "Angochagua" .
 
 <http://WeatherTourist.org/destination/CITY/Apuela> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Apuela, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -151,6 +161,7 @@
     schema:name "Apuela" .
 
 <http://WeatherTourist.org/destination/CITY/Archidona> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Archidona, Archidona, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -167,6 +178,7 @@
     schema:name "Archidona" .
 
 <http://WeatherTourist.org/destination/CITY/Asuncion> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Asuncion, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -183,6 +195,7 @@
     schema:name "Asuncion" .
 
 <http://WeatherTourist.org/destination/CITY/Baeza> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Baeza, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -199,6 +212,7 @@
     schema:name "Baeza" .
 
 <http://WeatherTourist.org/destination/CITY/Banos> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Banos, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -215,6 +229,7 @@
     schema:name "Banos" .
 
 <http://WeatherTourist.org/destination/CITY/BaÃ±osdeAguaSanta> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "BaÃ±os de Agua Santa, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -231,6 +246,7 @@
     schema:name "BaÃ±os de Agua Santa" .
 
 <http://WeatherTourist.org/destination/CITY/BorbÃ³n> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "BorbÃ³n, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -247,6 +263,7 @@
     schema:name "BorbÃ³n" .
 
 <http://WeatherTourist.org/destination/CITY/Bunche> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Bunche, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -263,6 +280,7 @@
     schema:name "Bunche" .
 
 <http://WeatherTourist.org/destination/CITY/Calceta> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Calceta, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -279,6 +297,7 @@
     schema:name "Calceta" .
 
 <http://WeatherTourist.org/destination/CITY/Calderon> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Calderon, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -295,6 +314,7 @@
     schema:name "Calderon" .
 
 <http://WeatherTourist.org/destination/CITY/Canoa> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Canoa, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -311,6 +331,7 @@
     schema:name "Canoa" .
 
 <http://WeatherTourist.org/destination/CITY/Carolina> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Carolina, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -327,6 +348,7 @@
     schema:name "Carolina" .
 
 <http://WeatherTourist.org/destination/CITY/Chical> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Chical, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -343,6 +365,7 @@
     schema:name "Chical" .
 
 <http://WeatherTourist.org/destination/CITY/Chinca> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Chinca, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/clearsky> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clear> ;
@@ -359,6 +382,7 @@
     schema:name "Chinca" .
 
 <http://WeatherTourist.org/destination/CITY/Chuga> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Chuga, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -375,6 +399,7 @@
     schema:name "Chuga" .
 
 <http://WeatherTourist.org/destination/CITY/ChumblÃ­n> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "ChumblÃ­n, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -391,6 +416,7 @@
     schema:name "ChumblÃ­n" .
 
 <http://WeatherTourist.org/destination/CITY/Chura> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Chura, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -407,6 +433,7 @@
     schema:name "Chura" .
 
 <http://WeatherTourist.org/destination/CITY/Coca> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Coca, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -423,6 +450,7 @@
     schema:name "Coca" .
 
 <http://WeatherTourist.org/destination/CITY/Cojimies> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Cojimies, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -439,6 +467,7 @@
     schema:name "Cojimies" .
 
 <http://WeatherTourist.org/destination/CITY/Concepcion> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Concepcion, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -455,6 +484,7 @@
     schema:name "Concepcion" .
 
 <http://WeatherTourist.org/destination/CITY/Cononaco> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Cononaco, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -471,6 +501,7 @@
     schema:name "Cononaco" .
 
 <http://WeatherTourist.org/destination/CITY/Cosanga> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Cosanga, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -487,6 +518,7 @@
     schema:name "Cosanga" .
 
 <http://WeatherTourist.org/destination/CITY/Cotalo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Cotalo, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -503,6 +535,7 @@
     schema:name "Cotalo" .
 
 <http://WeatherTourist.org/destination/CITY/Cotundo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Cotundo, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -519,6 +552,7 @@
     schema:name "Cotundo" .
 
 <http://WeatherTourist.org/destination/CITY/Crucita> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Crucita, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -535,6 +569,7 @@
     schema:name "Crucita" .
 
 <http://WeatherTourist.org/destination/CITY/Cuenca> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Cuenca, Cuenca, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -551,6 +586,7 @@
     schema:name "Cuenca" .
 
 <http://WeatherTourist.org/destination/CITY/CumbayÃ¡> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "CumbayÃ¡, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
@@ -567,6 +603,7 @@
     schema:name "CumbayÃ¡" .
 
 <http://WeatherTourist.org/destination/CITY/Cuyuja> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Cuyuja, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -583,6 +620,7 @@
     schema:name "Cuyuja" .
 
 <http://WeatherTourist.org/destination/CITY/Daule> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Daule, Daule, Guayas, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -599,6 +637,7 @@
     schema:name "Daule" .
 
 <http://WeatherTourist.org/destination/CITY/Dayuma> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Dayuma, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -615,6 +654,7 @@
     schema:name "Dayuma" .
 
 <http://WeatherTourist.org/destination/CITY/Derna> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Derna, Coca, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -631,6 +671,7 @@
     schema:name "Derna" .
 
 <http://WeatherTourist.org/destination/CITY/Duran> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Duran, Guayas, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -647,6 +688,7 @@
     schema:name "Duran" .
 
 <http://WeatherTourist.org/destination/CITY/ElAngel> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "El Angel, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -663,6 +705,7 @@
     schema:name "El Angel" .
 
 <http://WeatherTourist.org/destination/CITY/ElCarmelo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "El Carmelo, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -679,6 +722,7 @@
     schema:name "El Carmelo" .
 
 <http://WeatherTourist.org/destination/CITY/ElDorado> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "El Dorado, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -695,6 +739,7 @@
     schema:name "El Dorado" .
 
 <http://WeatherTourist.org/destination/CITY/Enokanqui> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Enokanqui, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -711,6 +756,7 @@
     schema:name "Enokanqui" .
 
 <http://WeatherTourist.org/destination/CITY/EstrellaYacu> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Estrella Yacu, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -727,6 +773,7 @@
     schema:name "Estrella Yacu" .
 
 <http://WeatherTourist.org/destination/CITY/Galera> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Galera, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -743,6 +790,7 @@
     schema:name "Galera" .
 
 <http://WeatherTourist.org/destination/CITY/GarcÃ­aMoreno> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "GarcÃ­a Moreno, Imbabura, Ecuador",
         "GarcÃ­a Moreno, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain>,
@@ -770,6 +818,7 @@
     schema:name "GarcÃ­a Moreno" .
 
 <http://WeatherTourist.org/destination/CITY/Giron> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Giron, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -786,6 +835,7 @@
     schema:name "Giron" .
 
 <http://WeatherTourist.org/destination/CITY/Gualel> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Gualel, Loja Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -802,6 +852,7 @@
     schema:name "Gualel" .
 
 <http://WeatherTourist.org/destination/CITY/Guangopolo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Guangopolo, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
@@ -818,6 +869,7 @@
     schema:name "Guangopolo" .
 
 <http://WeatherTourist.org/destination/CITY/Guanguaje> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Guanguaje, Cotopaxi Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -834,6 +886,7 @@
     schema:name "Guanguaje" .
 
 <http://WeatherTourist.org/destination/CITY/Guayaquil> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Guayaquil, Guayaquil, Guayas, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -850,6 +903,7 @@
     schema:name "Guayaquil" .
 
 <http://WeatherTourist.org/destination/CITY/Guayllabamba> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Guayllabamba, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
@@ -866,6 +920,7 @@
     schema:name "Guayllabamba" .
 
 <http://WeatherTourist.org/destination/CITY/GÃ¼el> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "GÃ¼el, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -882,6 +937,7 @@
     schema:name "GÃ¼el" .
 
 <http://WeatherTourist.org/destination/CITY/HaciendaCusubambito> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Hacienda Cusubambito, Cotopaxi Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -898,6 +954,7 @@
     schema:name "Hacienda Cusubambito" .
 
 <http://WeatherTourist.org/destination/CITY/Huaca> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Huaca, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -914,6 +971,7 @@
     schema:name "Huaca" .
 
 <http://WeatherTourist.org/destination/CITY/Ibarra> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Ibarra, Ibarra, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -930,6 +988,7 @@
     schema:name "Ibarra" .
 
 <http://WeatherTourist.org/destination/CITY/Imbaya> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Imbaya, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -946,6 +1005,7 @@
     schema:name "Imbaya" .
 
 <http://WeatherTourist.org/destination/CITY/InÃ©sArango> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "InÃ©s Arango, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -962,6 +1022,7 @@
     schema:name "InÃ©s Arango" .
 
 <http://WeatherTourist.org/destination/CITY/Jama> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Jama, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -978,6 +1039,7 @@
     schema:name "Jama" .
 
 <http://WeatherTourist.org/destination/CITY/JesÃºsMarÃ­a> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "JesÃºs MarÃ­a, Guayas, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -994,6 +1056,7 @@
     schema:name "JesÃºs MarÃ­a" .
 
 <http://WeatherTourist.org/destination/CITY/Jimbura> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Jimbura, Loja Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1010,6 +1073,7 @@
     schema:name "Jimbura" .
 
 <http://WeatherTourist.org/destination/CITY/LaEsperanza> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "La Esperanza, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1026,6 +1090,7 @@
     schema:name "La Esperanza" .
 
 <http://WeatherTourist.org/destination/CITY/LaLibertad> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "La Libertad, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1042,6 +1107,7 @@
     schema:name "La Libertad" .
 
 <http://WeatherTourist.org/destination/CITY/LaPaz> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "La Paz, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1058,6 +1124,7 @@
     schema:name "La Paz" .
 
 <http://WeatherTourist.org/destination/CITY/LaVictoria> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "La Victoria, Guayas, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1074,6 +1141,7 @@
     schema:name "La Victoria" .
 
 <http://WeatherTourist.org/destination/CITY/Latacunga> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Latacunga, Latacunga, Cotopaxi Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1090,6 +1158,7 @@
     schema:name "Latacunga" .
 
 <http://WeatherTourist.org/destination/CITY/Linares> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Linares, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1106,6 +1175,7 @@
     schema:name "Linares" .
 
 <http://WeatherTourist.org/destination/CITY/Lita> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Lita, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1122,6 +1192,7 @@
     schema:name "Lita" .
 
 <http://WeatherTourist.org/destination/CITY/Lluzhapa> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Lluzhapa, Loja Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1138,6 +1209,7 @@
     schema:name "Lluzhapa" .
 
 <http://WeatherTourist.org/destination/CITY/Loreto> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Loreto, Loreto, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1154,6 +1226,7 @@
     schema:name "Loreto" .
 
 <http://WeatherTourist.org/destination/CITY/LosAndes> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Los Andes, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1170,6 +1243,7 @@
     schema:name "Los Andes" .
 
 <http://WeatherTourist.org/destination/CITY/Machalilla> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Machalilla, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1186,6 +1260,7 @@
     schema:name "Machalilla" .
 
 <http://WeatherTourist.org/destination/CITY/Majua> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Majua, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/fewclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1202,6 +1277,7 @@
     schema:name "Majua" .
 
 <http://WeatherTourist.org/destination/CITY/Manta> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Manta, Manta, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1218,6 +1294,7 @@
     schema:name "Manta" .
 
 <http://WeatherTourist.org/destination/CITY/Manu> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Manu, Loja Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1234,6 +1311,7 @@
     schema:name "Manu" .
 
 <http://WeatherTourist.org/destination/CITY/Mashpi> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Mashpi, Pacto, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1250,6 +1328,7 @@
     schema:name "Mashpi" .
 
 <http://WeatherTourist.org/destination/CITY/Mataje> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Mataje, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1266,6 +1345,7 @@
     schema:name "Mataje" .
 
 <http://WeatherTourist.org/destination/CITY/Mindo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Mindo, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1282,6 +1362,7 @@
     schema:name "Mindo" .
 
 <http://WeatherTourist.org/destination/CITY/Mira> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Mira, Mira, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1298,6 +1379,7 @@
     schema:name "Mira" .
 
 <http://WeatherTourist.org/destination/CITY/MonteOlivo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Monte Olivo, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1314,6 +1396,7 @@
     schema:name "Monte Olivo" .
 
 <http://WeatherTourist.org/destination/CITY/Mulalo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Mulalo, Cotopaxi Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1330,6 +1413,7 @@
     schema:name "Mulalo" .
 
 <http://WeatherTourist.org/destination/CITY/Nabon> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Nabon, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1346,6 +1430,7 @@
     schema:name "Nabon" .
 
 <http://WeatherTourist.org/destination/CITY/Nulti> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Nulti, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1362,6 +1447,7 @@
     schema:name "Nulti" .
 
 <http://WeatherTourist.org/destination/CITY/Oasis> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Oasis, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1378,6 +1464,7 @@
     schema:name "Oasis" .
 
 <http://WeatherTourist.org/destination/CITY/Otavalo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Otavalo, Otavalo, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1394,6 +1481,7 @@
     schema:name "Otavalo" .
 
 <http://WeatherTourist.org/destination/CITY/Oyacachi> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Oyacachi, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1410,6 +1498,7 @@
     schema:name "Oyacachi" .
 
 <http://WeatherTourist.org/destination/CITY/Palmas> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Palmas, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1426,6 +1515,7 @@
     schema:name "Palmas" .
 
 <http://WeatherTourist.org/destination/CITY/PaloQuemado> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Palo Quemado, Cotopaxi Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1442,6 +1532,7 @@
     schema:name "Palo Quemado" .
 
 <http://WeatherTourist.org/destination/CITY/Pano> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Pano, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1458,6 +1549,7 @@
     schema:name "Pano" .
 
 <http://WeatherTourist.org/destination/CITY/Pasa> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Pasa, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
@@ -1474,6 +1566,7 @@
     schema:name "Pasa" .
 
 <http://WeatherTourist.org/destination/CITY/Pedernales> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Pedernales, Pedernales, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/fewclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1490,6 +1583,7 @@
     schema:name "Pedernales" .
 
 <http://WeatherTourist.org/destination/CITY/Pifo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Pifo, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1506,6 +1600,7 @@
     schema:name "Pifo" .
 
 <http://WeatherTourist.org/destination/CITY/Platopamba> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Platopamba, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1522,6 +1617,7 @@
     schema:name "Platopamba" .
 
 <http://WeatherTourist.org/destination/CITY/Portoviejo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Portoviejo, Portoviejo, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1538,6 +1634,7 @@
     schema:name "Portoviejo" .
 
 <http://WeatherTourist.org/destination/CITY/Posorja> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Posorja, Guayas, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1554,6 +1651,7 @@
     schema:name "Posorja" .
 
 <http://WeatherTourist.org/destination/CITY/Principal> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Principal, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1570,6 +1668,7 @@
     schema:name "Principal" .
 
 <http://WeatherTourist.org/destination/CITY/Pucayacu> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Pucayacu, Cotopaxi Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1586,6 +1685,7 @@
     schema:name "Pucayacu" .
 
 <http://WeatherTourist.org/destination/CITY/Puembo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Puembo, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1602,6 +1702,7 @@
     schema:name "Puembo" .
 
 <http://WeatherTourist.org/destination/CITY/PuertoAyora> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Puerto Ayora, Galapagos, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1618,6 +1719,7 @@
     schema:name "Puerto Ayora" .
 
 <http://WeatherTourist.org/destination/CITY/PuertoBaquerizoMoreno> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Puerto Baquerizo Moreno, Galapagos, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1634,6 +1736,7 @@
     schema:name "Puerto Baquerizo Moreno" .
 
 <http://WeatherTourist.org/destination/CITY/PuertoCayo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Puerto Cayo, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1650,6 +1753,7 @@
     schema:name "Puerto Cayo" .
 
 <http://WeatherTourist.org/destination/CITY/PuertoLopez> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Puerto Lopez, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1666,6 +1770,7 @@
     schema:name "Puerto Lopez" .
 
 <http://WeatherTourist.org/destination/CITY/PuertoQuito> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Puerto Quito, Puerto Quito, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
@@ -1682,6 +1787,7 @@
     schema:name "Puerto Quito" .
 
 <http://WeatherTourist.org/destination/CITY/PuertoRico> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Puerto Rico, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1698,6 +1804,7 @@
     schema:name "Puerto Rico" .
 
 <http://WeatherTourist.org/destination/CITY/PunÃ¡> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "PunÃ¡, Guayas, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1714,6 +1821,7 @@
     schema:name "PunÃ¡" .
 
 <http://WeatherTourist.org/destination/CITY/Quero> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Quero, Quero, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1730,6 +1838,7 @@
     schema:name "Quero" .
 
 <http://WeatherTourist.org/destination/CITY/Quito> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Quito, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
@@ -1746,6 +1855,7 @@
     schema:name "Quito" .
 
 <http://WeatherTourist.org/destination/CITY/SabaÃ±ag> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "SabaÃ±ag, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1762,6 +1872,7 @@
     schema:name "SabaÃ±ag" .
 
 <http://WeatherTourist.org/destination/CITY/Salango> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Salango, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1778,6 +1889,7 @@
     schema:name "Salango" .
 
 <http://WeatherTourist.org/destination/CITY/Salima> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Salima, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1794,6 +1906,7 @@
     schema:name "Salima" .
 
 <http://WeatherTourist.org/destination/CITY/Salinas> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Salinas, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1810,6 +1923,7 @@
     schema:name "Salinas" .
 
 <http://WeatherTourist.org/destination/CITY/Samborondon> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Samborondon, Guayas, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1826,6 +1940,7 @@
     schema:name "Samborondon" .
 
 <http://WeatherTourist.org/destination/CITY/SanAndrÃ©s> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San AndrÃ©s, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1842,6 +1957,7 @@
     schema:name "San AndrÃ©s" .
 
 <http://WeatherTourist.org/destination/CITY/SanBlas> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San Blas, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1858,6 +1974,7 @@
     schema:name "San Blas" .
 
 <http://WeatherTourist.org/destination/CITY/SanFernando> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San Fernando, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1874,6 +1991,7 @@
     schema:name "San Fernando" .
 
 <http://WeatherTourist.org/destination/CITY/SanGabriel> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San Gabriel, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1890,6 +2008,7 @@
     schema:name "San Gabriel" .
 
 <http://WeatherTourist.org/destination/CITY/SanIsidro> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San Isidro, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1906,6 +2025,7 @@
     schema:name "San Isidro" .
 
 <http://WeatherTourist.org/destination/CITY/SanJacinto> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San Jacinto, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1922,6 +2042,7 @@
     schema:name "San Jacinto" .
 
 <http://WeatherTourist.org/destination/CITY/SanJuan> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San Juan, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -1938,6 +2059,7 @@
     schema:name "San Juan" .
 
 <http://WeatherTourist.org/destination/CITY/SanJuandePastocalle> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San Juan de Pastocalle, Cotopaxi Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1954,6 +2076,7 @@
     schema:name "San Juan de Pastocalle" .
 
 <http://WeatherTourist.org/destination/CITY/SanLorenzo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San Lorenzo, Guayas, Ecuador",
         "San Lorenzo, Manabi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
@@ -1979,6 +2102,7 @@
     schema:name "San Lorenzo" .
 
 <http://WeatherTourist.org/destination/CITY/SanLuis> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San Luis, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -1995,6 +2119,7 @@
     schema:name "San Luis" .
 
 <http://WeatherTourist.org/destination/CITY/SanRafael> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "San Rafael, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2011,6 +2136,7 @@
     schema:name "San Rafael" .
 
 <http://WeatherTourist.org/destination/CITY/SantaRosa> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Santa Rosa, Galapagos, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -2027,6 +2153,7 @@
     schema:name "Santa Rosa" .
 
 <http://WeatherTourist.org/destination/CITY/Secas> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Secas, Pintag, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
@@ -2043,6 +2170,7 @@
     schema:name "Secas" .
 
 <http://WeatherTourist.org/destination/CITY/SelvaAlegre> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Selva Alegre, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2059,6 +2187,7 @@
     schema:name "Selva Alegre" .
 
 <http://WeatherTourist.org/destination/CITY/Shagli> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Shagli, Azuay, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2075,6 +2204,7 @@
     schema:name "Shagli" .
 
 <http://WeatherTourist.org/destination/CITY/Sucre> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Sucre, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2091,6 +2221,7 @@
     schema:name "Sucre" .
 
 <http://WeatherTourist.org/destination/CITY/Sumaco> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Sumaco, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2107,6 +2238,7 @@
     schema:name "Sumaco" .
 
 <http://WeatherTourist.org/destination/CITY/SunimÃ³n> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "SunimÃ³n, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -2123,6 +2255,7 @@
     schema:name "SunimÃ³n" .
 
 <http://WeatherTourist.org/destination/CITY/Tababela> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Tababela, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
@@ -2139,6 +2272,7 @@
     schema:name "Tababela" .
 
 <http://WeatherTourist.org/destination/CITY/Taracoa> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Taracoa, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -2155,6 +2289,7 @@
     schema:name "Taracoa" .
 
 <http://WeatherTourist.org/destination/CITY/Tarifa> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Tarifa, Guayas, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/overcastclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -2171,6 +2306,7 @@
     schema:name "Tarifa" .
 
 <http://WeatherTourist.org/destination/CITY/Tiputini> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Tiputini, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2187,6 +2323,7 @@
     schema:name "Tiputini" .
 
 <http://WeatherTourist.org/destination/CITY/TobarDonos> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Tobar Donos, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2203,6 +2340,7 @@
     schema:name "Tobar Donos" .
 
 <http://WeatherTourist.org/destination/CITY/Tonsupa> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Tonsupa, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/brokenclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -2219,6 +2357,7 @@
     schema:name "Tonsupa" .
 
 <http://WeatherTourist.org/destination/CITY/TufiÃ±o> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "TufiÃ±o, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2235,6 +2374,7 @@
     schema:name "TufiÃ±o" .
 
 <http://WeatherTourist.org/destination/CITY/Tulcan> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Tulcan, Carchi, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -2251,6 +2391,7 @@
     schema:name "Tulcan" .
 
 <http://WeatherTourist.org/destination/CITY/Tumbabiro> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Tumbabiro, Imbabura, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/moderaterain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2267,6 +2408,7 @@
     schema:name "Tumbabiro" .
 
 <http://WeatherTourist.org/destination/CITY/Tumbaco> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Tumbaco, Pichincha, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/thunderstorm> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Thunderstorm> ;
@@ -2283,6 +2425,7 @@
     schema:name "Tumbaco" .
 
 <http://WeatherTourist.org/destination/CITY/TÃ¡lag> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "TÃ¡lag, Napo, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2299,6 +2442,7 @@
     schema:name "TÃ¡lag" .
 
 <http://WeatherTourist.org/destination/CITY/Ulba> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Ulba, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2315,6 +2459,7 @@
     schema:name "Ulba" .
 
 <http://WeatherTourist.org/destination/CITY/Urbina> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Urbina, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2331,6 +2476,7 @@
     schema:name "Urbina" .
 
 <http://WeatherTourist.org/destination/CITY/Urdaneta> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Urdaneta, Loja Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2347,6 +2493,7 @@
     schema:name "Urdaneta" .
 
 <http://WeatherTourist.org/destination/CITY/Valdez> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Valdez, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -2363,6 +2510,7 @@
     schema:name "Valdez" .
 
 <http://WeatherTourist.org/destination/CITY/Viche> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Viche, Esmeraldas Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/fewclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
@@ -2379,6 +2527,7 @@
     schema:name "Viche" .
 
 <http://WeatherTourist.org/destination/CITY/Vilcabamba> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Vilcabamba, Loja Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2395,6 +2544,7 @@
     schema:name "Vilcabamba" .
 
 <http://WeatherTourist.org/destination/CITY/Yanayacu> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Yanayacu, Tungurahua, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2411,6 +2561,7 @@
     schema:name "Yanayacu" .
 
 <http://WeatherTourist.org/destination/CITY/Yasuni> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Yasuni, Orellana, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/lightrain> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Rain> ;
@@ -2427,6 +2578,7 @@
     schema:name "Yasuni" .
 
 <http://WeatherTourist.org/destination/CITY/Zapotillo> a schema:TouristDestination ;
+    a dbo:City ;
     rdfs:label "Zapotillo, Zapotillo, Loja Province, Ecuador" ;
     ns1:WeatherCondition <http://WeatherTourist.org/destination/scatteredclouds> ;
     ns1:WeatherState <http://WeatherTourist.org/destination/Clouds> ;
